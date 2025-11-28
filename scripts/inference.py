@@ -280,7 +280,7 @@ def main():
                 batch_prompts_loop = extract_prompts_loop(batch_prompts, loop_i)
                 # == sampling ==
                 torch.manual_seed(1024)
-                z = torch.randn(len(batch_prompts), vae.out_channels, *latent_size, device=device, dtype=dtype)
+                z = torch.randn(len(batch_prompts), vae.out_channels, *latent_size, device=device, dtype=dtype) # Generate Gaussian Noise!!!
                 masks = (
                     apply_mask_strategy(z, refs, ms, loop_i, align=align) if mask_index is None else None
                 )  # no mask for i2v and v2v

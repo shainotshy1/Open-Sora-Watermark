@@ -104,6 +104,80 @@ class RFLOW:
         res_scale = res_scale.to(z.device, z.dtype)
         return res_scale
 
+    def gen_model_sampler(self, 
+                          model,
+                          model_args,
+                          reverse, 
+                          mask_index, 
+                          image_cfg_scale, 
+                          use_oscillation_guidance_for_image,
+                          timesteps,
+                          z_cond,
+                          z_cond_mask,
+                          y_null):
+        def f(z, t, i, text_gs):
+            # classifier-free guidance
+            if not reverse and mask_index is not None and len(mask_index) > 0:
+                # image_gs
+                image_gs = image_cfg_scale
+                if use_oscillation_guidance_for_image:
+                    image_gs = get_oscillation_gs(image_cfg_scale, i, force_num=self.force_num)
+                if self.scale_image_weight and image_gs > self.initial_image_scale:
+                    scale_method = "incr" if reverse else "decr"
+                    upper_weight = self.scale_weight(
+                        image_gs,
+                        self.initial_image_scale,
+                        i, # TODO: See if we need to account for partial step sizes in RK 4 with the linspace index i
+                        len(timesteps),
+                        scale_method=scale_method,
+                    )
+                    image_gs = self.scale_temporal_weight(z, upper_weight, self.initial_image_scale)
+
+                    # if type(image_gs) is not float:  # dev debug message
+                    #     print(f"step {i}, image_gs:{image_gs[0,0,:,0,0]}")
+
+                z_in = torch.cat([z, z, z], 0)
+                t = torch.cat([t, t, t], 0)
+
+                # cfg, text+image,  image only, nothing
+                z_cond_in = torch.cat([z_cond, z_cond, torch.zeros_like(z_cond).to(z_cond.device).to(z_cond.dtype)], 0)
+                z_cond_mask_in = torch.cat([z_cond_mask, z_cond_mask, z_cond_mask], 0)
+
+                pred = model(
+                    z_in,
+                    t,
+                    cond=z_cond_in,
+                    cond_mask=z_cond_mask_in,
+                    mask_index=mask_index,
+                    y_null=y_null.repeat(
+                        z_in.shape[0], 1, 1, 1
+                    ),  # NOTE: this shall not contain neg prompt info, strictly null
+                    **model_args,
+                ).chunk(2, dim=1)[0]
+                pred_cond, pred_uncond_text, pred_uncond_all = pred.chunk(3, dim=0)
+                v_pred = (
+                    pred_uncond_all
+                    + image_gs * (pred_uncond_text - pred_uncond_all)
+                    + text_gs * (pred_cond - pred_uncond_text)
+                )
+            elif not reverse:
+                z_in = torch.cat([z, z], 0)
+                t = torch.cat([t, t], 0)
+                pred = model(z_in, t, **model_args).chunk(2, dim=1)[0]
+                pred_cond, pred_uncond = pred.chunk(2, dim=0)
+                v_pred = pred_uncond + text_gs * (pred_cond - pred_uncond)
+                if self.use_flaw_fix:
+                    v_pred = fix_guidance_flaw(v_pred, pred_cond)
+            else:
+                z_in = torch.cat([z, z], 0)
+                t = torch.cat([t, t], 0)
+                pred = model(z_in, t, **model_args).chunk(2, dim=1)[0]
+                _, pred_uncond = pred.chunk(2, dim=0)
+                v_pred = pred_uncond
+            if reverse: v_pred *= -1
+            return v_pred
+        return f
+    
     def sample(
         self,
         model,
@@ -123,6 +197,7 @@ class RFLOW:
         use_sdedit=False,
         use_oscillation_guidance_for_text=None,
         use_oscillation_guidance_for_image=None,
+        reverse=False
     ):
         if use_oscillation_guidance_for_text is None:
             use_oscillation_guidance_for_text = self.use_oscillation_guidance
@@ -183,7 +258,21 @@ class RFLOW:
             noise_added = noise_added | (mask == 1)
 
         progress_wrap = tqdm if progress else (lambda x: x)
+        
+        if reverse: timesteps = timesteps[::-1]
+            
+        f = self.gen_model_sampler(model,
+                        model_args,
+                        reverse, 
+                        mask_index, 
+                        image_cfg_scale, 
+                        use_oscillation_guidance_for_image,
+                        timesteps,
+                        z_cond,
+                        z_cond_mask,
+                        y_null)
 
+        velocity_cache = []
         for i, t in progress_wrap(enumerate(timesteps)):
             # mask for adding noise
             if mask is not None:  # not for i2v and v2v, need to force mask=None
@@ -193,7 +282,7 @@ class RFLOW:
 
                 mask_t_upper = mask_t >= t.unsqueeze(1)
                 model_args["x_mask"] = mask_t_upper.repeat(2, 1)
-                mask_add_noise = mask_t_upper & ~noise_added
+                mask_add_noise = mask_t_upper & ~noise_added # type: ignore
 
                 z = torch.where(mask_add_noise[:, None, :, None, None], x_noise, x0)
                 noise_added = mask_t_upper
@@ -208,63 +297,47 @@ class RFLOW:
             if use_oscillation_guidance_for_text:
                 text_gs = get_oscillation_gs(guidance_scale, i, force_num=self.force_num)
 
-            # classifier-free guidance
-            if mask_index is not None and len(mask_index) > 0:
-                # image_gs
-                image_gs = image_cfg_scale
-                if use_oscillation_guidance_for_image:
-                    image_gs = get_oscillation_gs(image_cfg_scale, i, force_num=self.force_num)
-                if self.scale_image_weight and image_gs > self.initial_image_scale:
-                    upper_weight = self.scale_weight(
-                        image_gs,
-                        self.initial_image_scale,
-                        i,
-                        len(timesteps),
-                        scale_method="decr",
-                    )
-                    image_gs = self.scale_temporal_weight(z, upper_weight, self.initial_image_scale)
-
-                    # if type(image_gs) is not float:  # dev debug message
-                    #     print(f"step {i}, image_gs:{image_gs[0,0,:,0,0]}")
-
-                z_in = torch.cat([z, z, z], 0)
-                t = torch.cat([t, t, t], 0)
-
-                # cfg, text+image,  image only, nothing
-                z_cond_in = torch.cat([z_cond, z_cond, torch.zeros_like(z_cond).to(z_cond.device).to(z_cond.dtype)], 0)
-                z_cond_mask_in = torch.cat([z_cond_mask, z_cond_mask, z_cond_mask], 0)
-
-                pred = model(
-                    z_in,
-                    t,
-                    cond=z_cond_in,
-                    cond_mask=z_cond_mask_in,
-                    mask_index=mask_index,
-                    y_null=y_null.repeat(
-                        z_in.shape[0], 1, 1, 1
-                    ),  # NOTE: this shall not contain neg prompt info, strictly null
-                    **model_args,
-                ).chunk(2, dim=1)[0]
-                pred_cond, pred_uncond_text, pred_uncond_all = pred.chunk(3, dim=0)
-                v_pred = (
-                    pred_uncond_all
-                    + image_gs * (pred_uncond_text - pred_uncond_all)
-                    + text_gs * (pred_cond - pred_uncond_text)
-                )
+            # update z; Note that the model flips the sign of the slope field when reverse is True so dt must always be positive here
+            if not reverse:
+                dt = timesteps[i] - timesteps[i + 1] if i < len(timesteps) - 1 else timesteps[i]
             else:
-                z_in = torch.cat([z, z], 0)
-                t = torch.cat([t, t], 0)
-                pred = model(z_in, t, **model_args).chunk(2, dim=1)[0]
-                pred_cond, pred_uncond = pred.chunk(2, dim=0)
-                v_pred = pred_uncond + text_gs * (pred_cond - pred_uncond)
-                if self.use_flaw_fix:
-                    v_pred = fix_guidance_flaw(v_pred, pred_cond)
-
-            # update z
-            dt = timesteps[i] - timesteps[i + 1] if i < len(timesteps) - 1 else timesteps[i]
+                dt = timesteps[i] - timesteps[i - 1] if i > 0 else timesteps[i]
             dt = dt / self.num_timesteps
-            z = z + v_pred * dt[:, None, None, None, None]
 
+            h = dt[:, None, None, None, None]
+
+            v_pred = f(z, t, i, text_gs)
+            z = z + v_pred * h # We can just do Euler's method in both directions and this seems reasonably sufficient
+
+            # BELOW IS DIFFERENT ATTEMPTS AT INVERTING THE GENERATION, ALL PERFORMING SIMILARILY TO EULER (ABOVE) - similar performance likely due to model error
+            # if not reverse: 
+            #     v_pred = f(z, t, i, text_gs)
+            #     z = z + v_pred * h # Euler's method for forward prediction since model was trained this way
+            # else: 
+            #     # Solid option: do fixed point iterations solving Implicit-Euler like in https://arxiv.org/html/2411.15843v1
+            #     # I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
+            #     # z0 = z.clone()
+            #     # for _ in range(I):
+            #     #     z = z0 + f(z, t, i, text_gs) * h
+            #     # Higher order accurate explicit integration does not work for forward but could for reverse? So far seems like it is not the move though RIP...
+            #    
+            #     Other option: do high order ODE solver (4th order) 
+            #     v_pred = f(z, t, i, text_gs)
+            #     if i < 3: # RK-4 Prefill
+            #         f0 = v_pred
+            #         k1 = f0
+            #         k2 = f(z + h / 2 * k1, t + dt / 2, i, text_gs)
+            #         k3 = f(z + h / 2 * k2, t + dt / 2, i, text_gs)
+            #         k4 = f(z + h * k3, t + dt, i, text_gs)
+            #         z = z + h * (k1 / 6 + k2 / 3 + k3 / 3 + k4 / 6)
+            #         velocity_cache.insert(0, f0.clone().detach())
+            #     else: # 4th-Order Adams Bashforth
+            #         b0, b1, b2, b3 = 55.0 / 24, -59.0 / 24, 37.0 / 24, -3.0 / 8
+            #         f1, f2, f3 = velocity_cache
+            #         f0 = v_pred
+            #         z = z + h * (b0 * f0 + b1 * f1 + b2 * f2 + b3 * f3)
+            #         velocity_cache.pop()
+            #         velocity_cache.insert(0, f0.clone().detach())
             if mask is not None:
                 z = torch.where(mask_t_upper[:, None, :, None, None], z, x0)
 

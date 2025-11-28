@@ -182,7 +182,7 @@ def write_video_cv2(
 ):
     image_size = (video.size(2), video.size(1))
     fourcc = cv2.VideoWriter_fourcc(
-        *"avc1"
+        *"mp4v"
     )  # NOTE: your opencv must be installed with `conda install -c conda-forge opencv` else the video may not display on browser
     output = cv2.VideoWriter(filename, fourcc, fps, image_size)
     for frame_idx in range(video.size(0)):
