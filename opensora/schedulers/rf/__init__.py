@@ -169,12 +169,9 @@ class RFLOW:
                 if self.use_flaw_fix:
                     v_pred = fix_guidance_flaw(v_pred, pred_cond)
             else:
-                z_in = torch.cat([z, z], 0)
-                t = torch.cat([t, t], 0)
-                pred = model(z_in, t, **model_args).chunk(2, dim=1)[0]
-                _, pred_uncond = pred.chunk(2, dim=0)
-                v_pred = pred_uncond
-            if reverse: v_pred *= -1
+                pred = model(z, t, **model_args).chunk(2, dim=1)[0] #.chunk(2, dim=1)[0]
+                v_pred = -pred
+
             return v_pred
         return f
     
@@ -208,6 +205,8 @@ class RFLOW:
             z_cond = z_cond * z_cond_mask
 
         # if no specific guidance scale is provided, use the default scale when initializing the scheduler
+        if reverse: guidance_scale = 1.0
+
         if guidance_scale is None:
             guidance_scale = self.cfg_scale
         if image_cfg_scale is None:
@@ -217,7 +216,10 @@ class RFLOW:
         # text encoding
         model_args = text_encoder.encode(**text_encoder.tokenize_fn(prompts))
         y_null = text_encoder.null(n)  # [n, 1, 300, 4096] where n is batch size
-        if neg_prompts is None:
+        
+        if reverse:
+            model_args["y"] = y_null
+        elif neg_prompts is None:
             if mask_index is not None and len(mask_index) > 0:
                 model_args["y"] = torch.cat([model_args["y"], y_null, y_null], 0)
             else:
@@ -298,16 +300,22 @@ class RFLOW:
                 text_gs = get_oscillation_gs(guidance_scale, i, force_num=self.force_num)
 
             # update z; Note that the model flips the sign of the slope field when reverse is True so dt must always be positive here
-            if not reverse:
-                dt = timesteps[i] - timesteps[i + 1] if i < len(timesteps) - 1 else timesteps[i]
+            # timesteps are already reversed if reverse=True
+            if i < len(timesteps) - 1:
+                dt = timesteps[i] - timesteps[i + 1]
             else:
-                dt = timesteps[i] - timesteps[i - 1] if i > 0 else timesteps[i]
-            dt = dt / self.num_timesteps
+                dt = timesteps[0] if reverse else timesteps[-1]
+            dt = abs(dt) / self.num_timesteps # type: ignore
 
             h = dt[:, None, None, None, None]
 
-            v_pred = f(z, t, i, text_gs)
-            z = z + v_pred * h # We can just do Euler's method in both directions and this seems reasonably sufficient
+            if reverse:
+                I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
+                z0 = z.clone()
+                for _ in range(I):
+                    z = z0 + f(z, t, i, text_gs) * h
+            else:
+                z = z + f(z, t, i, text_gs) * h # Euler's method
 
             # BELOW IS DIFFERENT ATTEMPTS AT INVERTING THE GENERATION, ALL PERFORMING SIMILARILY TO EULER (ABOVE) - similar performance likely due to model error
             # if not reverse: 

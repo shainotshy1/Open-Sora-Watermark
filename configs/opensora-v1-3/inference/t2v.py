@@ -12,7 +12,7 @@ dtype = "bf16"
 
 model = dict(
     type="STDiT3-XL/2",
-    from_pretrained="/anvil/scratch/x-sdickman/Open-Sora/OpenSora-STDiT-v4-360p",
+    from_pretrained="hpcai-tech/OpenSora-STDiT-v4-360p",
     qk_norm=True,
     enable_flash_attn=False,
     enable_layernorm_kernel=False,
@@ -22,7 +22,7 @@ model = dict(
 )
 vae = dict(
     type="OpenSoraVAE_V1_3",
-    from_pretrained="/anvil/scratch/x-sdickman/Open-Sora/OpenSora-VAE-v1.3",
+    from_pretrained="hpcai-tech/OpenSora-VAE-v1.3",
     z_channels=16,
     micro_batch_size=1,
     micro_batch_size_2d=4,
@@ -35,7 +35,7 @@ vae = dict(
 )
 text_encoder = dict(
     type="t5",
-    from_pretrained="/anvil/scratch/x-sdickman/Open-Sora/t5",
+    from_pretrained="google/t5-v1_1-xxl",
     model_max_length=300,
 )
 scheduler = dict(
@@ -44,6 +44,7 @@ scheduler = dict(
     num_sampling_steps=30,
     cfg_scale=7.5,
     use_oscillation_guidance=True,
-    use_flaw_fix=True,
+    use_flaw_fix=True
+    # from_tf=True
     # transform_scale=2.0,
 )
