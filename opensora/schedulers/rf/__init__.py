@@ -117,7 +117,7 @@ class RFLOW:
                           y_null):
         def f(z, t, i, text_gs):
             # classifier-free guidance
-            if not reverse and mask_index is not None and len(mask_index) > 0:
+            if mask_index is not None and len(mask_index) > 0:
                 # image_gs
                 image_gs = image_cfg_scale
                 if use_oscillation_guidance_for_image:
@@ -160,7 +160,7 @@ class RFLOW:
                     + image_gs * (pred_uncond_text - pred_uncond_all)
                     + text_gs * (pred_cond - pred_uncond_text)
                 )
-            elif not reverse:
+            else:
                 z_in = torch.cat([z, z], 0)
                 t = torch.cat([t, t], 0)
                 pred = model(z_in, t, **model_args).chunk(2, dim=1)[0]
@@ -168,9 +168,10 @@ class RFLOW:
                 v_pred = pred_uncond + text_gs * (pred_cond - pred_uncond)
                 if self.use_flaw_fix:
                     v_pred = fix_guidance_flaw(v_pred, pred_cond)
-            else:
-                pred = model(z, t, **model_args).chunk(2, dim=1)[0] #.chunk(2, dim=1)[0]
-                v_pred = -pred
+            # else:
+            #     pred = model(z, t, **model_args).chunk(2, dim=1)[0]
+            #     v_pred = -pred
+            if reverse: v_pred *= -1
 
             return v_pred
         return f
@@ -217,9 +218,7 @@ class RFLOW:
         model_args = text_encoder.encode(**text_encoder.tokenize_fn(prompts))
         y_null = text_encoder.null(n)  # [n, 1, 300, 4096] where n is batch size
         
-        if reverse:
-            model_args["y"] = y_null
-        elif neg_prompts is None:
+        if neg_prompts is None:
             if mask_index is not None and len(mask_index) > 0:
                 model_args["y"] = torch.cat([model_args["y"], y_null, y_null], 0)
             else:
@@ -309,13 +308,13 @@ class RFLOW:
 
             h = dt[:, None, None, None, None]
 
-            if reverse:
-                I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
-                z0 = z.clone()
-                for _ in range(I):
-                    z = z0 + f(z, t, i, text_gs) * h
-            else:
-                z = z + f(z, t, i, text_gs) * h # Euler's method
+            # if reverse:
+            #     I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
+            #     z0 = z.clone()
+            #     for _ in range(I):
+            #         z = z0 + f(z, t, i, text_gs) * h
+            # else:
+            z = z + f(z, t, i, text_gs) * h # Euler's method
 
             # BELOW IS DIFFERENT ATTEMPTS AT INVERTING THE GENERATION, ALL PERFORMING SIMILARILY TO EULER (ABOVE) - similar performance likely due to model error
             # if not reverse: 
