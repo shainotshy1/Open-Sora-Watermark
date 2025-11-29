@@ -1,6 +1,7 @@
 import argparse
 import torch # type: ignore
 import time
+import pickle
 
 from opensora.datasets.utils import read_from_path
 from opensora.utils.config_utils import read_config
@@ -10,6 +11,13 @@ from opensora.utils.misc import to_torch_dtype
 from opensora.utils.inference_utils import prepare_multi_resolution_info
 from opensora.datasets import save_sample
 from opensora.utils.inference_utils import deflicker, super_resolution
+
+import sys
+# Add the path to your PRC-Watermark folder
+sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+
+from src.prc import Detect, Decode
+import src.pseudogaussians as prc_gaussians
 
 def get_latent_representation(v, vae):
     # need to ensure v has length accepted by vae
@@ -114,37 +122,64 @@ def main():
         reverse=True
     )
 
-    # == Regenerating Video From Inverse Latent === #
-    print("Regenerating video from predicted noise")
-    video = scheduler.sample( # type: ignore
-        model,
-        text_encoder,
-        additional_args=model_args,
-        z=pred_init_latent,
-        prompts=[args.caption],
-        device=device
-    )
-    video = video.squeeze(0) # latent [C, T, H, W]
+    # == Decode PRC Code From Noise Latent == #
+    print(f"Decoding PRC code from noise latent")
+    n = vae.out_channels * latent_size[0] * latent_size[1] * latent_size[2]
+    key_dir = "keys"
+    key_path = f"{key_dir}/prc_key_n_{n}_v2.pkl"
+    with open(key_path, "rb") as f:
+        encoding_key, decoding_key = pickle.load(f)
 
-    # === Decoding Latent to Video === #
-    print("Decoding latent to video")
-    t_cut = video.size(1) // 5 * 5
-    if t_cut < video.size(1):
-        video = video[:, :t_cut]
+    var = 1.5
+    reversed_prc = prc_gaussians.recover_posteriors(pred_init_latent.to(torch.float64).flatten().cpu(), variances=float(var)).flatten().cpu()
+    detection_result = Detect(decoding_key, reversed_prc)
+    decoding_result = (Decode(decoding_key, reversed_prc) is not None)
+    combined_result = detection_result or decoding_result
+    print(f'Detection: {detection_result}; Decoding: {decoding_result}; Combined: {combined_result}')
 
-    video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
+    with open('decoded.txt', 'w') as f:
+        f.write(f'{combined_result}\n')
 
-    save_path = save_sample(
-        video,
-        fps=save_fps,
-        save_path=args.savepath,
-    )
-    if save_path.endswith(".mp4") and cfg.get("deflicker", False): # type: ignore
-        time.sleep(1)
-        save_path = deflicker(save_path)
-    if save_path.endswith(".mp4") and cfg.get("super_resolution", False): # type: ignore
-        time.sleep(1)
-        save_path = super_resolution(save_path, cfg.get("super_resolution"))
+    print(f'Decoded results saved to decoded.txt')
+
+    # Can uncomment the below code to also regenerate the video with the inverted noise
+
+    # # == Regenerating Video From Inverse Latent === #
+    # print("Regenerating video from predicted noise")
+    # use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
+    # use_oscillation_guidance_for_image = cfg.get("use_oscillation_guidance_for_image", None)
+    # video = scheduler.sample( # type: ignore
+    #     model,
+    #     text_encoder,
+    #     additional_args=model_args,
+    #     z=pred_init_latent,
+    #     prompts=[args.caption],
+    #     device=device,
+    #     use_oscillation_guidance_for_text=use_oscillation_guidance_for_text,
+    #     use_oscillation_guidance_for_image=use_oscillation_guidance_for_image,
+    #     image_cfg_scale=None
+    # )
+    # video = video.squeeze(0) # latent [C, T, H, W]
+
+    # # === Decoding Latent to Video === #
+    # print("Decoding latent to video")
+    # t_cut = video.size(1) // 5 * 5
+    # if t_cut < video.size(1):
+    #     video = video[:, :t_cut]
+
+    # video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
+
+    # save_path = save_sample(
+    #     video,
+    #     fps=save_fps,
+    #     save_path=args.savepath,
+    # )
+    # if save_path.endswith(".mp4") and cfg.get("deflicker", False): # type: ignore
+    #     time.sleep(1)
+    #     save_path = deflicker(save_path)
+    # if save_path.endswith(".mp4") and cfg.get("super_resolution", False): # type: ignore
+    #     time.sleep(1)
+    #     save_path = super_resolution(save_path, cfg.get("super_resolution"))
 
     print("Done!")
 

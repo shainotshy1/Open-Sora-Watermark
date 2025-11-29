@@ -300,11 +300,11 @@ class RFLOW:
 
             # update z; Note that the model flips the sign of the slope field when reverse is True so dt must always be positive here
             # timesteps are already reversed if reverse=True
-            if i < len(timesteps) - 1:
-                dt = timesteps[i] - timesteps[i + 1]
+            if not reverse:
+                dt = timesteps[i] - timesteps[i + 1] if i < len(timesteps) - 1 else timesteps[i]
             else:
-                dt = timesteps[0] if reverse else timesteps[-1]
-            dt = abs(dt) / self.num_timesteps # type: ignore
+                dt = timesteps[i] - timesteps[i - 1] if i > 0 else timesteps[i]
+            dt = dt / self.num_timesteps # type: ignore
 
             h = dt[:, None, None, None, None]
 

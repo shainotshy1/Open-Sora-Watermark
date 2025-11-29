@@ -12,6 +12,8 @@ def parse_args(training=False):
     # model config
     parser.add_argument("config", help="model config file path")
 
+    parser.add_argument("--prc", default=None, type=str2bool, help="enable prc watermark") 
+
     # ======================================================
     # General
     # ======================================================

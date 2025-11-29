@@ -9,6 +9,14 @@ from colossalai.cluster import DistCoordinator
 from mmengine.runner import set_random_seed
 from tqdm import tqdm
 
+import sys
+# Add the path to your PRC-Watermark folder
+sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+
+import pickle
+from src.prc import KeyGen, Encode
+import src.pseudogaussians as prc_gaussians
+
 from opensora.acceleration.parallel_states import set_sequence_parallel_group
 from opensora.datasets import save_sample
 from opensora.datasets.aspect import get_image_size, get_num_frames
@@ -275,12 +283,48 @@ def main():
                 )
 
             video_clips = []
+            torch.manual_seed(1024)
             for loop_i in range(loop):
                 # == get prompt for loop i ==
                 batch_prompts_loop = extract_prompts_loop(batch_prompts, loop_i)
+
+                # PRC Watermarking
+                if cfg.get("prc", False):
+                    print("PRC WATERMARKING")
+                    print("VAE.out_channels:", vae.out_channels)
+                    print("latent_size:", latent_size)
+                    n = vae.out_channels * latent_size[0] * latent_size[1] * latent_size[2]
+                    key_dir = "keys"
+                    os.makedirs(key_dir, exist_ok=True)
+                    
+                    key_path = f"{key_dir}/prc_key_n_{n}_v2.pkl"
+                    if not os.path.exists(key_path):
+                        print(f"Generating PRC key for n={n}...")
+                        encoding_key, decoding_key = KeyGen(n, false_positive_rate=1e-6)
+                        with open(key_path, "wb") as f:
+                            pickle.dump((encoding_key, decoding_key), f)
+                    else:
+                        print(f"Loading PRC key for n={n} from {key_path}...")
+                        with open(key_path, "rb") as f:
+                            encoding_key, decoding_key = pickle.load(f)
+
+                    if len(batch_prompts) > 1:
+                        raise NotImplementedError("PRC example code supports batch_size=1 for now")
+
+                    prc_codeword = Encode(encoding_key)
+                    z_flat = prc_gaussians.sample(prc_codeword)
+                    
+                    # Reshape to (Batch, Channels, Time, Height, Width)
+                    z = z_flat.reshape(1, vae.out_channels, *latent_size)
+                    
+                    # Move to correct device and dtype (Open-Sora uses bf16/fp16 usually)
+                    z = z.to(device=device, dtype=dtype)
+                else:
+                    print("NO PRC WATERMARK")
+                    z = torch.randn(len(batch_prompts), vae.out_channels, *latent_size, device=device, dtype=dtype)
+
                 # == sampling ==
-                torch.manual_seed(1024)
-                z = torch.randn(len(batch_prompts), vae.out_channels, *latent_size, device=device, dtype=dtype) # Generate Gaussian Noise!!!
+                # z = torch.randn(len(batch_prompts), vae.out_channels, *latent_size, device=device, dtype=dtype) # Generate Gaussian Noise!!!
                 masks = (
                     apply_mask_strategy(z, refs, ms, loop_i, align=align) if mask_index is None else None
                 )  # no mask for i2v and v2v

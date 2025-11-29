@@ -35,7 +35,7 @@ vae = dict(
 )
 text_encoder = dict(
     type="t5",
-    from_pretrained="google/t5-v1_1-xxl",
+    from_pretrained="DeepFloyd/t5-v1_1-xxl",
     model_max_length=300,
 )
 scheduler = dict(
