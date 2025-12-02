@@ -5,8 +5,8 @@ from opensora.registry import SCHEDULERS
 
 from .rectified_flow import RFlowScheduler
 from .time_sampler import timestep_transform
-import cvxpy as cp
-import numpy as np
+# import cvxpy as cp
+# import numpy as np
 
 def dynamic_thresholding(x, ratio=0.995, base=6.0):
     s = torch.quantile(x.abs().flatten(), ratio)
@@ -270,7 +270,6 @@ class RFLOW:
                         z_cond_mask,
                         y_null)
 
-        velocity_cache = []
         for i, t in progress_wrap(enumerate(timesteps)):
             # mask for adding noise
             if mask is not None:  # not for i2v and v2v, need to force mask=None
@@ -308,7 +307,7 @@ class RFLOW:
             if not reverse:
                 z = z + h * f(z, t, i, text_gs) # Euler's method
             else:
-                z = z - h * f(z, t, i, text_gs) * h # Inverse Euler's method approximation                
+                z = z - h * f(z, t, i, text_gs) # Inverse Euler's method approximation                
                 # A known fast accelerator for fixed point iterations: Anderson acceleration
                 # I = 4 # Number of fixed point iterations
                 # z0 = z.clone()
