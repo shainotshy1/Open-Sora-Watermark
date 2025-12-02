@@ -5,7 +5,8 @@ from opensora.registry import SCHEDULERS
 
 from .rectified_flow import RFlowScheduler
 from .time_sampler import timestep_transform
-
+import cvxpy as cp
+import numpy as np
 
 def dynamic_thresholding(x, ratio=0.995, base=6.0):
     s = torch.quantile(x.abs().flatten(), ratio)
@@ -168,10 +169,6 @@ class RFLOW:
                 v_pred = pred_uncond + text_gs * (pred_cond - pred_uncond)
                 if self.use_flaw_fix:
                     v_pred = fix_guidance_flaw(v_pred, pred_cond)
-            # else:
-            #     pred = model(z, t, **model_args).chunk(2, dim=1)[0]
-            #     v_pred = -pred
-            if reverse: v_pred *= -1
 
             return v_pred
         return f
@@ -308,45 +305,48 @@ class RFLOW:
 
             h = dt[:, None, None, None, None]
 
-            # if reverse:
-            #     I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
-            #     z0 = z.clone()
-            #     for _ in range(I):
-            #         z = z0 + f(z, t, i, text_gs) * h
-            # else:
-            z = z + f(z, t, i, text_gs) * h # Euler's method
+            if not reverse:
+                z = z + h * f(z, t, i, text_gs) # Euler's method
+            else:
+                z = z - h * f(z, t, i, text_gs) * h # Inverse Euler's method approximation                
+                # A known fast accelerator for fixed point iterations: Anderson acceleration
+                # I = 4 # Number of fixed point iterations
+                # z0 = z.clone()
+                # z_list = []
+                # phi_list = []
+                # diffs = []
+                # for i in range(I):
+                #     if i <= 1:
+                #         if i == 0:
+                #             z1 = z0 - f(z0, t, i, text_gs) * h
+                #             z_list.append(z1)
+                #         else:
+                #             z2 = phi_list[-1] # This is just the fixed point iteration from i == 0 (c is vacuously 1)
+                #             z_list.append(z2)
+                #     else:
+                #         A = np.vstack(diffs)
+                #         c = cp.Variable(A.shape[0])
+                #         ones = np.ones(c.shape)
+                #         constraints = [
+                #             c @ ones == 1,
+                #         ]
+                #         objective = cp.norm(A.T @ c, 2) ** 2
+                #         problem = cp.Problem(cp.Minimize(objective), constraints)
+                #         problem.solve(solver=cp.SCS)
+                #         c_scaling = torch.tensor(c.value).reshape([-1] + [1] * len(z0.shape)).to(z0.device)
+                #         tensor_stack = torch.stack(phi_list)
+                #         z_anderson = torch.sum(c_scaling * tensor_stack, dim=0)
+                #         z_list.append(z_anderson) 
 
-            # BELOW IS DIFFERENT ATTEMPTS AT INVERTING THE GENERATION, ALL PERFORMING SIMILARILY TO EULER (ABOVE) - similar performance likely due to model error
-            # if not reverse: 
-            #     v_pred = f(z, t, i, text_gs)
-            #     z = z + v_pred * h # Euler's method for forward prediction since model was trained this way
-            # else: 
-            #     # Solid option: do fixed point iterations solving Implicit-Euler like in https://arxiv.org/html/2411.15843v1
-            #     # I = 4 # Number of fixed point iterations (4 is all they used in the paper above to achieve good results)
-            #     # z0 = z.clone()
-            #     # for _ in range(I):
-            #     #     z = z0 + f(z, t, i, text_gs) * h
-            #     # Higher order accurate explicit integration does not work for forward but could for reverse? So far seems like it is not the move though RIP...
-            #    
-            #     Other option: do high order ODE solver (4th order) 
-            #     v_pred = f(z, t, i, text_gs)
-            #     if i < 3: # RK-4 Prefill
-            #         f0 = v_pred
-            #         k1 = f0
-            #         k2 = f(z + h / 2 * k1, t + dt / 2, i, text_gs)
-            #         k3 = f(z + h / 2 * k2, t + dt / 2, i, text_gs)
-            #         k4 = f(z + h * k3, t + dt, i, text_gs)
-            #         z = z + h * (k1 / 6 + k2 / 3 + k3 / 3 + k4 / 6)
-            #         velocity_cache.insert(0, f0.clone().detach())
-            #     else: # 4th-Order Adams Bashforth
-            #         b0, b1, b2, b3 = 55.0 / 24, -59.0 / 24, 37.0 / 24, -3.0 / 8
-            #         f1, f2, f3 = velocity_cache
-            #         f0 = v_pred
-            #         z = z + h * (b0 * f0 + b1 * f1 + b2 * f2 + b3 * f3)
-            #         velocity_cache.pop()
-            #         velocity_cache.insert(0, f0.clone().detach())
+                #     if i < I - 1: # Don't need extra fixed point iteration for final step
+                #         phi1 = z0 - f(z_list[-1], t, i, text_gs) * h
+                #         phi_list.append(phi1)
+                #         diffs.append((phi_list[-1] - z_list[-1]).cpu().numpy().flatten())
+                    
+                # z = z_list[-1]
+
             if mask is not None:
-                z = torch.where(mask_t_upper[:, None, :, None, None], z, x0)
+                z = torch.where(mask_t_upper[:, None, :, None, None], z, x0) # type: ignore
 
         return z
 

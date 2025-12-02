@@ -145,41 +145,41 @@ def main():
     # Can uncomment the below code to also regenerate the video with the inverted noise
 
     # # == Regenerating Video From Inverse Latent === #
-    # print("Regenerating video from predicted noise")
-    # use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
-    # use_oscillation_guidance_for_image = cfg.get("use_oscillation_guidance_for_image", None)
-    # video = scheduler.sample( # type: ignore
-    #     model,
-    #     text_encoder,
-    #     additional_args=model_args,
-    #     z=pred_init_latent,
-    #     prompts=[args.caption],
-    #     device=device,
-    #     use_oscillation_guidance_for_text=use_oscillation_guidance_for_text,
-    #     use_oscillation_guidance_for_image=use_oscillation_guidance_for_image,
-    #     image_cfg_scale=None
-    # )
-    # video = video.squeeze(0) # latent [C, T, H, W]
+    print("Regenerating video from predicted noise")
+    use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
+    use_oscillation_guidance_for_image = cfg.get("use_oscillation_guidance_for_image", None)
+    video = scheduler.sample( # type: ignore
+        model,
+        text_encoder,
+        additional_args=model_args,
+        z=pred_init_latent,
+        prompts=[args.caption],
+        device=device,
+        use_oscillation_guidance_for_text=use_oscillation_guidance_for_text,
+        use_oscillation_guidance_for_image=use_oscillation_guidance_for_image,
+        image_cfg_scale=None
+    )
+    video = video.squeeze(0) # latent [C, T, H, W]
 
-    # # === Decoding Latent to Video === #
-    # print("Decoding latent to video")
-    # t_cut = video.size(1) // 5 * 5
-    # if t_cut < video.size(1):
-    #     video = video[:, :t_cut]
+    # === Decoding Latent to Video === #
+    print("Decoding latent to video")
+    t_cut = video.size(1) // 5 * 5
+    if t_cut < video.size(1):
+        video = video[:, :t_cut]
 
-    # video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
+    video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
 
-    # save_path = save_sample(
-    #     video,
-    #     fps=save_fps,
-    #     save_path=args.savepath,
-    # )
-    # if save_path.endswith(".mp4") and cfg.get("deflicker", False): # type: ignore
-    #     time.sleep(1)
-    #     save_path = deflicker(save_path)
-    # if save_path.endswith(".mp4") and cfg.get("super_resolution", False): # type: ignore
-    #     time.sleep(1)
-    #     save_path = super_resolution(save_path, cfg.get("super_resolution"))
+    save_path = save_sample(
+        video,
+        fps=save_fps,
+        save_path=args.savepath,
+    )
+    if save_path.endswith(".mp4") and cfg.get("deflicker", False): # type: ignore
+        time.sleep(1)
+        save_path = deflicker(save_path)
+    if save_path.endswith(".mp4") and cfg.get("super_resolution", False): # type: ignore
+        time.sleep(1)
+        save_path = super_resolution(save_path, cfg.get("super_resolution"))
 
     print("Done!")
 
