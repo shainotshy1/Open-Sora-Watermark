@@ -1,0 +1,17 @@
+ratio,filename,detection,decoding,combined
+1x,sample_waterfall_prc_0000.mp4,True,True,True
+0.95x,clipped_47.mp4,True,True,True
+0.90x,clipped_44.mp4,True,True,True
+0.85x,clipped_42.mp4,True,True,True
+0.8x,clipped_39.mp4,True,True,True
+0.75x,clipped_37.mp4,True,True,True
+0.70x,clipped_34.mp4,True,True,True
+0.65x,clipped_32.mp4,True,False,True
+0.60x,clipped_29.mp4,True,False,True
+0.50x,clipped_27.mp4,True,False,True
+0.45x,clipped_25.mp4,True,False,True
+0.40x,clipped_22.mp4,True,False,True
+0.35x,clipped_20.mp4,True,False,True
+0.30x,clipped_17.mp4,False,False,False
+0.25x,clipped_15.mp4,False,False,False
+0.20x,clipped_12.mp4,False,False,False

@@ -11,7 +11,8 @@ from tqdm import tqdm
 
 import sys
 # Add the path to your PRC-Watermark folder
-sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+# sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+sys.path.append("../PRC-Watermark") 
 
 import pickle
 from src.prc import KeyGen, Encode
@@ -283,7 +284,6 @@ def main():
                 )
 
             video_clips = []
-            torch.manual_seed(1024)
             for loop_i in range(loop):
                 # == get prompt for loop i ==
                 batch_prompts_loop = extract_prompts_loop(batch_prompts, loop_i)
