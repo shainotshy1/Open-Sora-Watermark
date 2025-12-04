@@ -125,7 +125,7 @@ def main():
 
     # === Process each video === #
     results = []
-    for vid_idx, v_path in tqdm(args.video_paths, desc="Processing videos"):
+    for vid_idx, v_path in enumerate(tqdm(args.video_paths, desc="Processing videos")):
         # Load video
         v = read_from_path(v_path, image_size, transform_name="resize_crop")
         actual_frames = v.shape[1]

@@ -1,0 +1,2 @@
+filename,detection,decoding,combined
+waterfall_0000.mp4,True,True,True

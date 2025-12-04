@@ -57,7 +57,7 @@ echo "OCT_FRAMES=${OCT_FRAMES}"
 
 # CMD="python scripts/inference.py configs/opensora-v1-2/inference/sample.py"
 CMD="python scripts/inference.py configs/opensora-v1-3/inference/t2v.py"
-CMD_I2V="python scripts/inference_i2v.py configs/opensora-v1-3/inference/v2v.py"
+# CMD_I2V="python scripts/inference_i2v.py configs/opensora-v1-3/inference/v2v.py"
 
 if [[ $CKPT == *"ema"* ]]; then
   parentdir=$(dirname $CKPT)
