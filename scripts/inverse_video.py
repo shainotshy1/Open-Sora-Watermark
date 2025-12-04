@@ -2,6 +2,8 @@ import argparse
 import torch # type: ignore
 import time
 import pickle
+import os
+from tqdm import tqdm
 
 from opensora.datasets.utils import read_from_path
 from opensora.utils.config_utils import read_config
@@ -14,7 +16,7 @@ from opensora.utils.inference_utils import deflicker, super_resolution
 
 import sys
 # Add the path to your PRC-Watermark folder
-sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+sys.path.append("../PRC-Watermark") 
 
 from src.prc import Detect, Decode
 import src.pseudogaussians as prc_gaussians
@@ -39,10 +41,12 @@ def main():
     # === Parse Arguments === # 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("video_path", help="Target video file path")
+    parser.add_argument("video_paths", nargs="+", help="Target video file path(s)")
     parser.add_argument("--config", required=False, default="configs/opensora-v1-3/inference/t2v.py", type=str, help="Model configuration python file")
     parser.add_argument("--caption", required=False, default="", help="Caption for input video")
     parser.add_argument("--savepath", required=False, default="samples/samples/regeneration.mp4", help="Output path for regeneration from predicted noise")
+    parser.add_argument("--expected-frames", type=int, default=None, help="Expected number of video frames for padding (for cropped videos)")
+    parser.add_argument("--output", required=False, default="decoded.txt", help="Output file for decoded results")
 
     args = parser.parse_args()
 
@@ -56,7 +60,6 @@ def main():
     save_fps = cfg.get("save_fps", fps // cfg.get("frame_interval", 1))
 
     # === Read Arguments / Config === #
-    v_path = args.video_path
     image_size = cfg.get("image_size", None)
     if image_size is None:
         resolution = cfg.get("resolution", None)
@@ -66,10 +69,13 @@ def main():
         ), "resolution and aspect_ratio must be provided if image_size is not provided"
         image_size = get_image_size(resolution, aspect_ratio)
     
-    # === Load Video === #
-    print("Loading video")
-    v = read_from_path(v_path, image_size, transform_name="resize_crop")
-    num_frames = v.shape[1]
+    # === Determine num_frames for model building === #
+    if args.expected_frames is not None:
+        num_frames = args.expected_frames
+    else:
+        # Use first video to determine frame count
+        v = read_from_path(args.video_paths[0], image_size, transform_name="resize_crop")
+        num_frames = v.shape[1]
 
     # === Build VAE === #
     print("Building VAE")
@@ -105,42 +111,60 @@ def main():
     )
     text_encoder.y_embedder = model.y_embedder  # type: ignore # HACK: for classifier-free guidance
 
-    # === Extract Video Latent === #
-    print("Extracting video latent")
-    video_latent = get_latent_representation(v, vae)
-
-    # === Invert Video Latent Into Noise === #
-    print(f"Inverting video latent into initial noise latent")
-    blank_prompt = [""]
-    pred_init_latent = scheduler.sample( # type: ignore
-        model,
-        text_encoder,
-        additional_args=model_args,
-        z=video_latent,
-        prompts=blank_prompt,
-        device=device,
-        reverse=True
-    )
-
-    # == Decode PRC Code From Noise Latent == #
-    print(f"Decoding PRC code from noise latent")
+    # === Load PRC keys === #
     n = vae.out_channels * latent_size[0] * latent_size[1] * latent_size[2]
+    print(f"Loading PRC key (n={n})")
     key_dir = "keys"
     key_path = f"{key_dir}/prc_key_n_{n}_v2.pkl"
     with open(key_path, "rb") as f:
         encoding_key, decoding_key = pickle.load(f)
 
-    var = 1.5
-    reversed_prc = prc_gaussians.recover_posteriors(pred_init_latent.to(torch.float64).flatten().cpu(), variances=float(var)).flatten().cpu()
-    detection_result = Detect(decoding_key, reversed_prc)
-    decoding_result = (Decode(decoding_key, reversed_prc) is not None)
-    combined_result = detection_result or decoding_result
-    print(f'Detection: {detection_result}; Decoding: {decoding_result}; Combined: {combined_result}')
+    # === Process each video === #
+    results = []
+    for v_path in tqdm(args.video_paths, desc="Processing videos"):
+        # Load video
+        v = read_from_path(v_path, image_size, transform_name="resize_crop")
+        actual_frames = v.shape[1]
 
-    with open('decoded.txt', 'w') as f:
-        f.write(f'{combined_result}\n')
+        # Pad video with black frames if cropped
+        if args.expected_frames is not None and actual_frames < args.expected_frames:
+            pad_frames = args.expected_frames - actual_frames
+            padding = torch.zeros(v.size(0), pad_frames, v.size(2), v.size(3), dtype=v.dtype)
+            v = torch.cat([v, padding], dim=1)
 
-    print(f'Decoded results saved to decoded.txt')
+        # Extract video latent
+        video_latent = get_latent_representation(v, vae)
+
+        # Invert video latent into noise
+        blank_prompt = [""]
+        pred_init_latent = scheduler.sample( # type: ignore
+            model,
+            text_encoder,
+            additional_args=model_args,
+            z=video_latent,
+            prompts=blank_prompt,
+            device=device,
+            reverse=True
+        )
+
+        # Decode PRC code from noise latent
+        var = 1.5
+        reversed_prc = prc_gaussians.recover_posteriors(pred_init_latent.to(torch.float64).flatten().cpu(), variances=float(var)).flatten().cpu()
+        detection_result = Detect(decoding_key, reversed_prc)
+        decoding_result = (Decode(decoding_key, reversed_prc) is not None)
+        combined_result = detection_result or decoding_result
+        
+        filename = os.path.basename(v_path)
+        results.append((filename, detection_result, decoding_result, combined_result))
+        print(f'{filename}: Detection={detection_result}, Decoding={decoding_result}, Combined={combined_result}')
+
+    # === Write results === #
+    with open(args.output, 'w') as f:
+        f.write('filename,detection,decoding,combined\n')
+        for filename, detection, decoding, combined in results:
+            f.write(f'{filename},{detection},{decoding},{combined}\n')
+
+    print(f'Decoded results saved to {args.output}')
 
     # Can uncomment the below code to also regenerate the video with the inverted noise
 
