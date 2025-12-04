@@ -204,7 +204,7 @@ def save_sample(
     value_range=(-1, 1),
     force_video=False,
     verbose=True,
-    write_video_backend="cv2",
+    crf=23,
 ):
     """
     Args:
@@ -213,38 +213,72 @@ def save_sample(
     assert x.ndim == 4
 
     if not force_video and x.shape[1] == 1:  # T = 1: save as image
-        with_ext = False
-        for ext in IMG_EXTENSIONS:
-            if save_path.endswith(ext):
-                with_ext = True
-                break
-        if not with_ext:
-            save_path += ".png"
-
+        save_path += ".png"
         x = x.squeeze(1)
         save_image([x], save_path, normalize=normalize, value_range=value_range)
     else:
-        with_ext = False
-        for ext in VID_EXTENSIONS:
-            if save_path.endswith(ext):
-                with_ext = True
-                break
-        if not with_ext:
-            save_path += ".mp4"
-
+        save_path += ".mp4"
         if normalize:
             low, high = value_range
             x.clamp_(min=low, max=high)
             x.sub_(low).div_(max(high - low, 1e-5))
 
-        x = x.mul(255).add_(0.5).clamp_(0, 255).permute(1, 2, 3, 0).to("cpu", torch.uint8)
-        if write_video_backend == "cv2":
-            write_video_cv2(save_path, x, fps=fps)
-        else:
-            write_video(save_path, x, fps=fps, video_codec="h264")
+        x = x.mul_(255).add_(0.5).clamp_(0, 255).permute(1, 2, 3, 0).to("cpu", torch.uint8)
+
+        write_video(save_path, x, fps=fps, video_codec="h264", options={"crf": str(crf)})
     if verbose:
         print(f"Saved to {save_path}")
     return save_path
+
+# def save_sample(
+#     x,
+#     save_path=None,
+#     fps=8,
+#     normalize=True,
+#     value_range=(-1, 1),
+#     force_video=False,
+#     verbose=True,
+#     write_video_backend="cv2",
+# ):
+#     """
+#     Args:
+#         x (Tensor): shape [C, T, H, W]
+#     """
+#     assert x.ndim == 4
+
+#     if not force_video and x.shape[1] == 1:  # T = 1: save as image
+#         with_ext = False
+#         for ext in IMG_EXTENSIONS:
+#             if save_path.endswith(ext):
+#                 with_ext = True
+#                 break
+#         if not with_ext:
+#             save_path += ".png"
+
+#         x = x.squeeze(1)
+#         save_image([x], save_path, normalize=normalize, value_range=value_range)
+#     else:
+#         with_ext = False
+#         for ext in VID_EXTENSIONS:
+#             if save_path.endswith(ext):
+#                 with_ext = True
+#                 break
+#         if not with_ext:
+#             save_path += ".mp4"
+
+#         if normalize:
+#             low, high = value_range
+#             x.clamp_(min=low, max=high)
+#             x.sub_(low).div_(max(high - low, 1e-5))
+
+#         x = x.mul(255).add_(0.5).clamp_(0, 255).permute(1, 2, 3, 0).to("cpu", torch.uint8)
+#         if write_video_backend == "cv2":
+#             write_video_cv2(save_path, x, fps=fps)
+#         else:
+#             write_video(save_path, x, fps=fps, video_codec="h264")
+#     if verbose:
+#         print(f"Saved to {save_path}")
+#     return save_path
 
 
 def center_crop_arr(pil_image, image_size):
