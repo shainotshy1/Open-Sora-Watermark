@@ -11,8 +11,8 @@ from tqdm import tqdm
 
 import sys
 # Add the path to your PRC-Watermark folder
-# sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
-sys.path.append("../PRC-Watermark") 
+sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+# sys.path.append("../PRC-Watermark") 
 
 import pickle
 from src.prc import KeyGen, Encode
@@ -100,7 +100,7 @@ def main():
         image_size = get_image_size(resolution, aspect_ratio)
     num_frames = get_num_frames(cfg.num_frames)
 
-    # == build diffusion model ==
+    # == build diffusion model ==   
     input_size = (num_frames, *image_size)
     latent_size = vae.get_latent_size(input_size)
     model = (

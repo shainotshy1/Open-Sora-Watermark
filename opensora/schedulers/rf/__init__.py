@@ -308,7 +308,7 @@ class RFLOW:
                 z = z + h * f(z, t, i, text_gs) # Euler's method
             else:
                 z = z - h * f(z, t, i, text_gs) # Inverse Euler's method approximation                
-                # A known fast accelerator for fixed point iterations: Anderson acceleration
+                # A known fast accelerator for fixed point iterations: Anderson acceleration (my implementation may have issues... But inverting Euler works so lets leave it)
                 # I = 4 # Number of fixed point iterations
                 # z0 = z.clone()
                 # z_list = []

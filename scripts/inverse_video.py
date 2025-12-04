@@ -16,7 +16,8 @@ from opensora.utils.inference_utils import deflicker, super_resolution
 
 import sys
 # Add the path to your PRC-Watermark folder
-sys.path.append("../PRC-Watermark") 
+sys.path.append("/anvil/scratch/x-sdickman/PRC-Watermark") 
+# sys.path.append("../PRC-Watermark") 
 
 from src.prc import Detect, Decode
 import src.pseudogaussians as prc_gaussians
@@ -41,12 +42,15 @@ def main():
     # === Parse Arguments === # 
     parser = argparse.ArgumentParser()
 
+    # Arguments for PRC decoding target videos
     parser.add_argument("video_paths", nargs="+", help="Target video file path(s)")
     parser.add_argument("--config", required=False, default="configs/opensora-v1-3/inference/t2v.py", type=str, help="Model configuration python file")
-    parser.add_argument("--caption", required=False, default="", help="Caption for input video")
-    parser.add_argument("--savepath", required=False, default="samples/samples/regeneration.mp4", help="Output path for regeneration from predicted noise")
     parser.add_argument("--expected-frames", type=int, default=None, help="Expected number of video frames for padding (for cropped videos)")
     parser.add_argument("--output", required=False, default="decoded.txt", help="Output file for decoded results")
+    
+    # Arguments for noise regeneration
+    parser.add_argument("--captions", nargs="+", required=False, help="Captions for input videos - for use in noise inversion")
+    parser.add_argument("--regenpath", required=False, default="samples/samples/", help="Output path for regeneration from predicted noise")
 
     args = parser.parse_args()
 
@@ -121,7 +125,7 @@ def main():
 
     # === Process each video === #
     results = []
-    for v_path in tqdm(args.video_paths, desc="Processing videos"):
+    for vid_idx, v_path in tqdm(args.video_paths, desc="Processing videos"):
         # Load video
         v = read_from_path(v_path, image_size, transform_name="resize_crop")
         actual_frames = v.shape[1]
@@ -158,6 +162,45 @@ def main():
         results.append((filename, detection_result, decoding_result, combined_result))
         print(f'{filename}: Detection={detection_result}, Decoding={decoding_result}, Combined={combined_result}')
 
+        # Can uncomment the below code to also regenerate the video with the inverted noise
+
+        # # == Regenerating Video From Inverse Latent === #
+        # print("Regenerating video from predicted noise")
+        # use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
+        # use_oscillation_guidance_for_image = cfg.get("use_oscillation_guidance_for_image", None)
+        # video = scheduler.sample( # type: ignore
+        #     model,
+        #     text_encoder,
+        #     additional_args=model_args,
+        #     z=pred_init_latent,
+        #     prompts=[args.captions[vid_idx]],
+        #     device=device,
+        #     use_oscillation_guidance_for_text=use_oscillation_guidance_for_text,
+        #     use_oscillation_guidance_for_image=use_oscillation_guidance_for_image,
+        #     image_cfg_scale=None
+        # )
+        # video = video.squeeze(0) # latent [C, T, H, W]
+
+        # # === Decoding Latent to Video === #
+        # print("Decoding latent to video")
+        # t_cut = video.size(1) // 5 * 5
+        # if t_cut < video.size(1):
+        #     video = video[:, :t_cut]
+
+        # video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
+
+        # save_path = save_sample(
+        #     video,
+        #     fps=save_fps,
+        #     save_path=filename[:-4] + "_" + args.regenpath + "regeneration.mp4", # [:-4] to remove filename mp4 extension
+        # )
+        # if cfg.get("deflicker", False): # type: ignore
+        #     time.sleep(1)
+        #     save_path = deflicker(save_path)
+        # if cfg.get("super_resolution", False): # type: ignore
+        #     time.sleep(1)
+        #     save_path = super_resolution(save_path, cfg.get("super_resolution"))
+
     # === Write results === #
     with open(args.output, 'w') as f:
         f.write('filename,detection,decoding,combined\n')
@@ -165,45 +208,6 @@ def main():
             f.write(f'{filename},{detection},{decoding},{combined}\n')
 
     print(f'Decoded results saved to {args.output}')
-
-    # Can uncomment the below code to also regenerate the video with the inverted noise
-
-    # # == Regenerating Video From Inverse Latent === #
-    print("Regenerating video from predicted noise")
-    use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
-    use_oscillation_guidance_for_image = cfg.get("use_oscillation_guidance_for_image", None)
-    video = scheduler.sample( # type: ignore
-        model,
-        text_encoder,
-        additional_args=model_args,
-        z=pred_init_latent,
-        prompts=[args.caption],
-        device=device,
-        use_oscillation_guidance_for_text=use_oscillation_guidance_for_text,
-        use_oscillation_guidance_for_image=use_oscillation_guidance_for_image,
-        image_cfg_scale=None
-    )
-    video = video.squeeze(0) # latent [C, T, H, W]
-
-    # === Decoding Latent to Video === #
-    print("Decoding latent to video")
-    t_cut = video.size(1) // 5 * 5
-    if t_cut < video.size(1):
-        video = video[:, :t_cut]
-
-    video = vae.decode(video.to(dtype), num_frames=t_cut * 17 // 5).squeeze(0)
-
-    save_path = save_sample(
-        video,
-        fps=save_fps,
-        save_path=args.savepath,
-    )
-    if save_path.endswith(".mp4") and cfg.get("deflicker", False): # type: ignore
-        time.sleep(1)
-        save_path = deflicker(save_path)
-    if save_path.endswith(".mp4") and cfg.get("super_resolution", False): # type: ignore
-        time.sleep(1)
-        save_path = super_resolution(save_path, cfg.get("super_resolution"))
 
     print("Done!")
 
