@@ -1,0 +1,2007 @@
+{
+    "temporal_style": [
+        0.24039545387029648,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-0.mp4",
+                "video_results": 0.23955868184566498
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-1.mp4",
+                "video_results": 0.22792889177799225
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-2.mp4",
+                "video_results": 0.24955005943775177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-3.mp4",
+                "video_results": 0.2332226186990738
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, in super slow motion-4.mp4",
+                "video_results": 0.24105660617351532
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom in-0.mp4",
+                "video_results": 0.2317379117012024
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom in-1.mp4",
+                "video_results": 0.2278980165719986
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom in-2.mp4",
+                "video_results": 0.21414810419082642
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom in-3.mp4",
+                "video_results": 0.25141412019729614
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom in-4.mp4",
+                "video_results": 0.23422417044639587
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom out-0.mp4",
+                "video_results": 0.2352735996246338
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom out-1.mp4",
+                "video_results": 0.23097698390483856
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom out-2.mp4",
+                "video_results": 0.24153585731983185
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom out-3.mp4",
+                "video_results": 0.23581530153751373
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, zoom out-4.mp4",
+                "video_results": 0.2491874098777771
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan left-0.mp4",
+                "video_results": 0.21816496551036835
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan left-1.mp4",
+                "video_results": 0.22487851977348328
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan left-2.mp4",
+                "video_results": 0.2445227950811386
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan left-3.mp4",
+                "video_results": 0.2505890727043152
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan left-4.mp4",
+                "video_results": 0.24452051520347595
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan right-0.mp4",
+                "video_results": 0.24487753212451935
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan right-1.mp4",
+                "video_results": 0.21601331233978271
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan right-2.mp4",
+                "video_results": 0.2495914250612259
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan right-3.mp4",
+                "video_results": 0.23857228457927704
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, pan right-4.mp4",
+                "video_results": 0.24147899448871613
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt up-0.mp4",
+                "video_results": 0.2512933909893036
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt up-1.mp4",
+                "video_results": 0.24713505804538727
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt up-2.mp4",
+                "video_results": 0.24988284707069397
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt up-3.mp4",
+                "video_results": 0.20575779676437378
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt up-4.mp4",
+                "video_results": 0.23148949444293976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt down-0.mp4",
+                "video_results": 0.2266291081905365
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt down-1.mp4",
+                "video_results": 0.249897763133049
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt down-2.mp4",
+                "video_results": 0.26398998498916626
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt down-3.mp4",
+                "video_results": 0.2511862814426422
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, tilt down-4.mp4",
+                "video_results": 0.23121856153011322
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-0.mp4",
+                "video_results": 0.2368583381175995
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-1.mp4",
+                "video_results": 0.24884749948978424
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-2.mp4",
+                "video_results": 0.2257367968559265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-3.mp4",
+                "video_results": 0.2433779537677765
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect-4.mp4",
+                "video_results": 0.22382551431655884
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.23694229125976562
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.2345944046974182
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2393217831850052
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2433425337076187
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.23642267286777496
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, racking focus-0.mp4",
+                "video_results": 0.23581695556640625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, racking focus-1.mp4",
+                "video_results": 0.23408496379852295
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, racking focus-2.mp4",
+                "video_results": 0.2486264854669571
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, racking focus-3.mp4",
+                "video_results": 0.22889582812786102
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand, racking focus-4.mp4",
+                "video_results": 0.22853624820709229
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, in super slow motion-0.mp4",
+                "video_results": 0.2215794324874878
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, in super slow motion-1.mp4",
+                "video_results": 0.17210683226585388
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, in super slow motion-2.mp4",
+                "video_results": 0.20374400913715363
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, in super slow motion-3.mp4",
+                "video_results": 0.1831282377243042
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, in super slow motion-4.mp4",
+                "video_results": 0.20396405458450317
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom in-0.mp4",
+                "video_results": 0.23737293481826782
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom in-1.mp4",
+                "video_results": 0.18228821456432343
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom in-2.mp4",
+                "video_results": 0.19882678985595703
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom in-3.mp4",
+                "video_results": 0.2445782721042633
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom in-4.mp4",
+                "video_results": 0.17773523926734924
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom out-0.mp4",
+                "video_results": 0.22643953561782837
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom out-1.mp4",
+                "video_results": 0.19859617948532104
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom out-2.mp4",
+                "video_results": 0.20206867158412933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom out-3.mp4",
+                "video_results": 0.17725637555122375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, zoom out-4.mp4",
+                "video_results": 0.19306133687496185
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan left-0.mp4",
+                "video_results": 0.18347983062267303
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan left-1.mp4",
+                "video_results": 0.16123908758163452
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan left-2.mp4",
+                "video_results": 0.2440023571252823
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan left-3.mp4",
+                "video_results": 0.19538255035877228
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan left-4.mp4",
+                "video_results": 0.2046240121126175
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan right-0.mp4",
+                "video_results": 0.16950723528862
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan right-1.mp4",
+                "video_results": 0.24103690683841705
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan right-2.mp4",
+                "video_results": 0.23814964294433594
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan right-3.mp4",
+                "video_results": 0.22175677120685577
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, pan right-4.mp4",
+                "video_results": 0.19918334484100342
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt up-0.mp4",
+                "video_results": 0.24827980995178223
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt up-1.mp4",
+                "video_results": 0.21878324449062347
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt up-2.mp4",
+                "video_results": 0.22766000032424927
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt up-3.mp4",
+                "video_results": 0.24912382662296295
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt up-4.mp4",
+                "video_results": 0.23093214631080627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt down-0.mp4",
+                "video_results": 0.22180278599262238
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt down-1.mp4",
+                "video_results": 0.23239466547966003
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt down-2.mp4",
+                "video_results": 0.20393221080303192
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt down-3.mp4",
+                "video_results": 0.21098925173282623
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, tilt down-4.mp4",
+                "video_results": 0.24216793477535248
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, with an intense shaking effect-0.mp4",
+                "video_results": 0.1750773936510086
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, with an intense shaking effect-1.mp4",
+                "video_results": 0.22751115262508392
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, with an intense shaking effect-2.mp4",
+                "video_results": 0.18113163113594055
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, with an intense shaking effect-3.mp4",
+                "video_results": 0.21903060376644135
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, with an intense shaking effect-4.mp4",
+                "video_results": 0.19649064540863037
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.23671966791152954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.2808704078197479
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.21688346564769745
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2477593570947647
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.2061861902475357
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, racking focus-0.mp4",
+                "video_results": 0.20555798709392548
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, racking focus-1.mp4",
+                "video_results": 0.1761838048696518
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, racking focus-2.mp4",
+                "video_results": 0.17688387632369995
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, racking focus-3.mp4",
+                "video_results": 0.2152603268623352
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, racking focus-4.mp4",
+                "video_results": 0.15904028713703156
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, in super slow motion-0.mp4",
+                "video_results": 0.2258961945772171
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, in super slow motion-1.mp4",
+                "video_results": 0.21499571204185486
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, in super slow motion-2.mp4",
+                "video_results": 0.23067133128643036
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, in super slow motion-3.mp4",
+                "video_results": 0.24062132835388184
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, in super slow motion-4.mp4",
+                "video_results": 0.24268990755081177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom in-0.mp4",
+                "video_results": 0.24988335371017456
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom in-1.mp4",
+                "video_results": 0.217842698097229
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom in-2.mp4",
+                "video_results": 0.22212371230125427
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom in-3.mp4",
+                "video_results": 0.245319664478302
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom in-4.mp4",
+                "video_results": 0.2147471010684967
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom out-0.mp4",
+                "video_results": 0.20378544926643372
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom out-1.mp4",
+                "video_results": 0.19462382793426514
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom out-2.mp4",
+                "video_results": 0.20572641491889954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom out-3.mp4",
+                "video_results": 0.21094633638858795
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, zoom out-4.mp4",
+                "video_results": 0.21488304436206818
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan left-0.mp4",
+                "video_results": 0.18936342000961304
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan left-1.mp4",
+                "video_results": 0.18893705308437347
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan left-2.mp4",
+                "video_results": 0.20537038147449493
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan left-3.mp4",
+                "video_results": 0.18081766366958618
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan left-4.mp4",
+                "video_results": 0.17357581853866577
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan right-0.mp4",
+                "video_results": 0.18048377335071564
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan right-1.mp4",
+                "video_results": 0.19106842577457428
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan right-2.mp4",
+                "video_results": 0.19684433937072754
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan right-3.mp4",
+                "video_results": 0.18857058882713318
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, pan right-4.mp4",
+                "video_results": 0.19275660812854767
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt up-0.mp4",
+                "video_results": 0.1872142255306244
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt up-1.mp4",
+                "video_results": 0.17792855203151703
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt up-2.mp4",
+                "video_results": 0.15259863436222076
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt up-3.mp4",
+                "video_results": 0.17559076845645905
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt up-4.mp4",
+                "video_results": 0.17652559280395508
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt down-0.mp4",
+                "video_results": 0.19675953686237335
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt down-1.mp4",
+                "video_results": 0.1581439971923828
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt down-2.mp4",
+                "video_results": 0.17181630432605743
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt down-3.mp4",
+                "video_results": 0.17476370930671692
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, tilt down-4.mp4",
+                "video_results": 0.17794111371040344
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, with an intense shaking effect-0.mp4",
+                "video_results": 0.23981131613254547
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, with an intense shaking effect-1.mp4",
+                "video_results": 0.24079157412052155
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, with an intense shaking effect-2.mp4",
+                "video_results": 0.22505128383636475
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, with an intense shaking effect-3.mp4",
+                "video_results": 0.23047566413879395
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, with an intense shaking effect-4.mp4",
+                "video_results": 0.24439947307109833
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.258171021938324
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.23362095654010773
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2475988268852234
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2418326437473297
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.2485044002532959
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, racking focus-0.mp4",
+                "video_results": 0.219954714179039
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, racking focus-1.mp4",
+                "video_results": 0.18625545501708984
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, racking focus-2.mp4",
+                "video_results": 0.19669610261917114
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, racking focus-3.mp4",
+                "video_results": 0.21802911162376404
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean, racking focus-4.mp4",
+                "video_results": 0.2197657972574234
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, in super slow motion-0.mp4",
+                "video_results": 0.309289813041687
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, in super slow motion-1.mp4",
+                "video_results": 0.31978389620780945
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, in super slow motion-2.mp4",
+                "video_results": 0.33515506982803345
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, in super slow motion-3.mp4",
+                "video_results": 0.31996583938598633
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, in super slow motion-4.mp4",
+                "video_results": 0.32471466064453125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom in-0.mp4",
+                "video_results": 0.2981084883213043
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom in-1.mp4",
+                "video_results": 0.32118645310401917
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom in-2.mp4",
+                "video_results": 0.312477171421051
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom in-3.mp4",
+                "video_results": 0.32415491342544556
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom in-4.mp4",
+                "video_results": 0.3165428638458252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom out-0.mp4",
+                "video_results": 0.29744231700897217
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom out-1.mp4",
+                "video_results": 0.3207304775714874
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom out-2.mp4",
+                "video_results": 0.3066524863243103
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom out-3.mp4",
+                "video_results": 0.3157214820384979
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, zoom out-4.mp4",
+                "video_results": 0.3286789655685425
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan left-0.mp4",
+                "video_results": 0.34168103337287903
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan left-1.mp4",
+                "video_results": 0.3234836161136627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan left-2.mp4",
+                "video_results": 0.3268428444862366
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan left-3.mp4",
+                "video_results": 0.30751514434814453
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan left-4.mp4",
+                "video_results": 0.3359053432941437
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan right-0.mp4",
+                "video_results": 0.34973493218421936
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan right-1.mp4",
+                "video_results": 0.25253409147262573
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan right-2.mp4",
+                "video_results": 0.32151761651039124
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan right-3.mp4",
+                "video_results": 0.3297373950481415
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, pan right-4.mp4",
+                "video_results": 0.33884578943252563
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt up-0.mp4",
+                "video_results": 0.3128187954425812
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt up-1.mp4",
+                "video_results": 0.30027952790260315
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt up-2.mp4",
+                "video_results": 0.30216291546821594
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt up-3.mp4",
+                "video_results": 0.2997702658176422
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt up-4.mp4",
+                "video_results": 0.3200705945491791
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt down-0.mp4",
+                "video_results": 0.25467821955680847
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt down-1.mp4",
+                "video_results": 0.2819839119911194
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt down-2.mp4",
+                "video_results": 0.2728598415851593
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt down-3.mp4",
+                "video_results": 0.3060147166252136
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, tilt down-4.mp4",
+                "video_results": 0.2997570037841797
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-0.mp4",
+                "video_results": 0.2965460419654846
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-1.mp4",
+                "video_results": 0.33967912197113037
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-2.mp4",
+                "video_results": 0.3093646466732025
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-3.mp4",
+                "video_results": 0.3357817232608795
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, with an intense shaking effect-4.mp4",
+                "video_results": 0.31690189242362976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.31000903248786926
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.29831984639167786
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.32920998334884644
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.3211086690425873
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.2878897786140442
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, racking focus-0.mp4",
+                "video_results": 0.2969033122062683
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, racking focus-1.mp4",
+                "video_results": 0.3231140971183777
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, racking focus-2.mp4",
+                "video_results": 0.31385162472724915
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, racking focus-3.mp4",
+                "video_results": 0.3289080560207367
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris, racking focus-4.mp4",
+                "video_results": 0.31860679388046265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, in super slow motion-0.mp4",
+                "video_results": 0.24256104230880737
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, in super slow motion-1.mp4",
+                "video_results": 0.2661855220794678
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, in super slow motion-2.mp4",
+                "video_results": 0.2153407335281372
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, in super slow motion-3.mp4",
+                "video_results": 0.24506929516792297
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, in super slow motion-4.mp4",
+                "video_results": 0.25265970826148987
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom in-0.mp4",
+                "video_results": 0.2915986180305481
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom in-1.mp4",
+                "video_results": 0.29859989881515503
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom in-2.mp4",
+                "video_results": 0.2778480052947998
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom in-3.mp4",
+                "video_results": 0.24834327399730682
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom in-4.mp4",
+                "video_results": 0.250066339969635
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom out-0.mp4",
+                "video_results": 0.26724785566329956
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom out-1.mp4",
+                "video_results": 0.2829834818840027
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom out-2.mp4",
+                "video_results": 0.3245990574359894
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom out-3.mp4",
+                "video_results": 0.28309816122055054
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, zoom out-4.mp4",
+                "video_results": 0.2997150421142578
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan left-0.mp4",
+                "video_results": 0.2440335750579834
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan left-1.mp4",
+                "video_results": 0.23152968287467957
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan left-2.mp4",
+                "video_results": 0.2040165811777115
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan left-3.mp4",
+                "video_results": 0.2533288598060608
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan left-4.mp4",
+                "video_results": 0.18819193542003632
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan right-0.mp4",
+                "video_results": 0.26702311635017395
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan right-1.mp4",
+                "video_results": 0.2648356258869171
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan right-2.mp4",
+                "video_results": 0.26103025674819946
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan right-3.mp4",
+                "video_results": 0.25979721546173096
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, pan right-4.mp4",
+                "video_results": 0.2710203230381012
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt up-0.mp4",
+                "video_results": 0.2482912242412567
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt up-1.mp4",
+                "video_results": 0.27141526341438293
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt up-2.mp4",
+                "video_results": 0.2731286585330963
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt up-3.mp4",
+                "video_results": 0.2713256776332855
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt up-4.mp4",
+                "video_results": 0.29384803771972656
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt down-0.mp4",
+                "video_results": 0.31260764598846436
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt down-1.mp4",
+                "video_results": 0.2995750904083252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt down-2.mp4",
+                "video_results": 0.2784671485424042
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt down-3.mp4",
+                "video_results": 0.306572288274765
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, tilt down-4.mp4",
+                "video_results": 0.3153955638408661
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, with an intense shaking effect-0.mp4",
+                "video_results": 0.2860131859779358
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, with an intense shaking effect-1.mp4",
+                "video_results": 0.2971705198287964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, with an intense shaking effect-2.mp4",
+                "video_results": 0.29148513078689575
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, with an intense shaking effect-3.mp4",
+                "video_results": 0.34098339080810547
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, with an intense shaking effect-4.mp4",
+                "video_results": 0.27987051010131836
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.22596274316310883
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.19755809009075165
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2590446174144745
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.1931506246328354
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.21975445747375488
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, racking focus-0.mp4",
+                "video_results": 0.3076012134552002
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, racking focus-1.mp4",
+                "video_results": 0.32028621435165405
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, racking focus-2.mp4",
+                "video_results": 0.299846887588501
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, racking focus-3.mp4",
+                "video_results": 0.3117823898792267
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset, racking focus-4.mp4",
+                "video_results": 0.30111873149871826
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, in super slow motion-0.mp4",
+                "video_results": 0.1802559345960617
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, in super slow motion-1.mp4",
+                "video_results": 0.17919352650642395
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, in super slow motion-2.mp4",
+                "video_results": 0.16500544548034668
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, in super slow motion-3.mp4",
+                "video_results": 0.253677636384964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, in super slow motion-4.mp4",
+                "video_results": 0.2177579551935196
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom in-0.mp4",
+                "video_results": 0.18950632214546204
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom in-1.mp4",
+                "video_results": 0.14422038197517395
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom in-2.mp4",
+                "video_results": 0.13733473420143127
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom in-3.mp4",
+                "video_results": 0.23837104439735413
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom in-4.mp4",
+                "video_results": 0.2056160867214203
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom out-0.mp4",
+                "video_results": 0.2015267312526703
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom out-1.mp4",
+                "video_results": 0.14714379608631134
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom out-2.mp4",
+                "video_results": 0.18185631930828094
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom out-3.mp4",
+                "video_results": 0.13216127455234528
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, zoom out-4.mp4",
+                "video_results": 0.1631685495376587
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan left-0.mp4",
+                "video_results": 0.16478188335895538
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan left-1.mp4",
+                "video_results": 0.21627572178840637
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan left-2.mp4",
+                "video_results": 0.21435998380184174
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan left-3.mp4",
+                "video_results": 0.21452610194683075
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan left-4.mp4",
+                "video_results": 0.21594712138175964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan right-0.mp4",
+                "video_results": 0.22748620808124542
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan right-1.mp4",
+                "video_results": 0.1796831637620926
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan right-2.mp4",
+                "video_results": 0.1975214034318924
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan right-3.mp4",
+                "video_results": 0.23561042547225952
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, pan right-4.mp4",
+                "video_results": 0.20031556487083435
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt up-0.mp4",
+                "video_results": 0.1451219618320465
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt up-1.mp4",
+                "video_results": 0.2207796275615692
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt up-2.mp4",
+                "video_results": 0.1354348361492157
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt up-3.mp4",
+                "video_results": 0.1904982030391693
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt up-4.mp4",
+                "video_results": 0.1729980856180191
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt down-0.mp4",
+                "video_results": 0.16005414724349976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt down-1.mp4",
+                "video_results": 0.1929248869419098
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt down-2.mp4",
+                "video_results": 0.1777873933315277
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt down-3.mp4",
+                "video_results": 0.21163590252399445
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, tilt down-4.mp4",
+                "video_results": 0.2501949667930603
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, with an intense shaking effect-0.mp4",
+                "video_results": 0.22555407881736755
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, with an intense shaking effect-1.mp4",
+                "video_results": 0.23111236095428467
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, with an intense shaking effect-2.mp4",
+                "video_results": 0.1597776710987091
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, with an intense shaking effect-3.mp4",
+                "video_results": 0.2468142956495285
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, with an intense shaking effect-4.mp4",
+                "video_results": 0.18863238394260406
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.19256332516670227
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.21540172398090363
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2330988496541977
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.23044414818286896
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.2315775603055954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, racking focus-0.mp4",
+                "video_results": 0.21665962040424347
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, racking focus-1.mp4",
+                "video_results": 0.19744420051574707
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, racking focus-2.mp4",
+                "video_results": 0.19083136320114136
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, racking focus-3.mp4",
+                "video_results": 0.1696118414402008
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book, racking focus-4.mp4",
+                "video_results": 0.18539947271347046
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-0.mp4",
+                "video_results": 0.30910414457321167
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-1.mp4",
+                "video_results": 0.2448481023311615
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-2.mp4",
+                "video_results": 0.30350261926651
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-3.mp4",
+                "video_results": 0.2941015660762787
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion-4.mp4",
+                "video_results": 0.28922727704048157
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-0.mp4",
+                "video_results": 0.26715368032455444
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-1.mp4",
+                "video_results": 0.27822017669677734
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-2.mp4",
+                "video_results": 0.29561564326286316
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-3.mp4",
+                "video_results": 0.24145744740962982
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in-4.mp4",
+                "video_results": 0.2681720554828644
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-0.mp4",
+                "video_results": 0.26817288994789124
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-1.mp4",
+                "video_results": 0.25811120867729187
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-2.mp4",
+                "video_results": 0.25823965668678284
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-3.mp4",
+                "video_results": 0.2481471300125122
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out-4.mp4",
+                "video_results": 0.2670303285121918
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-0.mp4",
+                "video_results": 0.2651076912879944
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-1.mp4",
+                "video_results": 0.3307184875011444
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-2.mp4",
+                "video_results": 0.285035103559494
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-3.mp4",
+                "video_results": 0.30159837007522583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left-4.mp4",
+                "video_results": 0.3045346736907959
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-0.mp4",
+                "video_results": 0.30152472853660583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-1.mp4",
+                "video_results": 0.3054158687591553
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-2.mp4",
+                "video_results": 0.3007301688194275
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-3.mp4",
+                "video_results": 0.3028821051120758
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right-4.mp4",
+                "video_results": 0.29285940527915955
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-0.mp4",
+                "video_results": 0.30526185035705566
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-1.mp4",
+                "video_results": 0.29694628715515137
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-2.mp4",
+                "video_results": 0.3081379234790802
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-3.mp4",
+                "video_results": 0.2884480059146881
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up-4.mp4",
+                "video_results": 0.29215937852859497
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-0.mp4",
+                "video_results": 0.283110111951828
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-1.mp4",
+                "video_results": 0.31611716747283936
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-2.mp4",
+                "video_results": 0.2858298718929291
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-3.mp4",
+                "video_results": 0.25125497579574585
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down-4.mp4",
+                "video_results": 0.27501311898231506
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-0.mp4",
+                "video_results": 0.2774830162525177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-1.mp4",
+                "video_results": 0.2723722457885742
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-2.mp4",
+                "video_results": 0.2570049464702606
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-3.mp4",
+                "video_results": 0.2577071785926819
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect-4.mp4",
+                "video_results": 0.24828605353832245
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.26163250207901
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.2636909484863281
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2802790105342865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.28636059165000916
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.25477808713912964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-0.mp4",
+                "video_results": 0.290266215801239
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-1.mp4",
+                "video_results": 0.29313457012176514
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-2.mp4",
+                "video_results": 0.2855071425437927
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-3.mp4",
+                "video_results": 0.27407318353652954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus-4.mp4",
+                "video_results": 0.29020386934280396
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-0.mp4",
+                "video_results": 0.2570074796676636
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-1.mp4",
+                "video_results": 0.19747276604175568
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-2.mp4",
+                "video_results": 0.21890287101268768
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-3.mp4",
+                "video_results": 0.2008325308561325
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion-4.mp4",
+                "video_results": 0.23933978378772736
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-0.mp4",
+                "video_results": 0.21653394401073456
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-1.mp4",
+                "video_results": 0.21860122680664062
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-2.mp4",
+                "video_results": 0.2554054856300354
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-3.mp4",
+                "video_results": 0.2076232135295868
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in-4.mp4",
+                "video_results": 0.2216894030570984
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-0.mp4",
+                "video_results": 0.18973541259765625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-1.mp4",
+                "video_results": 0.22396600246429443
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-2.mp4",
+                "video_results": 0.20647937059402466
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-3.mp4",
+                "video_results": 0.17872892320156097
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out-4.mp4",
+                "video_results": 0.17958718538284302
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-0.mp4",
+                "video_results": 0.22205358743667603
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-1.mp4",
+                "video_results": 0.23952801525592804
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-2.mp4",
+                "video_results": 0.19422312080860138
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-3.mp4",
+                "video_results": 0.20873905718326569
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left-4.mp4",
+                "video_results": 0.2508554458618164
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-0.mp4",
+                "video_results": 0.20173288881778717
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-1.mp4",
+                "video_results": 0.2137487381696701
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-2.mp4",
+                "video_results": 0.23683173954486847
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-3.mp4",
+                "video_results": 0.24855627119541168
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right-4.mp4",
+                "video_results": 0.23440705239772797
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-0.mp4",
+                "video_results": 0.25136005878448486
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-1.mp4",
+                "video_results": 0.21828384697437286
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-2.mp4",
+                "video_results": 0.1671278327703476
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-3.mp4",
+                "video_results": 0.1772790104150772
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up-4.mp4",
+                "video_results": 0.22154323756694794
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-0.mp4",
+                "video_results": 0.22847378253936768
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-1.mp4",
+                "video_results": 0.25048497319221497
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-2.mp4",
+                "video_results": 0.23104259371757507
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-3.mp4",
+                "video_results": 0.21354810893535614
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down-4.mp4",
+                "video_results": 0.24266213178634644
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-0.mp4",
+                "video_results": 0.23299038410186768
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-1.mp4",
+                "video_results": 0.19965636730194092
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-2.mp4",
+                "video_results": 0.22748571634292603
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-3.mp4",
+                "video_results": 0.170738086104393
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect-4.mp4",
+                "video_results": 0.19130469858646393
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.18823687732219696
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.19570884108543396
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.20967261493206024
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2525336444377899
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.16711591184139252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-0.mp4",
+                "video_results": 0.2200697511434555
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-1.mp4",
+                "video_results": 0.2120799720287323
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-2.mp4",
+                "video_results": 0.22062328457832336
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-3.mp4",
+                "video_results": 0.18603447079658508
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus-4.mp4",
+                "video_results": 0.253526896238327
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, in super slow motion-0.mp4",
+                "video_results": 0.2593401074409485
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, in super slow motion-1.mp4",
+                "video_results": 0.26923492550849915
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, in super slow motion-2.mp4",
+                "video_results": 0.25879234075546265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, in super slow motion-3.mp4",
+                "video_results": 0.2561545968055725
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, in super slow motion-4.mp4",
+                "video_results": 0.2525717318058014
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom in-0.mp4",
+                "video_results": 0.2543325126171112
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom in-1.mp4",
+                "video_results": 0.22355958819389343
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom in-2.mp4",
+                "video_results": 0.2450651079416275
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom in-3.mp4",
+                "video_results": 0.2124444544315338
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom in-4.mp4",
+                "video_results": 0.18167532980442047
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom out-0.mp4",
+                "video_results": 0.2234504669904709
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom out-1.mp4",
+                "video_results": 0.23845092952251434
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom out-2.mp4",
+                "video_results": 0.19324834644794464
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom out-3.mp4",
+                "video_results": 0.15778781473636627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, zoom out-4.mp4",
+                "video_results": 0.2194841057062149
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan left-0.mp4",
+                "video_results": 0.2011539787054062
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan left-1.mp4",
+                "video_results": 0.22230364382266998
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan left-2.mp4",
+                "video_results": 0.21397921442985535
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan left-3.mp4",
+                "video_results": 0.16814689338207245
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan left-4.mp4",
+                "video_results": 0.2009226232767105
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan right-0.mp4",
+                "video_results": 0.20207752287387848
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan right-1.mp4",
+                "video_results": 0.18225179612636566
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan right-2.mp4",
+                "video_results": 0.2081904262304306
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan right-3.mp4",
+                "video_results": 0.20742596685886383
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, pan right-4.mp4",
+                "video_results": 0.20723317563533783
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt up-0.mp4",
+                "video_results": 0.25234562158584595
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt up-1.mp4",
+                "video_results": 0.2488889992237091
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt up-2.mp4",
+                "video_results": 0.2356129288673401
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt up-3.mp4",
+                "video_results": 0.22910578548908234
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt up-4.mp4",
+                "video_results": 0.1739666610956192
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt down-0.mp4",
+                "video_results": 0.20794470608234406
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt down-1.mp4",
+                "video_results": 0.18545080721378326
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt down-2.mp4",
+                "video_results": 0.18311859667301178
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt down-3.mp4",
+                "video_results": 0.22253990173339844
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, tilt down-4.mp4",
+                "video_results": 0.18312524259090424
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, with an intense shaking effect-0.mp4",
+                "video_results": 0.19000862538814545
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, with an intense shaking effect-1.mp4",
+                "video_results": 0.20441147685050964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, with an intense shaking effect-2.mp4",
+                "video_results": 0.22450917959213257
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, with an intense shaking effect-3.mp4",
+                "video_results": 0.22652682662010193
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, with an intense shaking effect-4.mp4",
+                "video_results": 0.2088935673236847
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.25483641028404236
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.20878277719020844
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.12203113734722137
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2208271473646164
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.24908244609832764
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, racking focus-0.mp4",
+                "video_results": 0.20823922753334045
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, racking focus-1.mp4",
+                "video_results": 0.19633471965789795
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, racking focus-2.mp4",
+                "video_results": 0.1994406133890152
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, racking focus-3.mp4",
+                "video_results": 0.18930456042289734
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space, racking focus-4.mp4",
+                "video_results": 0.16883735358715057
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-0.mp4",
+                "video_results": 0.2707027494907379
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-1.mp4",
+                "video_results": 0.26445379853248596
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-2.mp4",
+                "video_results": 0.2714988887310028
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-3.mp4",
+                "video_results": 0.25733527541160583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion-4.mp4",
+                "video_results": 0.2617054581642151
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-0.mp4",
+                "video_results": 0.2615363895893097
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-1.mp4",
+                "video_results": 0.2582598626613617
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-2.mp4",
+                "video_results": 0.2522028088569641
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-3.mp4",
+                "video_results": 0.26911652088165283
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in-4.mp4",
+                "video_results": 0.26552605628967285
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-0.mp4",
+                "video_results": 0.2574010491371155
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-1.mp4",
+                "video_results": 0.26422619819641113
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-2.mp4",
+                "video_results": 0.2563430070877075
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-3.mp4",
+                "video_results": 0.2788591980934143
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out-4.mp4",
+                "video_results": 0.2599818706512451
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-0.mp4",
+                "video_results": 0.2643047571182251
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-1.mp4",
+                "video_results": 0.25574547052383423
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-2.mp4",
+                "video_results": 0.2766369581222534
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-3.mp4",
+                "video_results": 0.24272604286670685
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left-4.mp4",
+                "video_results": 0.261113703250885
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-0.mp4",
+                "video_results": 0.21208852529525757
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-1.mp4",
+                "video_results": 0.2656313180923462
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-2.mp4",
+                "video_results": 0.26274818181991577
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-3.mp4",
+                "video_results": 0.24278397858142853
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right-4.mp4",
+                "video_results": 0.24092823266983032
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-0.mp4",
+                "video_results": 0.2585223317146301
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-1.mp4",
+                "video_results": 0.25905975699424744
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-2.mp4",
+                "video_results": 0.26017874479293823
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-3.mp4",
+                "video_results": 0.25850048661231995
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up-4.mp4",
+                "video_results": 0.24731364846229553
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-0.mp4",
+                "video_results": 0.26432347297668457
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-1.mp4",
+                "video_results": 0.27652645111083984
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-2.mp4",
+                "video_results": 0.26112863421440125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-3.mp4",
+                "video_results": 0.2796113193035126
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down-4.mp4",
+                "video_results": 0.2583248019218445
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-0.mp4",
+                "video_results": 0.26757603883743286
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-1.mp4",
+                "video_results": 0.26393842697143555
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-2.mp4",
+                "video_results": 0.2616063356399536
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-3.mp4",
+                "video_results": 0.25646698474884033
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect-4.mp4",
+                "video_results": 0.26096951961517334
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-0.mp4",
+                "video_results": 0.2576068043708801
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-1.mp4",
+                "video_results": 0.25008246302604675
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-2.mp4",
+                "video_results": 0.2568248510360718
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-3.mp4",
+                "video_results": 0.2577521800994873
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective-4.mp4",
+                "video_results": 0.24260465800762177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-0.mp4",
+                "video_results": 0.26944682002067566
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-1.mp4",
+                "video_results": 0.2519073784351349
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-2.mp4",
+                "video_results": 0.2572944760322571
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-3.mp4",
+                "video_results": 0.25898709893226624
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus-4.mp4",
+                "video_results": 0.26051902770996094
+            }
+        ]
+    ]
+}

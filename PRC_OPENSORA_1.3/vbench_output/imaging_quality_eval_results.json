@@ -1,0 +1,1867 @@
+{
+    "imaging_quality": [
+        0.629353915049838,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Close up of grapes on a rotating table.-0.mp4",
+                "video_results": 73.46375118956274
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Close up of grapes on a rotating table.-1.mp4",
+                "video_results": 71.83628751793687
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Close up of grapes on a rotating table.-2.mp4",
+                "video_results": 74.44161021952726
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Close up of grapes on a rotating table.-3.mp4",
+                "video_results": 74.2492814355967
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Close up of grapes on a rotating table.-4.mp4",
+                "video_results": 70.90756957385005
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Turtle swimming in ocean.-0.mp4",
+                "video_results": 69.7369875226702
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Turtle swimming in ocean.-1.mp4",
+                "video_results": 70.89726895702128
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Turtle swimming in ocean.-2.mp4",
+                "video_results": 71.455392642897
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Turtle swimming in ocean.-3.mp4",
+                "video_results": 72.09149808299784
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Turtle swimming in ocean.-4.mp4",
+                "video_results": 70.64398317920919
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A storm trooper vacuuming the beach.-0.mp4",
+                "video_results": 76.37500015570193
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A storm trooper vacuuming the beach.-1.mp4",
+                "video_results": 69.40183639526367
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A storm trooper vacuuming the beach.-2.mp4",
+                "video_results": 64.52817644391742
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A storm trooper vacuuming the beach.-3.mp4",
+                "video_results": 66.9646838441187
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A storm trooper vacuuming the beach.-4.mp4",
+                "video_results": 58.426680428641184
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda standing on a surfboard in the ocean in sunset.-0.mp4",
+                "video_results": 69.70484535061583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda standing on a surfboard in the ocean in sunset.-1.mp4",
+                "video_results": 69.90562734798509
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda standing on a surfboard in the ocean in sunset.-2.mp4",
+                "video_results": 61.0101760552854
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda standing on a surfboard in the ocean in sunset.-3.mp4",
+                "video_results": 62.768155934859294
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda standing on a surfboard in the ocean in sunset.-4.mp4",
+                "video_results": 72.29783272256657
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-0.mp4",
+                "video_results": 69.12170379015865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-1.mp4",
+                "video_results": 70.850568343182
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-2.mp4",
+                "video_results": 59.43195561000279
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-3.mp4",
+                "video_results": 69.35809793277663
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut feeding ducks on a sunny afternoon, reflection from the water.-4.mp4",
+                "video_results": 74.81690558608697
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Two pandas discussing an academic paper.-0.mp4",
+                "video_results": 66.16688599878428
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Two pandas discussing an academic paper.-1.mp4",
+                "video_results": 72.28831980179767
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Two pandas discussing an academic paper.-2.mp4",
+                "video_results": 71.39620325516681
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Two pandas discussing an academic paper.-3.mp4",
+                "video_results": 72.81597900390625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Two pandas discussing an academic paper.-4.mp4",
+                "video_results": 73.63110367132693
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sunset time lapse at the beach with moving clouds and colors in the sky.-0.mp4",
+                "video_results": 63.10230255126953
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sunset time lapse at the beach with moving clouds and colors in the sky.-1.mp4",
+                "video_results": 34.6368131053691
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sunset time lapse at the beach with moving clouds and colors in the sky.-2.mp4",
+                "video_results": 35.8450083051409
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sunset time lapse at the beach with moving clouds and colors in the sky.-3.mp4",
+                "video_results": 53.666082849307934
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sunset time lapse at the beach with moving clouds and colors in the sky.-4.mp4",
+                "video_results": 51.143478004299865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fat rabbit wearing a purple robe walking through a fantasy landscape.-0.mp4",
+                "video_results": 62.38839347995057
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fat rabbit wearing a purple robe walking through a fantasy landscape.-1.mp4",
+                "video_results": 67.1149766104562
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fat rabbit wearing a purple robe walking through a fantasy landscape.-2.mp4",
+                "video_results": 59.3216376791195
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fat rabbit wearing a purple robe walking through a fantasy landscape.-3.mp4",
+                "video_results": 73.30098428531569
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4",
+                "video_results": 68.6699359660246
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A koala bear playing piano in the forest.-0.mp4",
+                "video_results": 74.83580266212931
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A koala bear playing piano in the forest.-1.mp4",
+                "video_results": 70.0998812305684
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A koala bear playing piano in the forest.-2.mp4",
+                "video_results": 69.36034206468231
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A koala bear playing piano in the forest.-3.mp4",
+                "video_results": 65.52673487760583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A koala bear playing piano in the forest.-4.mp4",
+                "video_results": 54.059310835234974
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space.-0.mp4",
+                "video_results": 57.688408442905974
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space.-1.mp4",
+                "video_results": 45.45577995144591
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space.-2.mp4",
+                "video_results": 65.61446839935925
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space.-3.mp4",
+                "video_results": 46.5023030650859
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut flying in space.-4.mp4",
+                "video_results": 69.26496077556999
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Fireworks.-0.mp4",
+                "video_results": 52.093031279894774
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Fireworks.-1.mp4",
+                "video_results": 50.475628989083425
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Fireworks.-2.mp4",
+                "video_results": 45.06523311381437
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Fireworks.-3.mp4",
+                "video_results": 54.525993814273754
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Fireworks.-4.mp4",
+                "video_results": 46.69170870099749
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An animated painting of fluffy white clouds moving in sky.-0.mp4",
+                "video_results": 38.98711138355489
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An animated painting of fluffy white clouds moving in sky.-1.mp4",
+                "video_results": 30.017823511240433
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An animated painting of fluffy white clouds moving in sky.-2.mp4",
+                "video_results": 39.08657229676538
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An animated painting of fluffy white clouds moving in sky.-3.mp4",
+                "video_results": 38.850146313102876
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An animated painting of fluffy white clouds moving in sky.-4.mp4",
+                "video_results": 54.38391977426957
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Flying through fantasy landscapes.-0.mp4",
+                "video_results": 57.787001629264985
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Flying through fantasy landscapes.-1.mp4",
+                "video_results": 68.24121809978874
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Flying through fantasy landscapes.-2.mp4",
+                "video_results": 53.30210238086934
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Flying through fantasy landscapes.-3.mp4",
+                "video_results": 72.63726028130979
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Flying through fantasy landscapes.-4.mp4",
+                "video_results": 42.05172324667171
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A bigfoot walking in the snowstorm.-0.mp4",
+                "video_results": 73.15868268694196
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A bigfoot walking in the snowstorm.-1.mp4",
+                "video_results": 74.28972127486249
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A bigfoot walking in the snowstorm.-2.mp4",
+                "video_results": 60.51226417385802
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A bigfoot walking in the snowstorm.-3.mp4",
+                "video_results": 68.67037535686882
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A bigfoot walking in the snowstorm.-4.mp4",
+                "video_results": 58.201040073316925
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A squirrel eating a burger.-0.mp4",
+                "video_results": 74.8200038987763
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A squirrel eating a burger.-1.mp4",
+                "video_results": 73.27889594253229
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A squirrel eating a burger.-2.mp4",
+                "video_results": 73.04556975072744
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A squirrel eating a burger.-3.mp4",
+                "video_results": 71.59134409378986
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A squirrel eating a burger.-4.mp4",
+                "video_results": 77.12356380540497
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses and working as a lifeguard at a pool.-0.mp4",
+                "video_results": 79.16314588274274
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses and working as a lifeguard at a pool.-1.mp4",
+                "video_results": 77.50938213114836
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses and working as a lifeguard at a pool.-2.mp4",
+                "video_results": 72.06188886992786
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses and working as a lifeguard at a pool.-3.mp4",
+                "video_results": 78.49645435566805
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses and working as a lifeguard at a pool.-4.mp4",
+                "video_results": 79.71506375682597
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-0.mp4",
+                "video_results": 73.87509279834981
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-1.mp4",
+                "video_results": 76.6701708423848
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-2.mp4",
+                "video_results": 78.8889107217594
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-3.mp4",
+                "video_results": 79.5452768753986
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-4.mp4",
+                "video_results": 79.9549507608219
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Splash of turquoise water in extreme slow motion, alpha channel included.-0.mp4",
+                "video_results": 50.76594496746453
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Splash of turquoise water in extreme slow motion, alpha channel included.-1.mp4",
+                "video_results": 48.6100295709104
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Splash of turquoise water in extreme slow motion, alpha channel included.-2.mp4",
+                "video_results": 34.167452520253704
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Splash of turquoise water in extreme slow motion, alpha channel included.-3.mp4",
+                "video_results": 55.09490803309849
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Splash of turquoise water in extreme slow motion, alpha channel included.-4.mp4",
+                "video_results": 57.80668694632394
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an ice cream is melting on the table.-0.mp4",
+                "video_results": 65.01295611323143
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an ice cream is melting on the table.-1.mp4",
+                "video_results": 67.55767207243005
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an ice cream is melting on the table.-2.mp4",
+                "video_results": 69.4142842195472
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an ice cream is melting on the table.-3.mp4",
+                "video_results": 70.65303055120974
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an ice cream is melting on the table.-4.mp4",
+                "video_results": 77.03431172273596
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a drone flying over a snowy forest.-0.mp4",
+                "video_results": 70.27274174592932
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a drone flying over a snowy forest.-1.mp4",
+                "video_results": 72.55331810153261
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a drone flying over a snowy forest.-2.mp4",
+                "video_results": 76.43327362683354
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a drone flying over a snowy forest.-3.mp4",
+                "video_results": 78.36098667066925
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a drone flying over a snowy forest.-4.mp4",
+                "video_results": 76.58598966014628
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean.-0.mp4",
+                "video_results": 39.726207149272064
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean.-1.mp4",
+                "video_results": 35.05896552728147
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean.-2.mp4",
+                "video_results": 49.543069878403024
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean.-3.mp4",
+                "video_results": 72.83978442756496
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a shark is swimming in the ocean.-4.mp4",
+                "video_results": 57.338325967594066
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Aerial panoramic video from a drone of a fantasy land.-0.mp4",
+                "video_results": 50.009457646584025
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Aerial panoramic video from a drone of a fantasy land.-1.mp4",
+                "video_results": 78.88323554214166
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Aerial panoramic video from a drone of a fantasy land.-2.mp4",
+                "video_results": 61.61540564712213
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Aerial panoramic video from a drone of a fantasy land.-3.mp4",
+                "video_results": 47.59610483597736
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Aerial panoramic video from a drone of a fantasy land.-4.mp4",
+                "video_results": 63.82481874738421
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a teddy bear is swimming in the ocean.-0.mp4",
+                "video_results": 69.73067528860909
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a teddy bear is swimming in the ocean.-1.mp4",
+                "video_results": 65.10981415729134
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a teddy bear is swimming in the ocean.-2.mp4",
+                "video_results": 70.21502841248804
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a teddy bear is swimming in the ocean.-3.mp4",
+                "video_results": 70.57636074144013
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a teddy bear is swimming in the ocean.-4.mp4",
+                "video_results": 69.07753302126514
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/time lapse of sunrise on mars.-0.mp4",
+                "video_results": 31.8355624919035
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/time lapse of sunrise on mars.-1.mp4",
+                "video_results": 54.572852076316366
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/time lapse of sunrise on mars.-2.mp4",
+                "video_results": 47.657998766217915
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/time lapse of sunrise on mars.-3.mp4",
+                "video_results": 52.90224145383251
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/time lapse of sunrise on mars.-4.mp4",
+                "video_results": 28.718072579831492
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golden fish swimming in the ocean.-0.mp4",
+                "video_results": 66.6036302216199
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golden fish swimming in the ocean.-1.mp4",
+                "video_results": 72.40485864756059
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golden fish swimming in the ocean.-2.mp4",
+                "video_results": 64.87017939042072
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golden fish swimming in the ocean.-3.mp4",
+                "video_results": 69.4776501558265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golden fish swimming in the ocean.-4.mp4",
+                "video_results": 69.37487209086515
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An artist brush painting on a canvas close up.-0.mp4",
+                "video_results": 46.28861275497748
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An artist brush painting on a canvas close up.-1.mp4",
+                "video_results": 33.98845629789391
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An artist brush painting on a canvas close up.-2.mp4",
+                "video_results": 70.76308651359714
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An artist brush painting on a canvas close up.-3.mp4",
+                "video_results": 29.935346759095484
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An artist brush painting on a canvas close up.-4.mp4",
+                "video_results": 31.641112035634567
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-0.mp4",
+                "video_results": 67.85655951986507
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-1.mp4",
+                "video_results": 49.82070829430405
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-2.mp4",
+                "video_results": 67.79945902921716
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-3.mp4",
+                "video_results": 55.395741910350566
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4",
+                "video_results": 68.84982190813336
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-0.mp4",
+                "video_results": 68.09888722945233
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4",
+                "video_results": 69.93547416219906
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4",
+                "video_results": 71.54896701112085
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-3.mp4",
+                "video_results": 70.51949964250836
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-4.mp4",
+                "video_results": 70.58378585504026
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-0.mp4",
+                "video_results": 31.292526050489776
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4",
+                "video_results": 36.29967475424007
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-2.mp4",
+                "video_results": 39.3165685692612
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-3.mp4",
+                "video_results": 21.10879072851064
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-4.mp4",
+                "video_results": 25.58307593209403
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Campfire at night in a snowy forest with starry sky in the background.-0.mp4",
+                "video_results": 61.06611812358
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Campfire at night in a snowy forest with starry sky in the background.-1.mp4",
+                "video_results": 52.47148046688158
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Campfire at night in a snowy forest with starry sky in the background.-2.mp4",
+                "video_results": 66.62227895308514
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Campfire at night in a snowy forest with starry sky in the background.-3.mp4",
+                "video_results": 71.21646351716956
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Campfire at night in a snowy forest with starry sky in the background.-4.mp4",
+                "video_results": 66.68737645051917
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a fantasy landscape-0.mp4",
+                "video_results": 53.164836727842996
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a fantasy landscape-1.mp4",
+                "video_results": 55.49312412495516
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a fantasy landscape-2.mp4",
+                "video_results": 46.770640314841756
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a fantasy landscape-3.mp4",
+                "video_results": 46.394108130007375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a fantasy landscape-4.mp4",
+                "video_results": 46.02223820589027
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A 3D model of a 1800s victorian house.-0.mp4",
+                "video_results": 68.58818100909798
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A 3D model of a 1800s victorian house.-1.mp4",
+                "video_results": 65.01812339315609
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A 3D model of a 1800s victorian house.-2.mp4",
+                "video_results": 75.51399324378188
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A 3D model of a 1800s victorian house.-3.mp4",
+                "video_results": 76.01694893350407
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A 3D model of a 1800s victorian house.-4.mp4",
+                "video_results": 75.47321241729114
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/this is how I do makeup in the morning.-0.mp4",
+                "video_results": 64.60030598543128
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/this is how I do makeup in the morning.-1.mp4",
+                "video_results": 72.73173787642499
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/this is how I do makeup in the morning.-2.mp4",
+                "video_results": 69.17716014628508
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/this is how I do makeup in the morning.-3.mp4",
+                "video_results": 75.21746577048788
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/this is how I do makeup in the morning.-4.mp4",
+                "video_results": 70.95967086480589
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon that looks like a turtle, digital art.-0.mp4",
+                "video_results": 61.88529252032844
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon that looks like a turtle, digital art.-1.mp4",
+                "video_results": 73.60549303950096
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon that looks like a turtle, digital art.-2.mp4",
+                "video_results": 62.65375744566626
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon that looks like a turtle, digital art.-3.mp4",
+                "video_results": 71.7382860767598
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon that looks like a turtle, digital art.-4.mp4",
+                "video_results": 75.6182254090601
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Robot dancing in Times Square.-0.mp4",
+                "video_results": 49.46072971577547
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Robot dancing in Times Square.-1.mp4",
+                "video_results": 59.73271194769411
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Robot dancing in Times Square.-2.mp4",
+                "video_results": 59.90741620744978
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Robot dancing in Times Square.-3.mp4",
+                "video_results": 58.352886277802135
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Robot dancing in Times Square.-4.mp4",
+                "video_results": 49.443379694101765
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Busy freeway at night.-0.mp4",
+                "video_results": 42.83858349858498
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Busy freeway at night.-1.mp4",
+                "video_results": 53.762188035614635
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Busy freeway at night.-2.mp4",
+                "video_results": 50.78754588535854
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Busy freeway at night.-3.mp4",
+                "video_results": 50.902293458276866
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Busy freeway at night.-4.mp4",
+                "video_results": 44.510554955930125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Balloon full of water exploding in extreme slow motion.-0.mp4",
+                "video_results": 46.34969407684949
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Balloon full of water exploding in extreme slow motion.-1.mp4",
+                "video_results": 38.073418325307415
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Balloon full of water exploding in extreme slow motion.-2.mp4",
+                "video_results": 61.060957149583466
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Balloon full of water exploding in extreme slow motion.-3.mp4",
+                "video_results": 48.34850046586017
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Balloon full of water exploding in extreme slow motion.-4.mp4",
+                "video_results": 49.45686285836356
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut is riding a horse in the space in a photorealistic style.-0.mp4",
+                "video_results": 69.74578359175702
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut is riding a horse in the space in a photorealistic style.-1.mp4",
+                "video_results": 44.73119751287966
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut is riding a horse in the space in a photorealistic style.-2.mp4",
+                "video_results": 65.79736203563456
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut is riding a horse in the space in a photorealistic style.-3.mp4",
+                "video_results": 61.75037703222158
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An astronaut is riding a horse in the space in a photorealistic style.-4.mp4",
+                "video_results": 50.23351965145189
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-0.mp4",
+                "video_results": 55.34642589335539
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-1.mp4",
+                "video_results": 55.0304482907665
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-2.mp4",
+                "video_results": 48.4594134895169
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-3.mp4",
+                "video_results": 56.468527891197986
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-4.mp4",
+                "video_results": 48.425848435382456
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sewing machine, old sewing machine working.-0.mp4",
+                "video_results": 75.4512363355987
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sewing machine, old sewing machine working.-1.mp4",
+                "video_results": 73.41292914565729
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sewing machine, old sewing machine working.-2.mp4",
+                "video_results": 70.94874230209662
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sewing machine, old sewing machine working.-3.mp4",
+                "video_results": 71.82381267936863
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Sewing machine, old sewing machine working.-4.mp4",
+                "video_results": 65.23803103699976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-0.mp4",
+                "video_results": 68.81201561129824
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-1.mp4",
+                "video_results": 69.40036104163345
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-2.mp4",
+                "video_results": 62.640809896040935
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-3.mp4",
+                "video_results": 69.28959507844885
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-4.mp4",
+                "video_results": 73.73718074876435
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-0.mp4",
+                "video_results": 73.74968158955477
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-1.mp4",
+                "video_results": 64.29823591271226
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-2.mp4",
+                "video_results": 66.94541822160993
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-3.mp4",
+                "video_results": 64.87391919505839
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-4.mp4",
+                "video_results": 71.74489500084702
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vampire makeup face of beautiful girl, red contact lenses.-0.mp4",
+                "video_results": 59.24489624646245
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vampire makeup face of beautiful girl, red contact lenses.-1.mp4",
+                "video_results": 64.35412589871153
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vampire makeup face of beautiful girl, red contact lenses.-2.mp4",
+                "video_results": 44.67349647989079
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vampire makeup face of beautiful girl, red contact lenses.-3.mp4",
+                "video_results": 48.974709491340484
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vampire makeup face of beautiful girl, red contact lenses.-4.mp4",
+                "video_results": 41.705375904939615
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Ashtray full of butts on table, smoke flowing on black background, close-up-0.mp4",
+                "video_results": 58.22733882981904
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Ashtray full of butts on table, smoke flowing on black background, close-up-1.mp4",
+                "video_results": 56.63598266912966
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Ashtray full of butts on table, smoke flowing on black background, close-up-2.mp4",
+                "video_results": 55.84852109636579
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Ashtray full of butts on table, smoke flowing on black background, close-up-3.mp4",
+                "video_results": 52.85668688404317
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Ashtray full of butts on table, smoke flowing on black background, close-up-4.mp4",
+                "video_results": 47.81897696670221
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Pacific coast, carmel by the sea ocean and waves.-0.mp4",
+                "video_results": 77.53257190937899
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Pacific coast, carmel by the sea ocean and waves.-1.mp4",
+                "video_results": 74.68832631013831
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Pacific coast, carmel by the sea ocean and waves.-2.mp4",
+                "video_results": 70.13068491098832
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Pacific coast, carmel by the sea ocean and waves.-3.mp4",
+                "video_results": 71.52362122827647
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Pacific coast, carmel by the sea ocean and waves.-4.mp4",
+                "video_results": 74.29071169483419
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear is playing drum kit in NYC Times Square.-0.mp4",
+                "video_results": 63.43564574572505
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear is playing drum kit in NYC Times Square.-1.mp4",
+                "video_results": 67.08690744516801
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear is playing drum kit in NYC Times Square.-2.mp4",
+                "video_results": 66.77032237150232
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear is playing drum kit in NYC Times Square.-3.mp4",
+                "video_results": 64.6274086309939
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear is playing drum kit in NYC Times Square.-4.mp4",
+                "video_results": 63.92637836689852
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi is playing drum kit.-0.mp4",
+                "video_results": 67.97480088837293
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi is playing drum kit.-1.mp4",
+                "video_results": 69.35386828986965
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi is playing drum kit.-2.mp4",
+                "video_results": 59.8867438180106
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi is playing drum kit.-3.mp4",
+                "video_results": 62.508151229546996
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi is playing drum kit.-4.mp4",
+                "video_results": 69.04983349235691
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An Iron man is playing the electronic guitar, high electronic guitar.-0.mp4",
+                "video_results": 68.23013173317423
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An Iron man is playing the electronic guitar, high electronic guitar.-1.mp4",
+                "video_results": 73.09872296391701
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An Iron man is playing the electronic guitar, high electronic guitar.-2.mp4",
+                "video_results": 66.0460706438337
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An Iron man is playing the electronic guitar, high electronic guitar.-3.mp4",
+                "video_results": 71.95053497625857
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An Iron man is playing the electronic guitar, high electronic guitar.-4.mp4",
+                "video_results": 76.72618959387954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon is playing the electronic guitar.-0.mp4",
+                "video_results": 67.04770247790279
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon is playing the electronic guitar.-1.mp4",
+                "video_results": 66.65661878001933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon is playing the electronic guitar.-2.mp4",
+                "video_results": 67.16967571024992
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon is playing the electronic guitar.-3.mp4",
+                "video_results": 58.51995125595404
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon is playing the electronic guitar.-4.mp4",
+                "video_results": 61.79959480129943
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-0.mp4",
+                "video_results": 76.59720938546317
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-1.mp4",
+                "video_results": 55.92753499867965
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-2.mp4",
+                "video_results": 77.33507055165816
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-3.mp4",
+                "video_results": 65.44272029643156
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-4.mp4",
+                "video_results": 66.90299847661232
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi's head depicted as an explosion of a nebula-0.mp4",
+                "video_results": 64.2941305199448
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi's head depicted as an explosion of a nebula-1.mp4",
+                "video_results": 56.514039876509685
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi's head depicted as an explosion of a nebula-2.mp4",
+                "video_results": 66.38661894506338
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi's head depicted as an explosion of a nebula-3.mp4",
+                "video_results": 57.7317083709094
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A corgi's head depicted as an explosion of a nebula-4.mp4",
+                "video_results": 66.33544953015385
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fantasy landscape-0.mp4",
+                "video_results": 44.09176114140725
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fantasy landscape-1.mp4",
+                "video_results": 49.16546591933893
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fantasy landscape-2.mp4",
+                "video_results": 57.68547571921835
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fantasy landscape-3.mp4",
+                "video_results": 44.0797081772162
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A fantasy landscape-4.mp4",
+                "video_results": 58.14155936727718
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A future where humans have achieved teleportation technology-0.mp4",
+                "video_results": 55.77648458675463
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A future where humans have achieved teleportation technology-1.mp4",
+                "video_results": 50.19965253557478
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A future where humans have achieved teleportation technology-2.mp4",
+                "video_results": 53.54360128908741
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A future where humans have achieved teleportation technology-3.mp4",
+                "video_results": 56.1409624060806
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A future where humans have achieved teleportation technology-4.mp4",
+                "video_results": 51.294783455984934
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A jellyfish floating through the ocean, with bioluminescent tentacles-0.mp4",
+                "video_results": 60.90336476540079
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A jellyfish floating through the ocean, with bioluminescent tentacles-1.mp4",
+                "video_results": 54.15578336131816
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A jellyfish floating through the ocean, with bioluminescent tentacles-2.mp4",
+                "video_results": 58.518228491958304
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A jellyfish floating through the ocean, with bioluminescent tentacles-3.mp4",
+                "video_results": 38.737951473313935
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A jellyfish floating through the ocean, with bioluminescent tentacles-4.mp4",
+                "video_results": 59.75874811289262
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A Mars rover moving on Mars-0.mp4",
+                "video_results": 72.11798111273318
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A Mars rover moving on Mars-1.mp4",
+                "video_results": 74.90031370824697
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A Mars rover moving on Mars-2.mp4",
+                "video_results": 74.73192285031689
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A Mars rover moving on Mars-3.mp4",
+                "video_results": 68.71658083857322
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A Mars rover moving on Mars-4.mp4",
+                "video_results": 73.48912920270648
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris-0.mp4",
+                "video_results": 71.70830722730987
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris-1.mp4",
+                "video_results": 73.08718404964524
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris-2.mp4",
+                "video_results": 67.84323548297493
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris-3.mp4",
+                "video_results": 65.07656930417431
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda drinking coffee in a cafe in Paris-4.mp4",
+                "video_results": 70.0562792408223
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-0.mp4",
+                "video_results": 53.41355600162428
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-1.mp4",
+                "video_results": 51.2580062710509
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-2.mp4",
+                "video_results": 58.71903579089106
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-3.mp4",
+                "video_results": 53.352030851403065
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A space shuttle launching into orbit, with flames and smoke billowing out from the engines-4.mp4",
+                "video_results": 36.57300812857492
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A steam train moving on a mountainside-0.mp4",
+                "video_results": 58.74123771823182
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A steam train moving on a mountainside-1.mp4",
+                "video_results": 67.66893994078345
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A steam train moving on a mountainside-2.mp4",
+                "video_results": 71.43032323097697
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A steam train moving on a mountainside-3.mp4",
+                "video_results": 71.76749178828025
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A steam train moving on a mountainside-4.mp4",
+                "video_results": 60.098366095095265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super cool giant robot in Cyberpunk Beijing-0.mp4",
+                "video_results": 66.4506217800841
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super cool giant robot in Cyberpunk Beijing-1.mp4",
+                "video_results": 59.50230851465342
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super cool giant robot in Cyberpunk Beijing-2.mp4",
+                "video_results": 55.73790312786492
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super cool giant robot in Cyberpunk Beijing-3.mp4",
+                "video_results": 67.61943677006936
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super cool giant robot in Cyberpunk Beijing-4.mp4",
+                "video_results": 65.881846914486
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-0.mp4",
+                "video_results": 73.34865118532764
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-1.mp4",
+                "video_results": 77.7562719851124
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-2.mp4",
+                "video_results": 64.31602742720624
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4",
+                "video_results": 68.77278479751276
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-4.mp4",
+                "video_results": 63.27008025500239
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Cinematic shot of Van Gogh's selfie, Van Gogh style-0.mp4",
+                "video_results": 66.70737433920101
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Cinematic shot of Van Gogh's selfie, Van Gogh style-1.mp4",
+                "video_results": 68.9174921463947
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Cinematic shot of Van Gogh's selfie, Van Gogh style-2.mp4",
+                "video_results": 73.18289636105908
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Cinematic shot of Van Gogh's selfie, Van Gogh style-3.mp4",
+                "video_results": 65.7516588483538
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Cinematic shot of Van Gogh's selfie, Van Gogh style-4.mp4",
+                "video_results": 68.88846097673688
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book-0.mp4",
+                "video_results": 64.24898684754663
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book-1.mp4",
+                "video_results": 51.96081714240872
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book-2.mp4",
+                "video_results": 47.83482625533124
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book-3.mp4",
+                "video_results": 56.3007863103127
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Gwen Stacy reading a book-4.mp4",
+                "video_results": 63.50698790258291
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Iron Man flying in the sky-0.mp4",
+                "video_results": 68.98833278733856
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Iron Man flying in the sky-1.mp4",
+                "video_results": 75.89814711590202
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Iron Man flying in the sky-2.mp4",
+                "video_results": 73.32149287632534
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Iron Man flying in the sky-3.mp4",
+                "video_results": 62.89766755396006
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Iron Man flying in the sky-4.mp4",
+                "video_results": 70.39521563782984
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, oil painting-0.mp4",
+                "video_results": 46.44161208795042
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, oil painting-1.mp4",
+                "video_results": 43.815239108338645
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, oil painting-2.mp4",
+                "video_results": 54.109365580033284
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, oil painting-3.mp4",
+                "video_results": 48.024231112733176
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, oil painting-4.mp4",
+                "video_results": 52.16715263833805
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yoda playing guitar on the stage-0.mp4",
+                "video_results": 68.10661432694415
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yoda playing guitar on the stage-1.mp4",
+                "video_results": 67.40714154924665
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yoda playing guitar on the stage-2.mp4",
+                "video_results": 65.62146759033203
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yoda playing guitar on the stage-3.mp4",
+                "video_results": 51.19023334736727
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yoda playing guitar on the stage-4.mp4",
+                "video_results": 61.112309825663665
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-0.mp4",
+                "video_results": 53.81839627635722
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-1.mp4",
+                "video_results": 60.792529203453846
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-2.mp4",
+                "video_results": 68.06945442666813
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-3.mp4",
+                "video_results": 54.43284676999462
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-4.mp4",
+                "video_results": 57.54758632426359
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-0.mp4",
+                "video_results": 57.41715380610252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-1.mp4",
+                "video_results": 55.172213963099885
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-2.mp4",
+                "video_results": 50.58959338129783
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-3.mp4",
+                "video_results": 51.92469483978894
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-4.mp4",
+                "video_results": 58.30120779543507
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-0.mp4",
+                "video_results": 75.18663196174465
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4",
+                "video_results": 66.14102344123684
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-2.mp4",
+                "video_results": 72.69361316914461
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-3.mp4",
+                "video_results": 78.48798354791136
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A boat sailing leisurely along the Seine River with the Eiffel Tower in background-4.mp4",
+                "video_results": 76.51910929777185
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A car moving slowly on an empty street, rainy evening-0.mp4",
+                "video_results": 43.16416752095125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A car moving slowly on an empty street, rainy evening-1.mp4",
+                "video_results": 45.85867013736647
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A car moving slowly on an empty street, rainy evening-2.mp4",
+                "video_results": 51.72540376624283
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A car moving slowly on an empty street, rainy evening-3.mp4",
+                "video_results": 37.622302697629344
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A car moving slowly on an empty street, rainy evening-4.mp4",
+                "video_results": 48.50128804420938
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat eating food out of a bowl-0.mp4",
+                "video_results": 71.95706207898198
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat eating food out of a bowl-1.mp4",
+                "video_results": 73.58875072245695
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat eating food out of a bowl-2.mp4",
+                "video_results": 77.2731352825554
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat eating food out of a bowl-3.mp4",
+                "video_results": 70.76624298095703
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat eating food out of a bowl-4.mp4",
+                "video_results": 70.68722230560925
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses at a pool-0.mp4",
+                "video_results": 75.0075294338927
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses at a pool-1.mp4",
+                "video_results": 73.18859629728357
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses at a pool-2.mp4",
+                "video_results": 67.30979997284558
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses at a pool-3.mp4",
+                "video_results": 74.20587625308913
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cat wearing sunglasses at a pool-4.mp4",
+                "video_results": 75.3450842098314
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A confused panda in calculus class-0.mp4",
+                "video_results": 70.0821623510244
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A confused panda in calculus class-1.mp4",
+                "video_results": 62.538114820207866
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A confused panda in calculus class-2.mp4",
+                "video_results": 68.75093942758988
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A confused panda in calculus class-3.mp4",
+                "video_results": 60.49556957945532
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A confused panda in calculus class-4.mp4",
+                "video_results": 65.76154451954122
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute fluffy panda eating Chinese food in a restaurant-0.mp4",
+                "video_results": 71.42028824163943
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute fluffy panda eating Chinese food in a restaurant-1.mp4",
+                "video_results": 68.73205581976443
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute fluffy panda eating Chinese food in a restaurant-2.mp4",
+                "video_results": 72.2324282587791
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute fluffy panda eating Chinese food in a restaurant-3.mp4",
+                "video_results": 74.21885914705237
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute fluffy panda eating Chinese food in a restaurant-4.mp4",
+                "video_results": 69.99997898023956
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset-0.mp4",
+                "video_results": 40.52106802804129
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset-1.mp4",
+                "video_results": 38.00328316980479
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset-2.mp4",
+                "video_results": 43.54880671598473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset-3.mp4",
+                "video_results": 57.66728545208367
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute happy Corgi playing in park, sunset-4.mp4",
+                "video_results": 39.96530719679229
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute raccoon playing guitar in a boat on the ocean-0.mp4",
+                "video_results": 66.72321304009886
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute raccoon playing guitar in a boat on the ocean-1.mp4",
+                "video_results": 68.13459902393575
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute raccoon playing guitar in a boat on the ocean-2.mp4",
+                "video_results": 73.50507354736328
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute raccoon playing guitar in a boat on the ocean-3.mp4",
+                "video_results": 75.45326450892857
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A cute raccoon playing guitar in a boat on the ocean-4.mp4",
+                "video_results": 68.42180828172333
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-0.mp4",
+                "video_results": 73.07516868747011
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-1.mp4",
+                "video_results": 70.644289289202
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-2.mp4",
+                "video_results": 67.7456118525291
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-3.mp4",
+                "video_results": 70.2930604584363
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-4.mp4",
+                "video_results": 70.03107070922852
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A lightning striking atop of eiffel tower, dark clouds in the sky-0.mp4",
+                "video_results": 75.86454025579958
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A lightning striking atop of eiffel tower, dark clouds in the sky-1.mp4",
+                "video_results": 75.34551332434829
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A lightning striking atop of eiffel tower, dark clouds in the sky-2.mp4",
+                "video_results": 73.37175672881457
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A lightning striking atop of eiffel tower, dark clouds in the sky-3.mp4",
+                "video_results": 76.25954639668367
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A lightning striking atop of eiffel tower, dark clouds in the sky-4.mp4",
+                "video_results": 74.04113925233179
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A modern art museum, with colorful paintings-0.mp4",
+                "video_results": 75.54436243796835
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A modern art museum, with colorful paintings-1.mp4",
+                "video_results": 76.55669449786751
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A modern art museum, with colorful paintings-2.mp4",
+                "video_results": 48.22230296232262
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A modern art museum, with colorful paintings-3.mp4",
+                "video_results": 75.72349299216756
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A modern art museum, with colorful paintings-4.mp4",
+                "video_results": 56.83958403918208
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda cooking in the kitchen-0.mp4",
+                "video_results": 68.52785865627989
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda cooking in the kitchen-1.mp4",
+                "video_results": 65.10723806887256
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda cooking in the kitchen-2.mp4",
+                "video_results": 70.37919585558834
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda cooking in the kitchen-3.mp4",
+                "video_results": 67.5824614544304
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda cooking in the kitchen-4.mp4",
+                "video_results": 66.36662175704022
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda playing on a swing set-0.mp4",
+                "video_results": 65.20093583087532
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda playing on a swing set-1.mp4",
+                "video_results": 68.3091376946897
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda playing on a swing set-2.mp4",
+                "video_results": 57.50424599160954
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda playing on a swing set-3.mp4",
+                "video_results": 60.80626343707649
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A panda playing on a swing set-4.mp4",
+                "video_results": 50.498233795166016
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A polar bear is playing guitar-0.mp4",
+                "video_results": 70.46875467105788
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A polar bear is playing guitar-1.mp4",
+                "video_results": 69.64351545061383
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A polar bear is playing guitar-2.mp4",
+                "video_results": 67.86369892042511
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A polar bear is playing guitar-3.mp4",
+                "video_results": 73.56833415128747
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A polar bear is playing guitar-4.mp4",
+                "video_results": 70.2830091203962
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon dressed in suit playing the trumpet, stage background-0.mp4",
+                "video_results": 71.03758629000917
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon dressed in suit playing the trumpet, stage background-1.mp4",
+                "video_results": 69.32839296302016
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon dressed in suit playing the trumpet, stage background-2.mp4",
+                "video_results": 73.41840128995935
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon dressed in suit playing the trumpet, stage background-3.mp4",
+                "video_results": 66.5468173902862
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A raccoon dressed in suit playing the trumpet, stage background-4.mp4",
+                "video_results": 71.19112505231585
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-0.mp4",
+                "video_results": 71.11815269625917
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-1.mp4",
+                "video_results": 70.86292998644771
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4",
+                "video_results": 64.13107346515267
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4",
+                "video_results": 70.29952683740733
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-4.mp4",
+                "video_results": 66.47819916082888
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A shark swimming in clear Caribbean ocean-0.mp4",
+                "video_results": 60.51756193199936
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A shark swimming in clear Caribbean ocean-1.mp4",
+                "video_results": 47.799683084293285
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A shark swimming in clear Caribbean ocean-2.mp4",
+                "video_results": 55.31554280495157
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A shark swimming in clear Caribbean ocean-3.mp4",
+                "video_results": 47.77704075404576
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A shark swimming in clear Caribbean ocean-4.mp4",
+                "video_results": 64.02990886143276
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super robot protecting city-0.mp4",
+                "video_results": 65.4997886346311
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super robot protecting city-1.mp4",
+                "video_results": 69.18851541013134
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super robot protecting city-2.mp4",
+                "video_results": 64.62411304396026
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super robot protecting city-3.mp4",
+                "video_results": 58.049053036436746
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A super robot protecting city-4.mp4",
+                "video_results": 50.96680645066865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear washing the dishes-0.mp4",
+                "video_results": 73.42276047687142
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear washing the dishes-1.mp4",
+                "video_results": 70.42227585461674
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear washing the dishes-2.mp4",
+                "video_results": 73.67307382700395
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear washing the dishes-3.mp4",
+                "video_results": 68.48554949857751
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A teddy bear washing the dishes-4.mp4",
+                "video_results": 72.4988153418716
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-0.mp4",
+                "video_results": 56.333788268420165
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-1.mp4",
+                "video_results": 59.320531728316325
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-2.mp4",
+                "video_results": 62.63553339121293
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-3.mp4",
+                "video_results": 60.90132600433972
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An epic tornado attacking above a glowing city at night, the tornado is made of smoke-4.mp4",
+                "video_results": 61.32525837178133
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-0.mp4",
+                "video_results": 62.5757515576421
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-1.mp4",
+                "video_results": 65.90949669662787
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-2.mp4",
+                "video_results": 46.46879492000658
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-3.mp4",
+                "video_results": 60.70136354407486
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-4.mp4",
+                "video_results": 41.72753571490852
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Clown fish swimming through the coral reef-0.mp4",
+                "video_results": 69.05839273880939
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Clown fish swimming through the coral reef-1.mp4",
+                "video_results": 74.87734284692881
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Clown fish swimming through the coral reef-2.mp4",
+                "video_results": 70.08908517020089
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Clown fish swimming through the coral reef-3.mp4",
+                "video_results": 72.45055171421596
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Clown fish swimming through the coral reef-4.mp4",
+                "video_results": 73.61413994613959
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Hyper-realistic spaceship landing on Mars-0.mp4",
+                "video_results": 76.37561969367825
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Hyper-realistic spaceship landing on Mars-1.mp4",
+                "video_results": 79.13289875886878
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Hyper-realistic spaceship landing on Mars-2.mp4",
+                "video_results": 73.66475054682518
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Hyper-realistic spaceship landing on Mars-3.mp4",
+                "video_results": 55.22016136013732
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Hyper-realistic spaceship landing on Mars-4.mp4",
+                "video_results": 76.76375735535913
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, vibrant color-0.mp4",
+                "video_results": 69.60900178247569
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, vibrant color-1.mp4",
+                "video_results": 70.22679387306681
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, vibrant color-2.mp4",
+                "video_results": 71.99875703149912
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, vibrant color-3.mp4",
+                "video_results": 71.65994215984733
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/The bund Shanghai, vibrant color-4.mp4",
+                "video_results": 62.74203553491709
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vincent van Gogh is painting in the room-0.mp4",
+                "video_results": 71.33262182741748
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vincent van Gogh is painting in the room-1.mp4",
+                "video_results": 70.75939209607182
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vincent van Gogh is painting in the room-2.mp4",
+                "video_results": 68.79438875159438
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vincent van Gogh is painting in the room-3.mp4",
+                "video_results": 64.20987973894391
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Vincent van Gogh is painting in the room-4.mp4",
+                "video_results": 70.08865636708785
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yellow flowers swing in the wind-0.mp4",
+                "video_results": 61.75439258497588
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yellow flowers swing in the wind-1.mp4",
+                "video_results": 75.81599722103196
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yellow flowers swing in the wind-2.mp4",
+                "video_results": 70.69070123166455
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yellow flowers swing in the wind-3.mp4",
+                "video_results": 64.01444003046775
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/Yellow flowers swing in the wind-4.mp4",
+                "video_results": 48.14588134142817
+            }
+        ]
+    ]
+}

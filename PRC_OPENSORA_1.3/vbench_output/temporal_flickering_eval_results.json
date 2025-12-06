@@ -1,0 +1,1507 @@
+{
+    "temporal_flickering": [
+        0.9826929453691625,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a stop sign-0.mp4",
+                "video_results": 0.9969907360918382
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a stop sign-1.mp4",
+                "video_results": 0.997049181134093
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a stop sign-2.mp4",
+                "video_results": 0.9972688357035319
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a stop sign-3.mp4",
+                "video_results": 0.9983725772184484
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a stop sign-4.mp4",
+                "video_results": 0.9559613807528626
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a toilet, frozen in time-0.mp4",
+                "video_results": 0.9971834474918889
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a toilet, frozen in time-1.mp4",
+                "video_results": 0.9919488355225208
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a toilet, frozen in time-2.mp4",
+                "video_results": 0.9987023473954668
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a toilet, frozen in time-3.mp4",
+                "video_results": 0.9949880614000208
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a toilet, frozen in time-4.mp4",
+                "video_results": 0.9967991043539608
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a laptop, frozen in time-0.mp4",
+                "video_results": 0.9960060629190183
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a laptop, frozen in time-1.mp4",
+                "video_results": 0.9909826951868393
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a laptop, frozen in time-2.mp4",
+                "video_results": 0.99482628364189
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a laptop, frozen in time-3.mp4",
+                "video_results": 0.9883357562270819
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a laptop, frozen in time-4.mp4",
+                "video_results": 0.9976253815725737
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of alley-0.mp4",
+                "video_results": 0.9788421331667433
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of alley-1.mp4",
+                "video_results": 0.9476166220272288
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of alley-2.mp4",
+                "video_results": 0.966446076187433
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of alley-3.mp4",
+                "video_results": 0.9765628496805827
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of alley-4.mp4",
+                "video_results": 0.9669375288720224
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bar-0.mp4",
+                "video_results": 0.9513053258260091
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bar-1.mp4",
+                "video_results": 0.9491097356758865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bar-2.mp4",
+                "video_results": 0.9930163051567825
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bar-3.mp4",
+                "video_results": 0.9971307698418113
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bar-4.mp4",
+                "video_results": 0.9897307704476749
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of barn-0.mp4",
+                "video_results": 0.9689283277474198
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of barn-1.mp4",
+                "video_results": 0.968363234576057
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of barn-2.mp4",
+                "video_results": 0.9900432988709095
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of barn-3.mp4",
+                "video_results": 0.950938164954092
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of barn-4.mp4",
+                "video_results": 0.9658000572054994
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bathroom-0.mp4",
+                "video_results": 0.9988109948588353
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bathroom-1.mp4",
+                "video_results": 0.9992664507206749
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bathroom-2.mp4",
+                "video_results": 0.9922176473280963
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bathroom-3.mp4",
+                "video_results": 0.9965184258479698
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bathroom-4.mp4",
+                "video_results": 0.9954934788685219
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bedroom-0.mp4",
+                "video_results": 0.9984483278265186
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bedroom-1.mp4",
+                "video_results": 0.9988992299519334
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bedroom-2.mp4",
+                "video_results": 0.9855970906276329
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bedroom-3.mp4",
+                "video_results": 0.9935126748739505
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of bedroom-4.mp4",
+                "video_results": 0.9977684890522677
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of cliff-0.mp4",
+                "video_results": 0.9642827651079964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of cliff-1.mp4",
+                "video_results": 0.9935111817191629
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of cliff-2.mp4",
+                "video_results": 0.9793620745340983
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of cliff-3.mp4",
+                "video_results": 0.99483602327459
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of cliff-4.mp4",
+                "video_results": 0.9339571709726371
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, courtyard-0.mp4",
+                "video_results": 0.9980853119317223
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, courtyard-1.mp4",
+                "video_results": 0.9843179216571882
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, courtyard-2.mp4",
+                "video_results": 0.9882294336954752
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, courtyard-3.mp4",
+                "video_results": 0.9868239412120744
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, courtyard-4.mp4",
+                "video_results": 0.9664533016728419
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, gas station-0.mp4",
+                "video_results": 0.9972605892256194
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, gas station-1.mp4",
+                "video_results": 0.9788223023508109
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, gas station-2.mp4",
+                "video_results": 0.9940763524934357
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, gas station-3.mp4",
+                "video_results": 0.97750810361376
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, gas station-4.mp4",
+                "video_results": 0.9921604095720777
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of house-0.mp4",
+                "video_results": 0.9591426811966242
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of house-1.mp4",
+                "video_results": 0.9690265356325636
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of house-2.mp4",
+                "video_results": 0.9892479887195662
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of house-3.mp4",
+                "video_results": 0.9242945278392118
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of house-4.mp4",
+                "video_results": 0.9899385143728817
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium, frozen in time-0.mp4",
+                "video_results": 0.986951608283847
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium, frozen in time-1.mp4",
+                "video_results": 0.981131690156226
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium, frozen in time-2.mp4",
+                "video_results": 0.9760014982784495
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium, frozen in time-3.mp4",
+                "video_results": 0.9810768220938888
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium, frozen in time-4.mp4",
+                "video_results": 0.9845495859781901
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of indoor library-0.mp4",
+                "video_results": 0.9902680443782432
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of indoor library-1.mp4",
+                "video_results": 0.9925990983551624
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of indoor library-2.mp4",
+                "video_results": 0.9572356280158548
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of indoor library-3.mp4",
+                "video_results": 0.9819432071610993
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of indoor library-4.mp4",
+                "video_results": 0.9933386087417603
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of kitchen-0.mp4",
+                "video_results": 0.9990471133998796
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of kitchen-1.mp4",
+                "video_results": 0.995878028869629
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of kitchen-2.mp4",
+                "video_results": 0.9983877631963468
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of kitchen-3.mp4",
+                "video_results": 0.9902861866296506
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of kitchen-4.mp4",
+                "video_results": 0.9978853882527818
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of palace-0.mp4",
+                "video_results": 0.9957051436106364
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of palace-1.mp4",
+                "video_results": 0.9974133736947004
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of palace-2.mp4",
+                "video_results": 0.9855827696183148
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of palace-3.mp4",
+                "video_results": 0.9962389403698491
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of palace-4.mp4",
+                "video_results": 0.9943155845006307
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, parking lot-0.mp4",
+                "video_results": 0.9948741272384045
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, parking lot-1.mp4",
+                "video_results": 0.9910491083182541
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, parking lot-2.mp4",
+                "video_results": 0.9906245914160037
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, parking lot-3.mp4",
+                "video_results": 0.9922278100369023
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, parking lot-4.mp4",
+                "video_results": 0.985235258177215
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, phone booth-0.mp4",
+                "video_results": 0.9602286544500612
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, phone booth-1.mp4",
+                "video_results": 0.9970446934887007
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, phone booth-2.mp4",
+                "video_results": 0.9924751015270458
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, phone booth-3.mp4",
+                "video_results": 0.9950143776687921
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, phone booth-4.mp4",
+                "video_results": 0.9979648356344185
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of restaurant-0.mp4",
+                "video_results": 0.9783553048676136
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of restaurant-1.mp4",
+                "video_results": 0.9736540756973566
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of restaurant-2.mp4",
+                "video_results": 0.9946917014963487
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of restaurant-3.mp4",
+                "video_results": 0.996741996793186
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of restaurant-4.mp4",
+                "video_results": 0.9915182141696706
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of tower-0.mp4",
+                "video_results": 0.9893091987161076
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of tower-1.mp4",
+                "video_results": 0.9973686220599156
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of tower-2.mp4",
+                "video_results": 0.9623063330556832
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of tower-3.mp4",
+                "video_results": 0.9942915191837386
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of tower-4.mp4",
+                "video_results": 0.9954890685922959
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl-0.mp4",
+                "video_results": 0.996586222040887
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl-1.mp4",
+                "video_results": 0.998396274505877
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl-2.mp4",
+                "video_results": 0.9893984766567454
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl-3.mp4",
+                "video_results": 0.9941377092810239
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl-4.mp4",
+                "video_results": 0.997393927153419
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an apple-0.mp4",
+                "video_results": 0.995972616999757
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an apple-1.mp4",
+                "video_results": 0.9980069345118953
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an apple-2.mp4",
+                "video_results": 0.998412272976894
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an apple-3.mp4",
+                "video_results": 0.98606756995706
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an apple-4.mp4",
+                "video_results": 0.9944642997255513
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bench-0.mp4",
+                "video_results": 0.9787094434102376
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bench-1.mp4",
+                "video_results": 0.9963716032458286
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bench-2.mp4",
+                "video_results": 0.9874539618398629
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bench-3.mp4",
+                "video_results": 0.9949742205002728
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bench-4.mp4",
+                "video_results": 0.9343761593687768
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bed-0.mp4",
+                "video_results": 0.9984164827010211
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bed-1.mp4",
+                "video_results": 0.9986493799031949
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bed-2.mp4",
+                "video_results": 0.9797155024958591
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bed-3.mp4",
+                "video_results": 0.9975395172250037
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bed-4.mp4",
+                "video_results": 0.9942489030314426
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a chair-0.mp4",
+                "video_results": 0.9989426022651149
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a chair-1.mp4",
+                "video_results": 0.999032947421074
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a chair-2.mp4",
+                "video_results": 0.9991656614869249
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a chair-3.mp4",
+                "video_results": 0.9992594705492842
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a chair-4.mp4",
+                "video_results": 0.9949914039350023
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a cup-0.mp4",
+                "video_results": 0.9986653214576198
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a cup-1.mp4",
+                "video_results": 0.994364239655289
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a cup-2.mp4",
+                "video_results": 0.9985634264992732
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a cup-3.mp4",
+                "video_results": 0.9984256551546209
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a cup-4.mp4",
+                "video_results": 0.994582376760595
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a dining table-0.mp4",
+                "video_results": 0.9982156750033884
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a dining table-1.mp4",
+                "video_results": 0.9980828328459871
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a dining table-2.mp4",
+                "video_results": 0.994942268670774
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a dining table-3.mp4",
+                "video_results": 0.9942035661024206
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a dining table-4.mp4",
+                "video_results": 0.9963125464962977
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a pear-0.mp4",
+                "video_results": 0.9977950811386108
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a pear-1.mp4",
+                "video_results": 0.9932937449099971
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a pear-2.mp4",
+                "video_results": 0.9979236121271171
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a pear-3.mp4",
+                "video_results": 0.9976763809428496
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a pear-4.mp4",
+                "video_results": 0.9978966425446903
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bunch of grapes-0.mp4",
+                "video_results": 0.9826157195895326
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bunch of grapes-1.mp4",
+                "video_results": 0.9833572780384737
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bunch of grapes-2.mp4",
+                "video_results": 0.9932460597917145
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bunch of grapes-3.mp4",
+                "video_results": 0.9970740904995039
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bunch of grapes-4.mp4",
+                "video_results": 0.9984091749378279
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl on the kitchen counter-0.mp4",
+                "video_results": 0.9993461265867831
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl on the kitchen counter-1.mp4",
+                "video_results": 0.9992297354866476
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl on the kitchen counter-2.mp4",
+                "video_results": 0.9994887454252617
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl on the kitchen counter-3.mp4",
+                "video_results": 0.9990921083034253
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a bowl on the kitchen counter-4.mp4",
+                "video_results": 0.9924741656172509
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful, handcrafted ceramic bowl-0.mp4",
+                "video_results": 0.9563574435664158
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful, handcrafted ceramic bowl-1.mp4",
+                "video_results": 0.9888488909777473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful, handcrafted ceramic bowl-2.mp4",
+                "video_results": 0.9935882175669951
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful, handcrafted ceramic bowl-3.mp4",
+                "video_results": 0.9948159353405821
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful, handcrafted ceramic bowl-4.mp4",
+                "video_results": 0.9990841309229533
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an antique bowl-0.mp4",
+                "video_results": 0.9842358327379414
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an antique bowl-1.mp4",
+                "video_results": 0.99657029170616
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an antique bowl-2.mp4",
+                "video_results": 0.993320590842004
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an antique bowl-3.mp4",
+                "video_results": 0.9990252062970517
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an antique bowl-4.mp4",
+                "video_results": 0.9979633651527704
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an exquisite mahogany dining table-0.mp4",
+                "video_results": 0.996562706489189
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an exquisite mahogany dining table-1.mp4",
+                "video_results": 0.9955759104560403
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an exquisite mahogany dining table-2.mp4",
+                "video_results": 0.9984600397886014
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an exquisite mahogany dining table-3.mp4",
+                "video_results": 0.9980834153352999
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an exquisite mahogany dining table-4.mp4",
+                "video_results": 0.9986826369575426
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a wooden bench in the park-0.mp4",
+                "video_results": 0.9574217740227194
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a wooden bench in the park-1.mp4",
+                "video_results": 0.984478749480902
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a wooden bench in the park-2.mp4",
+                "video_results": 0.9695141511804918
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a wooden bench in the park-3.mp4",
+                "video_results": 0.9908739996891396
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a wooden bench in the park-4.mp4",
+                "video_results": 0.9767370990678376
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-0.mp4",
+                "video_results": 0.8808987860586129
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-1.mp4",
+                "video_results": 0.9896413232765946
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-2.mp4",
+                "video_results": 0.9871403011621214
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-3.mp4",
+                "video_results": 0.9892961698419908
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-4.mp4",
+                "video_results": 0.9804431634790757
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a park bench with a view of the lake-0.mp4",
+                "video_results": 0.9924849954305911
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a park bench with a view of the lake-1.mp4",
+                "video_results": 0.9330239613850911
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a park bench with a view of the lake-2.mp4",
+                "video_results": 0.9906621362648759
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a park bench with a view of the lake-3.mp4",
+                "video_results": 0.9451835333132277
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a park bench with a view of the lake-4.mp4",
+                "video_results": 0.9912768008662205
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a vintage rocking chair was placed on the porch-0.mp4",
+                "video_results": 0.9965569559265586
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a vintage rocking chair was placed on the porch-1.mp4",
+                "video_results": 0.9973069244740056
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a vintage rocking chair was placed on the porch-2.mp4",
+                "video_results": 0.9975653187901365
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a vintage rocking chair was placed on the porch-3.mp4",
+                "video_results": 0.98467817587011
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a vintage rocking chair was placed on the porch-4.mp4",
+                "video_results": 0.9986158706393896
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+                "video_results": 0.9872746261895872
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-1.mp4",
+                "video_results": 0.9996712573310909
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-2.mp4",
+                "video_results": 0.9996075925581596
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-3.mp4",
+                "video_results": 0.999593498572415
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-4.mp4",
+                "video_results": 0.9939304781895058
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the phone booth was tucked away in a quiet alley-0.mp4",
+                "video_results": 0.9889758381189084
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the phone booth was tucked away in a quiet alley-1.mp4",
+                "video_results": 0.994265913028343
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the phone booth was tucked away in a quiet alley-2.mp4",
+                "video_results": 0.9641055836397059
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the phone booth was tucked away in a quiet alley-3.mp4",
+                "video_results": 0.994295646162594
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the phone booth was tucked away in a quiet alley-4.mp4",
+                "video_results": 0.9632583767760033
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-0.mp4",
+                "video_results": 0.9551450841567095
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-1.mp4",
+                "video_results": 0.9522718205171473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-2.mp4",
+                "video_results": 0.9352891211416207
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-3.mp4",
+                "video_results": 0.9604837641996495
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-4.mp4",
+                "video_results": 0.9642785352819107
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-0.mp4",
+                "video_results": 0.9963947307829764
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-1.mp4",
+                "video_results": 0.9885955595502667
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-2.mp4",
+                "video_results": 0.9968013676942563
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-3.mp4",
+                "video_results": 0.9828703693315095
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-4.mp4",
+                "video_results": 0.9893147964103549
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-0.mp4",
+                "video_results": 0.9888099249671487
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-1.mp4",
+                "video_results": 0.974262087952857
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-2.mp4",
+                "video_results": 0.9707912669462316
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-3.mp4",
+                "video_results": 0.9829697272356819
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-4.mp4",
+                "video_results": 0.9530223659440583
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-0.mp4",
+                "video_results": 0.9810024186676624
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-1.mp4",
+                "video_results": 0.9974623962944629
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-2.mp4",
+                "video_results": 0.9924351505204743
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-3.mp4",
+                "video_results": 0.9926016400842106
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-4.mp4",
+                "video_results": 0.9961746330354728
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-0.mp4",
+                "video_results": 0.9924181807274912
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-1.mp4",
+                "video_results": 0.9883003309661267
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-2.mp4",
+                "video_results": 0.9952730987586227
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-3.mp4",
+                "video_results": 0.9945455686718809
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-4.mp4",
+                "video_results": 0.9968401415675294
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-0.mp4",
+                "video_results": 0.9938273247550515
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-1.mp4",
+                "video_results": 0.9878731624752868
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-2.mp4",
+                "video_results": 0.981898655610926
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-3.mp4",
+                "video_results": 0.9654569027470608
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-4.mp4",
+                "video_results": 0.9793322095683977
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-0.mp4",
+                "video_results": 0.9928524723239973
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-1.mp4",
+                "video_results": 0.9801826308755314
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-2.mp4",
+                "video_results": 0.9665585648779775
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-3.mp4",
+                "video_results": 0.9552047430300246
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-4.mp4",
+                "video_results": 0.9512432509777593
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-0.mp4",
+                "video_results": 0.9926518201828003
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-1.mp4",
+                "video_results": 0.9973577188510521
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-2.mp4",
+                "video_results": 0.9952146123437321
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-3.mp4",
+                "video_results": 0.9902760748769722
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-4.mp4",
+                "video_results": 0.984619514614928
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-0.mp4",
+                "video_results": 0.9910460369259704
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-1.mp4",
+                "video_results": 0.9937647104263305
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-2.mp4",
+                "video_results": 0.9885530630747478
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-3.mp4",
+                "video_results": 0.9877613376168644
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-4.mp4",
+                "video_results": 0.9951401336520326
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-0.mp4",
+                "video_results": 0.9955650123895383
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-1.mp4",
+                "video_results": 0.9882932625564874
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-2.mp4",
+                "video_results": 0.9918828412598255
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-3.mp4",
+                "video_results": 0.9929445364895989
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-4.mp4",
+                "video_results": 0.9941269570705937
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-0.mp4",
+                "video_results": 0.9940150265600167
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-1.mp4",
+                "video_results": 0.9990482725933486
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-2.mp4",
+                "video_results": 0.9926737416024302
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-3.mp4",
+                "video_results": 0.9971265089278127
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-4.mp4",
+                "video_results": 0.9932014853346581
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-0.mp4",
+                "video_results": 0.9905057841656255
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-1.mp4",
+                "video_results": 0.986377270081464
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-2.mp4",
+                "video_results": 0.9955074483273076
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-3.mp4",
+                "video_results": 0.994418607973585
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-4.mp4",
+                "video_results": 0.9922257540272731
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4",
+                "video_results": 0.936983377793256
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-1.mp4",
+                "video_results": 0.9536851770737592
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-2.mp4",
+                "video_results": 0.9110468920539407
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-3.mp4",
+                "video_results": 0.9310681885364009
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-4.mp4",
+                "video_results": 0.9854950474757774
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-0.mp4",
+                "video_results": 0.9867081810446346
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-1.mp4",
+                "video_results": 0.9978266662242365
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-2.mp4",
+                "video_results": 0.9942786903942332
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-3.mp4",
+                "video_results": 0.9905046687406652
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-4.mp4",
+                "video_results": 0.9941300163082049
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-0.mp4",
+                "video_results": 0.9957600542143279
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-1.mp4",
+                "video_results": 0.9936419959161796
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-2.mp4",
+                "video_results": 0.9932591816958259
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-3.mp4",
+                "video_results": 0.9961952978489446
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-4.mp4",
+                "video_results": 0.991501662310432
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-0.mp4",
+                "video_results": 0.9760146290648217
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-1.mp4",
+                "video_results": 0.9497023750753963
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-2.mp4",
+                "video_results": 0.9838343545502307
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-3.mp4",
+                "video_results": 0.9911024757460052
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-4.mp4",
+                "video_results": 0.9554107217227712
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-0.mp4",
+                "video_results": 0.9620159560558843
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-1.mp4",
+                "video_results": 0.995044223467509
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-2.mp4",
+                "video_results": 0.9702802377588609
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-3.mp4",
+                "video_results": 0.9838042464910769
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-4.mp4",
+                "video_results": 0.95653969633813
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-0.mp4",
+                "video_results": 0.9849345665352017
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-1.mp4",
+                "video_results": 0.9968523476638046
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-2.mp4",
+                "video_results": 0.9911619373396331
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-3.mp4",
+                "video_results": 0.9858551885567459
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-4.mp4",
+                "video_results": 0.99550393001706
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+                "video_results": 0.927296859142827
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-1.mp4",
+                "video_results": 0.9390195996153589
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-2.mp4",
+                "video_results": 0.987419091018976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-3.mp4",
+                "video_results": 0.9213313084022672
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-4.mp4",
+                "video_results": 0.9138210595822802
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-0.mp4",
+                "video_results": 0.9617313385009766
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-1.mp4",
+                "video_results": 0.9271593879250919
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-2.mp4",
+                "video_results": 0.9415852079204484
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-3.mp4",
+                "video_results": 0.9787938080581964
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-4.mp4",
+                "video_results": 0.9215189915077359
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-0.mp4",
+                "video_results": 0.9703188073401358
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-1.mp4",
+                "video_results": 0.9832753424550973
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-2.mp4",
+                "video_results": 0.9613551008935068
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-3.mp4",
+                "video_results": 0.9604127622118184
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-4.mp4",
+                "video_results": 0.9420088861502853
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-0.mp4",
+                "video_results": 0.9447364358340993
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-1.mp4",
+                "video_results": 0.9441608017566158
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-2.mp4",
+                "video_results": 0.9883867450788909
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-3.mp4",
+                "video_results": 0.980074545916389
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-4.mp4",
+                "video_results": 0.9591593761070102
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-0.mp4",
+                "video_results": 0.9594107197780235
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-1.mp4",
+                "video_results": 0.9586197385600969
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-2.mp4",
+                "video_results": 0.9717605609519809
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-3.mp4",
+                "video_results": 0.9674326990164962
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-4.mp4",
+                "video_results": 0.9557540295170802
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-0.mp4",
+                "video_results": 0.9851739472033931
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-1.mp4",
+                "video_results": 0.9948273803673539
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-2.mp4",
+                "video_results": 0.9908475268120859
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-3.mp4",
+                "video_results": 0.9781029850828882
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-4.mp4",
+                "video_results": 0.964842093224619
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-0.mp4",
+                "video_results": 0.9771885572695265
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-1.mp4",
+                "video_results": 0.9279418795716529
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-2.mp4",
+                "video_results": 0.9680239583931717
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-3.mp4",
+                "video_results": 0.9835197205637015
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-4.mp4",
+                "video_results": 0.9652688531314626
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-0.mp4",
+                "video_results": 0.9974898773081162
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-1.mp4",
+                "video_results": 0.9943735781837912
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-2.mp4",
+                "video_results": 0.9965392652679892
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-3.mp4",
+                "video_results": 0.9973463939685447
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-4.mp4",
+                "video_results": 0.9598459916956285
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-0.mp4",
+                "video_results": 0.9966393655421687
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-1.mp4",
+                "video_results": 0.9974210694724438
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-2.mp4",
+                "video_results": 0.9962518797201269
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-3.mp4",
+                "video_results": 0.9794682521446079
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-4.mp4",
+                "video_results": 0.9936337690727384
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-0.mp4",
+                "video_results": 0.9400720521515491
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-1.mp4",
+                "video_results": 0.9908246517181396
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-2.mp4",
+                "video_results": 0.9889147066602519
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-3.mp4",
+                "video_results": 0.9884066151637657
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-4.mp4",
+                "video_results": 0.985281629188388
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a country estate's library featured elegant wooden shelves-0.mp4",
+                "video_results": 0.9698869742599188
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a country estate's library featured elegant wooden shelves-1.mp4",
+                "video_results": 0.9925007478863586
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a country estate's library featured elegant wooden shelves-2.mp4",
+                "video_results": 0.9603936101876053
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a country estate's library featured elegant wooden shelves-3.mp4",
+                "video_results": 0.9753305547377642
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a country estate's library featured elegant wooden shelves-4.mp4",
+                "video_results": 0.9777486763748469
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-0.mp4",
+                "video_results": 0.991858627281937
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-1.mp4",
+                "video_results": 0.9915251629025328
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-2.mp4",
+                "video_results": 0.9856794422748042
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-3.mp4",
+                "video_results": 0.9869707556331859
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-4.mp4",
+                "video_results": 0.9874725827983781
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-0.mp4",
+                "video_results": 0.9616292579501283
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-1.mp4",
+                "video_results": 0.9852601481418983
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-2.mp4",
+                "video_results": 0.9843990176331763
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-3.mp4",
+                "video_results": 0.974632293102788
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-4.mp4",
+                "video_results": 0.9750516162199132
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-0.mp4",
+                "video_results": 0.9817131640864354
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-1.mp4",
+                "video_results": 0.978522736418481
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-2.mp4",
+                "video_results": 0.9772980839598413
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-3.mp4",
+                "video_results": 0.9205178129906748
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-4.mp4",
+                "video_results": 0.9194114011876723
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-0.mp4",
+                "video_results": 0.9634344699336034
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-1.mp4",
+                "video_results": 0.980384510638667
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-2.mp4",
+                "video_results": 0.9811768681395288
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-3.mp4",
+                "video_results": 0.9808590907676548
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-4.mp4",
+                "video_results": 0.9625430686801087
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-0.mp4",
+                "video_results": 0.9829260022032494
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-1.mp4",
+                "video_results": 0.9902123881321327
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-2.mp4",
+                "video_results": 0.9950012375326718
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-3.mp4",
+                "video_results": 0.9951849189459109
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-4.mp4",
+                "video_results": 0.979257495730531
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-0.mp4",
+                "video_results": 0.9874962675805186
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-1.mp4",
+                "video_results": 0.9876167400210512
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-2.mp4",
+                "video_results": 0.9851872677896537
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-3.mp4",
+                "video_results": 0.9862655462003221
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-4.mp4",
+                "video_results": 0.9909485284019919
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-0.mp4",
+                "video_results": 0.993773798381581
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-1.mp4",
+                "video_results": 0.9906919713113822
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-2.mp4",
+                "video_results": 0.981780024135814
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-3.mp4",
+                "video_results": 0.9902915215959736
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-4.mp4",
+                "video_results": 0.9811111581091787
+            }
+        ]
+    ]
+}

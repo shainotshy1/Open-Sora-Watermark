@@ -38,7 +38,7 @@ dimensions = [
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("video_folder", type=str)  # samples/samples..._vbench/eval
-    parser.add_argument("model_ckpt", type=str)
+    parser.add_argument("output_dir", type=str)
     parser.add_argument("--start", type=int, default=0)  # start index of dimension to be evaluated
     parser.add_argument("--end", type=int, default=-1)  # start index of dimension to be evaluated
 
@@ -48,8 +48,8 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    output_dir = os.path.join(args.model_ckpt, "vbench")
-    os.makedirs(output_dir, exist_ok=True)
+    # output_dir = os.path.join(args.model_ckpt, "vbench")
+    os.makedirs(args.output_dir, exist_ok=True)
     video_path = args.video_folder
 
     kwargs = {}
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     start_time = time.time()
 
     # NOTE: important to use torch.device("cuda"), else will have issue with object_class third_party module
-    my_VBench = VBench(torch.device("cuda"), full_info_path, output_dir)
+    my_VBench = VBench(torch.device("cuda"), full_info_path, args.output_dir)
     if args.end == -1:  # adjust end accordingly
         args.end = len(dimensions)
     for dim in dimensions[args.start : args.end]:

@@ -1,0 +1,1447 @@
+{
+    "motion_smoothness": [
+        0.9798337366943064,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person swimming in ocean-0.mp4",
+                "video_results": 0.9640805000964506
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person swimming in ocean-1.mp4",
+                "video_results": 0.9631226700556765
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person swimming in ocean-2.mp4",
+                "video_results": 0.9754985357472464
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person swimming in ocean-3.mp4",
+                "video_results": 0.957186704518806
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person swimming in ocean-4.mp4",
+                "video_results": 0.9598719454940541
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person giving a presentation to a room full of colleagues-0.mp4",
+                "video_results": 0.9934452394528414
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person giving a presentation to a room full of colleagues-1.mp4",
+                "video_results": 0.9928118449395575
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person giving a presentation to a room full of colleagues-2.mp4",
+                "video_results": 0.9960519970478546
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person giving a presentation to a room full of colleagues-3.mp4",
+                "video_results": 0.9959708756959573
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person giving a presentation to a room full of colleagues-4.mp4",
+                "video_results": 0.996905172968107
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person washing the dishes-0.mp4",
+                "video_results": 0.9851618020568568
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person washing the dishes-1.mp4",
+                "video_results": 0.9841707036450769
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person washing the dishes-2.mp4",
+                "video_results": 0.979237401847313
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person washing the dishes-3.mp4",
+                "video_results": 0.9807793786689059
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person washing the dishes-4.mp4",
+                "video_results": 0.9781649255911855
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person eating a burger-0.mp4",
+                "video_results": 0.9860157604563816
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person eating a burger-1.mp4",
+                "video_results": 0.9829638260541484
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person eating a burger-2.mp4",
+                "video_results": 0.9896836112434944
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person eating a burger-3.mp4",
+                "video_results": 0.9897730386956094
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person eating a burger-4.mp4",
+                "video_results": 0.9884766594234144
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person walking in the snowstorm-0.mp4",
+                "video_results": 0.9640807282210724
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person walking in the snowstorm-1.mp4",
+                "video_results": 0.9813507507073045
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person walking in the snowstorm-2.mp4",
+                "video_results": 0.9899082449675473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person walking in the snowstorm-3.mp4",
+                "video_results": 0.9817150418520031
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person walking in the snowstorm-4.mp4",
+                "video_results": 0.9677478220599582
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person drinking coffee in a cafe-0.mp4",
+                "video_results": 0.9967193575443294
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person drinking coffee in a cafe-1.mp4",
+                "video_results": 0.9974937612052923
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person drinking coffee in a cafe-2.mp4",
+                "video_results": 0.9968482002031137
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person drinking coffee in a cafe-3.mp4",
+                "video_results": 0.997599286454551
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person drinking coffee in a cafe-4.mp4",
+                "video_results": 0.9970325717044147
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person playing guitar-0.mp4",
+                "video_results": 0.9752712489220224
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person playing guitar-1.mp4",
+                "video_results": 0.9751823082145666
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person playing guitar-2.mp4",
+                "video_results": 0.9734166905429225
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person playing guitar-3.mp4",
+                "video_results": 0.9696857208643489
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a person playing guitar-4.mp4",
+                "video_results": 0.9708809508612473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle leaning against a tree-0.mp4",
+                "video_results": 0.980106396141597
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle leaning against a tree-1.mp4",
+                "video_results": 0.9587735249674716
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle leaning against a tree-2.mp4",
+                "video_results": 0.9859523706521576
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle leaning against a tree-3.mp4",
+                "video_results": 0.9818028719589688
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle leaning against a tree-4.mp4",
+                "video_results": 0.9868772831374062
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle gliding through a snowy field-0.mp4",
+                "video_results": 0.9964141329467744
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle gliding through a snowy field-1.mp4",
+                "video_results": 0.9882951436168603
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle gliding through a snowy field-2.mp4",
+                "video_results": 0.9882767655190934
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle gliding through a snowy field-3.mp4",
+                "video_results": 0.9959017678830792
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle gliding through a snowy field-4.mp4",
+                "video_results": 0.9952218952829975
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle slowing down to stop-0.mp4",
+                "video_results": 0.9577210615052347
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle slowing down to stop-1.mp4",
+                "video_results": 0.961618267841473
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle slowing down to stop-2.mp4",
+                "video_results": 0.9633241251361655
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle slowing down to stop-3.mp4",
+                "video_results": 0.9706107967010107
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle slowing down to stop-4.mp4",
+                "video_results": 0.9675737863770122
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle accelerating to gain speed-0.mp4",
+                "video_results": 0.9669956701237594
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle accelerating to gain speed-1.mp4",
+                "video_results": 0.9824735696940814
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle accelerating to gain speed-2.mp4",
+                "video_results": 0.9561311300513647
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle accelerating to gain speed-3.mp4",
+                "video_results": 0.9742503120461147
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bicycle accelerating to gain speed-4.mp4",
+                "video_results": 0.9634438066410977
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car stuck in traffic during rush hour-0.mp4",
+                "video_results": 0.9663856105134956
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car stuck in traffic during rush hour-1.mp4",
+                "video_results": 0.9718709894982298
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car stuck in traffic during rush hour-2.mp4",
+                "video_results": 0.9801049753861807
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car stuck in traffic during rush hour-3.mp4",
+                "video_results": 0.9740261936709482
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car stuck in traffic during rush hour-4.mp4",
+                "video_results": 0.9710006082535252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car turning a corner-0.mp4",
+                "video_results": 0.9890469861073288
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car turning a corner-1.mp4",
+                "video_results": 0.9673487959275145
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car turning a corner-2.mp4",
+                "video_results": 0.9900402849170146
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car turning a corner-3.mp4",
+                "video_results": 0.9756210022637527
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car turning a corner-4.mp4",
+                "video_results": 0.9866244108947592
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car slowing down to stop-0.mp4",
+                "video_results": 0.9968159369988351
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car slowing down to stop-1.mp4",
+                "video_results": 0.9907404362593804
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car slowing down to stop-2.mp4",
+                "video_results": 0.9780607069168331
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car slowing down to stop-3.mp4",
+                "video_results": 0.9903313149623275
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car slowing down to stop-4.mp4",
+                "video_results": 0.9938315750007565
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car accelerating to gain speed-0.mp4",
+                "video_results": 0.978788861561214
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car accelerating to gain speed-1.mp4",
+                "video_results": 0.973602133875348
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car accelerating to gain speed-2.mp4",
+                "video_results": 0.9893947558286432
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car accelerating to gain speed-3.mp4",
+                "video_results": 0.9841604231439874
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a car accelerating to gain speed-4.mp4",
+                "video_results": 0.9831050080091835
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle cruising along a coastal highway-0.mp4",
+                "video_results": 0.9800810636706457
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle cruising along a coastal highway-1.mp4",
+                "video_results": 0.9733961777660525
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle cruising along a coastal highway-2.mp4",
+                "video_results": 0.9730674334017942
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle cruising along a coastal highway-3.mp4",
+                "video_results": 0.9831240142179557
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle cruising along a coastal highway-4.mp4",
+                "video_results": 0.9801109576884379
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle turning a corner-0.mp4",
+                "video_results": 0.9742225555442084
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle turning a corner-1.mp4",
+                "video_results": 0.9820650053520636
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle turning a corner-2.mp4",
+                "video_results": 0.9752931500677046
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle turning a corner-3.mp4",
+                "video_results": 0.9755994379860354
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle turning a corner-4.mp4",
+                "video_results": 0.9765743497148087
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle slowing down to stop-0.mp4",
+                "video_results": 0.9725685700061275
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle slowing down to stop-1.mp4",
+                "video_results": 0.954849837972419
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle slowing down to stop-2.mp4",
+                "video_results": 0.982737778903035
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle slowing down to stop-3.mp4",
+                "video_results": 0.9769493556247731
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle slowing down to stop-4.mp4",
+                "video_results": 0.9343452776075708
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle gliding through a snowy field-0.mp4",
+                "video_results": 0.9926917509191177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle gliding through a snowy field-1.mp4",
+                "video_results": 0.991574625591942
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle gliding through a snowy field-2.mp4",
+                "video_results": 0.9950889104484386
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle gliding through a snowy field-3.mp4",
+                "video_results": 0.9915909049431887
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle gliding through a snowy field-4.mp4",
+                "video_results": 0.9942488248626997
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle accelerating to gain speed-0.mp4",
+                "video_results": 0.9757037297075465
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle accelerating to gain speed-1.mp4",
+                "video_results": 0.9785509909355331
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle accelerating to gain speed-2.mp4",
+                "video_results": 0.9739490126104453
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle accelerating to gain speed-3.mp4",
+                "video_results": 0.9767067950878269
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a motorcycle accelerating to gain speed-4.mp4",
+                "video_results": 0.9774078411987865
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane soaring through a clear blue sky-0.mp4",
+                "video_results": 0.9938102542135682
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane soaring through a clear blue sky-1.mp4",
+                "video_results": 0.9937623593901295
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane soaring through a clear blue sky-2.mp4",
+                "video_results": 0.9952316892758261
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane soaring through a clear blue sky-3.mp4",
+                "video_results": 0.995774489710043
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane soaring through a clear blue sky-4.mp4",
+                "video_results": 0.9952069213246642
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane taking off-0.mp4",
+                "video_results": 0.9948792268064633
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane taking off-1.mp4",
+                "video_results": 0.9955804599086934
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane taking off-2.mp4",
+                "video_results": 0.9951374579683339
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane taking off-3.mp4",
+                "video_results": 0.9927963005514706
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane taking off-4.mp4",
+                "video_results": 0.9947602327485778
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane landing smoothly on a runway-0.mp4",
+                "video_results": 0.9908161010594438
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane landing smoothly on a runway-1.mp4",
+                "video_results": 0.9881111451525055
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane landing smoothly on a runway-2.mp4",
+                "video_results": 0.9881252186686789
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane landing smoothly on a runway-3.mp4",
+                "video_results": 0.9886040661972736
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane landing smoothly on a runway-4.mp4",
+                "video_results": 0.9764954429447319
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane accelerating to gain speed-0.mp4",
+                "video_results": 0.984538528712025
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane accelerating to gain speed-1.mp4",
+                "video_results": 0.98512011553271
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane accelerating to gain speed-2.mp4",
+                "video_results": 0.9895885485222252
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane accelerating to gain speed-3.mp4",
+                "video_results": 0.9852223486954581
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an airplane accelerating to gain speed-4.mp4",
+                "video_results": 0.9800001541318688
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus turning a corner-0.mp4",
+                "video_results": 0.97820119504206
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus turning a corner-1.mp4",
+                "video_results": 0.9908536430438302
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus turning a corner-2.mp4",
+                "video_results": 0.9755539768858933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus turning a corner-3.mp4",
+                "video_results": 0.971646299984114
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus turning a corner-4.mp4",
+                "video_results": 0.980315566562273
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus stuck in traffic during rush hour-0.mp4",
+                "video_results": 0.9763100927533437
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus stuck in traffic during rush hour-1.mp4",
+                "video_results": 0.9613162800131627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus stuck in traffic during rush hour-2.mp4",
+                "video_results": 0.9803007186043785
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus stuck in traffic during rush hour-3.mp4",
+                "video_results": 0.9715556269479242
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus stuck in traffic during rush hour-4.mp4",
+                "video_results": 0.9787479962857056
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus accelerating to gain speed-0.mp4",
+                "video_results": 0.9680844169843864
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus accelerating to gain speed-1.mp4",
+                "video_results": 0.9745133094759895
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus accelerating to gain speed-2.mp4",
+                "video_results": 0.9627854117968561
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus accelerating to gain speed-3.mp4",
+                "video_results": 0.9792376169700133
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bus accelerating to gain speed-4.mp4",
+                "video_results": 0.9690802369848402
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train speeding down the tracks-0.mp4",
+                "video_results": 0.9406445778205186
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train speeding down the tracks-1.mp4",
+                "video_results": 0.9703846384425684
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train speeding down the tracks-2.mp4",
+                "video_results": 0.9182559711915244
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train speeding down the tracks-3.mp4",
+                "video_results": 0.9675344484726761
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train speeding down the tracks-4.mp4",
+                "video_results": 0.9610234261528686
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train crossing over a tall bridge-0.mp4",
+                "video_results": 0.9625896425748154
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train crossing over a tall bridge-1.mp4",
+                "video_results": 0.9906587912846466
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train crossing over a tall bridge-2.mp4",
+                "video_results": 0.9708565923524116
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train crossing over a tall bridge-3.mp4",
+                "video_results": 0.9806696256675895
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train crossing over a tall bridge-4.mp4",
+                "video_results": 0.966301252155955
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train accelerating to gain speed-0.mp4",
+                "video_results": 0.9556340219150933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train accelerating to gain speed-1.mp4",
+                "video_results": 0.9685624215156742
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train accelerating to gain speed-2.mp4",
+                "video_results": 0.9641058796107177
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train accelerating to gain speed-3.mp4",
+                "video_results": 0.9759427908364349
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a train accelerating to gain speed-4.mp4",
+                "video_results": 0.9603857083825043
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck turning a corner-0.mp4",
+                "video_results": 0.98054006388435
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck turning a corner-1.mp4",
+                "video_results": 0.9784556639206609
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck turning a corner-2.mp4",
+                "video_results": 0.9751396997359901
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck turning a corner-3.mp4",
+                "video_results": 0.96878614605082
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck turning a corner-4.mp4",
+                "video_results": 0.9785210749326737
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck anchored in a tranquil bay-0.mp4",
+                "video_results": 0.9966761824183763
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck anchored in a tranquil bay-1.mp4",
+                "video_results": 0.9950100663239833
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck anchored in a tranquil bay-2.mp4",
+                "video_results": 0.9953140857616194
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck anchored in a tranquil bay-3.mp4",
+                "video_results": 0.9945045201770909
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck anchored in a tranquil bay-4.mp4",
+                "video_results": 0.9962854623861505
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck stuck in traffic during rush hour-0.mp4",
+                "video_results": 0.9625310398416698
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck stuck in traffic during rush hour-1.mp4",
+                "video_results": 0.9777257457429345
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck stuck in traffic during rush hour-2.mp4",
+                "video_results": 0.9716477268858933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck stuck in traffic during rush hour-3.mp4",
+                "video_results": 0.9733719835542242
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck stuck in traffic during rush hour-4.mp4",
+                "video_results": 0.9761817356572259
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck slowing down to stop-0.mp4",
+                "video_results": 0.9936967672968107
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck slowing down to stop-1.mp4",
+                "video_results": 0.9869185798403081
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck slowing down to stop-2.mp4",
+                "video_results": 0.996055252256188
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck slowing down to stop-3.mp4",
+                "video_results": 0.9887863819765946
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck slowing down to stop-4.mp4",
+                "video_results": 0.9922675677234629
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck accelerating to gain speed-0.mp4",
+                "video_results": 0.9625370242715141
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck accelerating to gain speed-1.mp4",
+                "video_results": 0.9863424072561123
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck accelerating to gain speed-2.mp4",
+                "video_results": 0.9801840159578492
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck accelerating to gain speed-3.mp4",
+                "video_results": 0.9797377136570291
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a truck accelerating to gain speed-4.mp4",
+                "video_results": 0.9767698128006991
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat sailing smoothly on a calm lake-0.mp4",
+                "video_results": 0.9883927031798444
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat sailing smoothly on a calm lake-1.mp4",
+                "video_results": 0.9762532433884048
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat sailing smoothly on a calm lake-2.mp4",
+                "video_results": 0.9934920832482299
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat sailing smoothly on a calm lake-3.mp4",
+                "video_results": 0.9948883480089568
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat sailing smoothly on a calm lake-4.mp4",
+                "video_results": 0.9950174518881627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat slowing down to stop-0.mp4",
+                "video_results": 0.9740104575636196
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat slowing down to stop-1.mp4",
+                "video_results": 0.9883890678426077
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat slowing down to stop-2.mp4",
+                "video_results": 0.9850262998139071
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat slowing down to stop-3.mp4",
+                "video_results": 0.9912347355078219
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat slowing down to stop-4.mp4",
+                "video_results": 0.9884186819644911
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat accelerating to gain speed-0.mp4",
+                "video_results": 0.9838910015829249
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat accelerating to gain speed-1.mp4",
+                "video_results": 0.9702829499421296
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat accelerating to gain speed-2.mp4",
+                "video_results": 0.9735648278167363
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat accelerating to gain speed-3.mp4",
+                "video_results": 0.9753535364280743
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a boat accelerating to gain speed-4.mp4",
+                "video_results": 0.9865307665649208
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird soaring gracefully in the sky-0.mp4",
+                "video_results": 0.9967526890337539
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird soaring gracefully in the sky-1.mp4",
+                "video_results": 0.9946025395352971
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird soaring gracefully in the sky-2.mp4",
+                "video_results": 0.9949931420774327
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird soaring gracefully in the sky-3.mp4",
+                "video_results": 0.9948883636112624
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird soaring gracefully in the sky-4.mp4",
+                "video_results": 0.9927118046099613
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird building a nest from twigs and leaves-0.mp4",
+                "video_results": 0.9893736686032437
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird building a nest from twigs and leaves-1.mp4",
+                "video_results": 0.9868534879663671
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird building a nest from twigs and leaves-2.mp4",
+                "video_results": 0.9666669465625757
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird building a nest from twigs and leaves-3.mp4",
+                "video_results": 0.9719562958140432
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird building a nest from twigs and leaves-4.mp4",
+                "video_results": 0.9884755866466958
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird flying over a snowy forest-0.mp4",
+                "video_results": 0.9564537032309066
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird flying over a snowy forest-1.mp4",
+                "video_results": 0.9772594462505296
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird flying over a snowy forest-2.mp4",
+                "video_results": 0.9773225107703188
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird flying over a snowy forest-3.mp4",
+                "video_results": 0.9671356220970255
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bird flying over a snowy forest-4.mp4",
+                "video_results": 0.9800592176058309
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat grooming itself meticulously with its tongue-0.mp4",
+                "video_results": 0.9794298473054345
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat grooming itself meticulously with its tongue-1.mp4",
+                "video_results": 0.9867035521722193
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat grooming itself meticulously with its tongue-2.mp4",
+                "video_results": 0.9866967408201707
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat grooming itself meticulously with its tongue-3.mp4",
+                "video_results": 0.9850604995952856
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat grooming itself meticulously with its tongue-4.mp4",
+                "video_results": 0.9875835250525751
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat playing in park-0.mp4",
+                "video_results": 0.992113057144154
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat playing in park-1.mp4",
+                "video_results": 0.9807623719192538
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat playing in park-2.mp4",
+                "video_results": 0.980510621860627
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat playing in park-3.mp4",
+                "video_results": 0.9892480958095043
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat playing in park-4.mp4",
+                "video_results": 0.9858314012478062
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat drinking water-0.mp4",
+                "video_results": 0.9767923179447319
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat drinking water-1.mp4",
+                "video_results": 0.982463084944626
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat drinking water-2.mp4",
+                "video_results": 0.9751271505178074
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat drinking water-3.mp4",
+                "video_results": 0.9814473549836601
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat drinking water-4.mp4",
+                "video_results": 0.9792567688003055
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat running happily-0.mp4",
+                "video_results": 0.9564504151631718
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat running happily-1.mp4",
+                "video_results": 0.96984371193983
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat running happily-2.mp4",
+                "video_results": 0.9585520653670419
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat running happily-3.mp4",
+                "video_results": 0.963041601893458
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cat running happily-4.mp4",
+                "video_results": 0.9641399061119432
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog enjoying a peaceful walk-0.mp4",
+                "video_results": 0.9694260779302075
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog enjoying a peaceful walk-1.mp4",
+                "video_results": 0.967946651697909
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog enjoying a peaceful walk-2.mp4",
+                "video_results": 0.9715687409222948
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog enjoying a peaceful walk-3.mp4",
+                "video_results": 0.9602839496716896
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog enjoying a peaceful walk-4.mp4",
+                "video_results": 0.9693792636846404
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog playing in park-0.mp4",
+                "video_results": 0.9582223196184338
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog playing in park-1.mp4",
+                "video_results": 0.9502844089941146
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog playing in park-2.mp4",
+                "video_results": 0.9803305882731179
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog playing in park-3.mp4",
+                "video_results": 0.9835280699664125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog playing in park-4.mp4",
+                "video_results": 0.9835507637565057
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog drinking water-0.mp4",
+                "video_results": 0.9843946336105815
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog drinking water-1.mp4",
+                "video_results": 0.9813018254224916
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog drinking water-2.mp4",
+                "video_results": 0.9744292723841079
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog drinking water-3.mp4",
+                "video_results": 0.9841766289752785
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog drinking water-4.mp4",
+                "video_results": 0.9788971065760409
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog running happily-0.mp4",
+                "video_results": 0.9692147305150841
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog running happily-1.mp4",
+                "video_results": 0.9744542379644758
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog running happily-2.mp4",
+                "video_results": 0.9760294966317931
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog running happily-3.mp4",
+                "video_results": 0.9693030899184519
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a dog running happily-4.mp4",
+                "video_results": 0.9740517459925714
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse bending down to drink water from a river-0.mp4",
+                "video_results": 0.9756368518423959
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse bending down to drink water from a river-1.mp4",
+                "video_results": 0.9801741028201404
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse bending down to drink water from a river-2.mp4",
+                "video_results": 0.9743528662381233
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse bending down to drink water from a river-3.mp4",
+                "video_results": 0.9819381288202009
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse bending down to drink water from a river-4.mp4",
+                "video_results": 0.9812599372503631
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse galloping across an open field-0.mp4",
+                "video_results": 0.9858780764910131
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse galloping across an open field-1.mp4",
+                "video_results": 0.9942627619768972
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse galloping across an open field-2.mp4",
+                "video_results": 0.9900429871890887
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse galloping across an open field-3.mp4",
+                "video_results": 0.9897291066214294
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse galloping across an open field-4.mp4",
+                "video_results": 0.9932874077099976
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse taking a peaceful walk-0.mp4",
+                "video_results": 0.9895469499383472
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse taking a peaceful walk-1.mp4",
+                "video_results": 0.9830574231042726
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse taking a peaceful walk-2.mp4",
+                "video_results": 0.9872346428395818
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse taking a peaceful walk-3.mp4",
+                "video_results": 0.9832657701487231
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse taking a peaceful walk-4.mp4",
+                "video_results": 0.9953401184451404
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse running to join a herd of its kind-0.mp4",
+                "video_results": 0.9874063206831729
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse running to join a herd of its kind-1.mp4",
+                "video_results": 0.9683146384614804
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse running to join a herd of its kind-2.mp4",
+                "video_results": 0.9814930947977184
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse running to join a herd of its kind-3.mp4",
+                "video_results": 0.980953304426516
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a horse running to join a herd of its kind-4.mp4",
+                "video_results": 0.9772504685419693
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep bending down to drink water from a river-0.mp4",
+                "video_results": 0.9806848173490076
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep bending down to drink water from a river-1.mp4",
+                "video_results": 0.9778861140424534
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep bending down to drink water from a river-2.mp4",
+                "video_results": 0.9656058268938362
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep bending down to drink water from a river-3.mp4",
+                "video_results": 0.9800355030467048
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep bending down to drink water from a river-4.mp4",
+                "video_results": 0.9692576612049141
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep taking a peaceful walk-0.mp4",
+                "video_results": 0.9833769772376544
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep taking a peaceful walk-1.mp4",
+                "video_results": 0.9886085830647845
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep taking a peaceful walk-2.mp4",
+                "video_results": 0.9745649594907407
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep taking a peaceful walk-3.mp4",
+                "video_results": 0.9870789890367798
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep taking a peaceful walk-4.mp4",
+                "video_results": 0.9826030884527808
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep running to join a herd of its kind-0.mp4",
+                "video_results": 0.9665826227192266
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep running to join a herd of its kind-1.mp4",
+                "video_results": 0.9642894135518791
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep running to join a herd of its kind-2.mp4",
+                "video_results": 0.9636231657834816
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep running to join a herd of its kind-3.mp4",
+                "video_results": 0.9667292768284012
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a sheep running to join a herd of its kind-4.mp4",
+                "video_results": 0.9700138669038217
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow bending down to drink water from a river-0.mp4",
+                "video_results": 0.9788845724873669
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow bending down to drink water from a river-1.mp4",
+                "video_results": 0.9787318854866406
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow bending down to drink water from a river-2.mp4",
+                "video_results": 0.9800645041870915
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow bending down to drink water from a river-3.mp4",
+                "video_results": 0.9801782936940209
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow bending down to drink water from a river-4.mp4",
+                "video_results": 0.9787077496652596
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow chewing cud while resting in a tranquil barn-0.mp4",
+                "video_results": 0.988740356356663
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow chewing cud while resting in a tranquil barn-1.mp4",
+                "video_results": 0.9895679163640765
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow chewing cud while resting in a tranquil barn-2.mp4",
+                "video_results": 0.9934626029279381
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow chewing cud while resting in a tranquil barn-3.mp4",
+                "video_results": 0.9875456615661311
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow chewing cud while resting in a tranquil barn-4.mp4",
+                "video_results": 0.9953522634217654
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow running to join a herd of its kind-0.mp4",
+                "video_results": 0.9703093306043482
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow running to join a herd of its kind-1.mp4",
+                "video_results": 0.9803073583310639
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow running to join a herd of its kind-2.mp4",
+                "video_results": 0.9775558869863532
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow running to join a herd of its kind-3.mp4",
+                "video_results": 0.9694665283262225
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a cow running to join a herd of its kind-4.mp4",
+                "video_results": 0.9636354003551653
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant spraying itself with water using its trunk to cool down-0.mp4",
+                "video_results": 0.9820811847067145
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant spraying itself with water using its trunk to cool down-1.mp4",
+                "video_results": 0.9862277092694718
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant spraying itself with water using its trunk to cool down-2.mp4",
+                "video_results": 0.9914020900943326
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant spraying itself with water using its trunk to cool down-3.mp4",
+                "video_results": 0.9837432524755658
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant spraying itself with water using its trunk to cool down-4.mp4",
+                "video_results": 0.9872862320999002
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant taking a peaceful walk-0.mp4",
+                "video_results": 0.9940070309663217
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant taking a peaceful walk-1.mp4",
+                "video_results": 0.9746017282153988
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant taking a peaceful walk-2.mp4",
+                "video_results": 0.9886816957058673
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant taking a peaceful walk-3.mp4",
+                "video_results": 0.966899313593107
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant taking a peaceful walk-4.mp4",
+                "video_results": 0.9889377236330489
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant running to join a herd of its kind-0.mp4",
+                "video_results": 0.9856683926126392
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant running to join a herd of its kind-1.mp4",
+                "video_results": 0.9790073241005508
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant running to join a herd of its kind-2.mp4",
+                "video_results": 0.9855907749239742
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant running to join a herd of its kind-3.mp4",
+                "video_results": 0.9877216579388314
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an elephant running to join a herd of its kind-4.mp4",
+                "video_results": 0.9753916521517944
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear catching a salmon in its powerful jaws-0.mp4",
+                "video_results": 0.9795520275432704
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear catching a salmon in its powerful jaws-1.mp4",
+                "video_results": 0.9746157379039578
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear catching a salmon in its powerful jaws-2.mp4",
+                "video_results": 0.9746891595179739
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear catching a salmon in its powerful jaws-3.mp4",
+                "video_results": 0.9831983353285372
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear catching a salmon in its powerful jaws-4.mp4",
+                "video_results": 0.9815879934583788
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear sniffing the air for scents of food-0.mp4",
+                "video_results": 0.9914037940552378
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear sniffing the air for scents of food-1.mp4",
+                "video_results": 0.9868056323850913
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear sniffing the air for scents of food-2.mp4",
+                "video_results": 0.9917486868059338
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear sniffing the air for scents of food-3.mp4",
+                "video_results": 0.9870153921474069
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear sniffing the air for scents of food-4.mp4",
+                "video_results": 0.9847827951010651
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear climbing a tree-0.mp4",
+                "video_results": 0.9796783709963538
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear climbing a tree-1.mp4",
+                "video_results": 0.9930416685578553
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear climbing a tree-2.mp4",
+                "video_results": 0.9538389605649358
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear climbing a tree-3.mp4",
+                "video_results": 0.9757674121732026
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear climbing a tree-4.mp4",
+                "video_results": 0.9763231627575799
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear hunting for prey-0.mp4",
+                "video_results": 0.9890987588129387
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear hunting for prey-1.mp4",
+                "video_results": 0.9808473096896938
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear hunting for prey-2.mp4",
+                "video_results": 0.9769408138351791
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear hunting for prey-3.mp4",
+                "video_results": 0.9723795152127208
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a bear hunting for prey-4.mp4",
+                "video_results": 0.9729360305464778
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra bending down to drink water from a river-0.mp4",
+                "video_results": 0.9884522642728002
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra bending down to drink water from a river-1.mp4",
+                "video_results": 0.9776285445601852
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra bending down to drink water from a river-2.mp4",
+                "video_results": 0.9900892102018276
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra bending down to drink water from a river-3.mp4",
+                "video_results": 0.9889339911359992
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra bending down to drink water from a river-4.mp4",
+                "video_results": 0.9788291899755658
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra running to join a herd of its kind-0.mp4",
+                "video_results": 0.9522854697145061
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra running to join a herd of its kind-1.mp4",
+                "video_results": 0.9456109574520394
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra running to join a herd of its kind-2.mp4",
+                "video_results": 0.9570055045407437
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra running to join a herd of its kind-3.mp4",
+                "video_results": 0.9511100388071896
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra running to join a herd of its kind-4.mp4",
+                "video_results": 0.975159897866361
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra taking a peaceful walk-0.mp4",
+                "video_results": 0.9888925585039186
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra taking a peaceful walk-1.mp4",
+                "video_results": 0.9928547396968047
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra taking a peaceful walk-2.mp4",
+                "video_results": 0.9847256719865801
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra taking a peaceful walk-3.mp4",
+                "video_results": 0.9884092643181888
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a zebra taking a peaceful walk-4.mp4",
+                "video_results": 0.9899749415149933
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe bending down to drink water from a river-0.mp4",
+                "video_results": 0.9915282335542241
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe bending down to drink water from a river-1.mp4",
+                "video_results": 0.9928107648344832
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe bending down to drink water from a river-2.mp4",
+                "video_results": 0.9783833027906379
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe bending down to drink water from a river-3.mp4",
+                "video_results": 0.9882054766929921
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe bending down to drink water from a river-4.mp4",
+                "video_results": 0.9861021492412552
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe taking a peaceful walk-0.mp4",
+                "video_results": 0.9829895755321805
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe taking a peaceful walk-1.mp4",
+                "video_results": 0.9966169312439482
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe taking a peaceful walk-2.mp4",
+                "video_results": 0.9891983804806646
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe taking a peaceful walk-3.mp4",
+                "video_results": 0.9942185696278898
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe taking a peaceful walk-4.mp4",
+                "video_results": 0.9790579616202191
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe running to join a herd of its kind-0.mp4",
+                "video_results": 0.98574709182477
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe running to join a herd of its kind-1.mp4",
+                "video_results": 0.9743045690643155
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe running to join a herd of its kind-2.mp4",
+                "video_results": 0.9864909400247367
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe running to join a herd of its kind-3.mp4",
+                "video_results": 0.978071605363789
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a giraffe running to join a herd of its kind-4.mp4",
+                "video_results": 0.9779338100546932
+            }
+        ]
+    ]
+}

@@ -1,0 +1,2587 @@
+{
+    "background_consistency": [
+        0.9538965387861859,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-0.mp4",
+                "video_results": 0.9815216064453125,
+                "video_sim": 47.113037109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-1.mp4",
+                "video_results": 0.9532623291015625,
+                "video_sim": 45.756591796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-2.mp4",
+                "video_results": 0.964599609375,
+                "video_sim": 46.30078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-3.mp4",
+                "video_results": 0.9823557535807291,
+                "video_sim": 47.153076171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-4.mp4",
+                "video_results": 0.9801686604817709,
+                "video_sim": 47.048095703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-0.mp4",
+                "video_results": 0.9556528727213541,
+                "video_sim": 45.871337890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-1.mp4",
+                "video_results": 0.9294789632161459,
+                "video_sim": 44.614990234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-2.mp4",
+                "video_results": 0.9054718017578125,
+                "video_sim": 43.462646484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-3.mp4",
+                "video_results": 0.9167734781901041,
+                "video_sim": 44.005126953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-4.mp4",
+                "video_results": 0.9642791748046875,
+                "video_sim": 46.285400390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-0.mp4",
+                "video_results": 0.9494883219401041,
+                "video_sim": 45.575439453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-1.mp4",
+                "video_results": 0.95513916015625,
+                "video_sim": 45.8466796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-2.mp4",
+                "video_results": 0.9784698486328125,
+                "video_sim": 46.966552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-3.mp4",
+                "video_results": 0.947998046875,
+                "video_sim": 45.50390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-4.mp4",
+                "video_results": 0.9513498942057291,
+                "video_sim": 45.664794921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-0.mp4",
+                "video_results": 0.9348602294921875,
+                "video_sim": 44.873291015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-1.mp4",
+                "video_results": 0.9727071126302084,
+                "video_sim": 46.68994140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-2.mp4",
+                "video_results": 0.941375732421875,
+                "video_sim": 45.18603515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-3.mp4",
+                "video_results": 0.9649759928385416,
+                "video_sim": 46.31884765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-4.mp4",
+                "video_results": 0.9694773356119791,
+                "video_sim": 46.534912109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-0.mp4",
+                "video_results": 0.9547678629557291,
+                "video_sim": 45.828857421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-1.mp4",
+                "video_results": 0.96661376953125,
+                "video_sim": 46.3974609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-2.mp4",
+                "video_results": 0.9642181396484375,
+                "video_sim": 46.282470703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-3.mp4",
+                "video_results": 0.9683430989583334,
+                "video_sim": 46.48046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-4.mp4",
+                "video_results": 0.8899027506510416,
+                "video_sim": 42.71533203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-0.mp4",
+                "video_results": 0.9681905110677084,
+                "video_sim": 46.47314453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-1.mp4",
+                "video_results": 0.9503021240234375,
+                "video_sim": 45.614501953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-2.mp4",
+                "video_results": 0.9812672932942709,
+                "video_sim": 47.100830078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-3.mp4",
+                "video_results": 0.9943135579427084,
+                "video_sim": 47.72705078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-4.mp4",
+                "video_results": 0.956573486328125,
+                "video_sim": 45.91552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-0.mp4",
+                "video_results": 0.9287363688151041,
+                "video_sim": 44.579345703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-1.mp4",
+                "video_results": 0.9814961751302084,
+                "video_sim": 47.11181640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-2.mp4",
+                "video_results": 0.9184722900390625,
+                "video_sim": 44.086669921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-3.mp4",
+                "video_results": 0.947540283203125,
+                "video_sim": 45.48193359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-4.mp4",
+                "video_results": 0.9530995686848959,
+                "video_sim": 45.748779296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-0.mp4",
+                "video_results": 0.9273478190104166,
+                "video_sim": 44.5126953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-1.mp4",
+                "video_results": 0.9186299641927084,
+                "video_sim": 44.09423828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-2.mp4",
+                "video_results": 0.913177490234375,
+                "video_sim": 43.83251953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-3.mp4",
+                "video_results": 0.9278157552083334,
+                "video_sim": 44.53515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-4.mp4",
+                "video_results": 0.9402516682942709,
+                "video_sim": 45.132080078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-0.mp4",
+                "video_results": 0.9695892333984375,
+                "video_sim": 46.540283203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-1.mp4",
+                "video_results": 0.9705098470052084,
+                "video_sim": 46.58447265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-2.mp4",
+                "video_results": 0.9741312662760416,
+                "video_sim": 46.75830078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-3.mp4",
+                "video_results": 0.9565277099609375,
+                "video_sim": 45.913330078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-4.mp4",
+                "video_results": 0.978363037109375,
+                "video_sim": 46.96142578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-0.mp4",
+                "video_results": 0.926849365234375,
+                "video_sim": 44.48876953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-1.mp4",
+                "video_results": 0.9672037760416666,
+                "video_sim": 46.42578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-2.mp4",
+                "video_results": 0.9567413330078125,
+                "video_sim": 45.923583984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-3.mp4",
+                "video_results": 0.9456888834635416,
+                "video_sim": 45.39306640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-4.mp4",
+                "video_results": 0.9455464680989584,
+                "video_sim": 45.38623046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-0.mp4",
+                "video_results": 0.9791514078776041,
+                "video_sim": 46.999267578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-1.mp4",
+                "video_results": 0.9497782389322916,
+                "video_sim": 45.58935546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-2.mp4",
+                "video_results": 0.9434916178385416,
+                "video_sim": 45.28759765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-3.mp4",
+                "video_results": 0.9713897705078125,
+                "video_sim": 46.626708984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-4.mp4",
+                "video_results": 0.9431610107421875,
+                "video_sim": 45.271728515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-0.mp4",
+                "video_results": 0.9833475748697916,
+                "video_sim": 47.20068359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-1.mp4",
+                "video_results": 0.9597117106119791,
+                "video_sim": 46.066162109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-2.mp4",
+                "video_results": 0.9730122884114584,
+                "video_sim": 46.70458984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-3.mp4",
+                "video_results": 0.9446258544921875,
+                "video_sim": 45.342041015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-4.mp4",
+                "video_results": 0.9348856608072916,
+                "video_sim": 44.87451171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-0.mp4",
+                "video_results": 0.9948883056640625,
+                "video_sim": 47.754638671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-1.mp4",
+                "video_results": 0.9808197021484375,
+                "video_sim": 47.079345703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-2.mp4",
+                "video_results": 0.9829610188802084,
+                "video_sim": 47.18212890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-3.mp4",
+                "video_results": 0.9843546549479166,
+                "video_sim": 47.2490234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-4.mp4",
+                "video_results": 0.9903767903645834,
+                "video_sim": 47.5380859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-0.mp4",
+                "video_results": 0.9359537760416666,
+                "video_sim": 44.92578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-1.mp4",
+                "video_results": 0.9826456705729166,
+                "video_sim": 47.1669921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-2.mp4",
+                "video_results": 0.9465891520182291,
+                "video_sim": 45.436279296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-3.mp4",
+                "video_results": 0.9290873209635416,
+                "video_sim": 44.59619140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-4.mp4",
+                "video_results": 0.9523162841796875,
+                "video_sim": 45.711181640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-0.mp4",
+                "video_results": 0.9527130126953125,
+                "video_sim": 45.730224609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-1.mp4",
+                "video_results": 0.9486033121744791,
+                "video_sim": 45.532958984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-2.mp4",
+                "video_results": 0.9798380533854166,
+                "video_sim": 47.0322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-3.mp4",
+                "video_results": 0.951080322265625,
+                "video_sim": 45.65185546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-4.mp4",
+                "video_results": 0.9613850911458334,
+                "video_sim": 46.146484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-0.mp4",
+                "video_results": 0.9547983805338541,
+                "video_sim": 45.830322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-1.mp4",
+                "video_results": 0.9682566324869791,
+                "video_sim": 46.476318359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-2.mp4",
+                "video_results": 0.9724578857421875,
+                "video_sim": 46.677978515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-3.mp4",
+                "video_results": 0.9822896321614584,
+                "video_sim": 47.14990234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-4.mp4",
+                "video_results": 0.9600067138671875,
+                "video_sim": 46.080322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-0.mp4",
+                "video_results": 0.9364980061848959,
+                "video_sim": 44.951904296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-1.mp4",
+                "video_results": 0.957611083984375,
+                "video_sim": 45.96533203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-2.mp4",
+                "video_results": 0.9776357014973959,
+                "video_sim": 46.926513671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-3.mp4",
+                "video_results": 0.978363037109375,
+                "video_sim": 46.96142578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-4.mp4",
+                "video_results": 0.9663543701171875,
+                "video_sim": 46.385009765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-0.mp4",
+                "video_results": 0.8624471028645834,
+                "video_sim": 41.3974609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-1.mp4",
+                "video_results": 0.9650472005208334,
+                "video_sim": 46.322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-2.mp4",
+                "video_results": 0.9909210205078125,
+                "video_sim": 47.564208984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-3.mp4",
+                "video_results": 0.9437255859375,
+                "video_sim": 45.298828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-4.mp4",
+                "video_results": 0.9597574869791666,
+                "video_sim": 46.068359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-0.mp4",
+                "video_results": 0.9071044921875,
+                "video_sim": 43.541015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-1.mp4",
+                "video_results": 0.9582977294921875,
+                "video_sim": 45.998291015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-2.mp4",
+                "video_results": 0.9059855143229166,
+                "video_sim": 43.4873046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-3.mp4",
+                "video_results": 0.9389444986979166,
+                "video_sim": 45.0693359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-4.mp4",
+                "video_results": 0.9015706380208334,
+                "video_sim": 43.275390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-0.mp4",
+                "video_results": 0.9630839029947916,
+                "video_sim": 46.22802734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-1.mp4",
+                "video_results": 0.946136474609375,
+                "video_sim": 45.41455078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-2.mp4",
+                "video_results": 0.9358571370442709,
+                "video_sim": 44.921142578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-3.mp4",
+                "video_results": 0.9221242268880209,
+                "video_sim": 44.261962890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-4.mp4",
+                "video_results": 0.9469757080078125,
+                "video_sim": 45.454833984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-0.mp4",
+                "video_results": 0.9503275553385416,
+                "video_sim": 45.61572265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-1.mp4",
+                "video_results": 0.95306396484375,
+                "video_sim": 45.7470703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-2.mp4",
+                "video_results": 0.971160888671875,
+                "video_sim": 46.61572265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-3.mp4",
+                "video_results": 0.9667867024739584,
+                "video_sim": 46.40576171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-4.mp4",
+                "video_results": 0.9704335530598959,
+                "video_sim": 46.580810546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-0.mp4",
+                "video_results": 0.974609375,
+                "video_sim": 46.78125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-1.mp4",
+                "video_results": 0.9514109293619791,
+                "video_sim": 45.667724609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-2.mp4",
+                "video_results": 0.9488881429036459,
+                "video_sim": 45.546630859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-3.mp4",
+                "video_results": 0.9618682861328125,
+                "video_sim": 46.169677734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-4.mp4",
+                "video_results": 0.9390106201171875,
+                "video_sim": 45.072509765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-0.mp4",
+                "video_results": 0.9550933837890625,
+                "video_sim": 45.844482421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-1.mp4",
+                "video_results": 0.9694061279296875,
+                "video_sim": 46.531494140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-2.mp4",
+                "video_results": 0.9677886962890625,
+                "video_sim": 46.453857421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-3.mp4",
+                "video_results": 0.9705251057942709,
+                "video_sim": 46.585205078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-4.mp4",
+                "video_results": 0.9537404378255209,
+                "video_sim": 45.779541015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-0.mp4",
+                "video_results": 0.9267069498697916,
+                "video_sim": 44.48193359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-1.mp4",
+                "video_results": 0.9005381266276041,
+                "video_sim": 43.225830078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-2.mp4",
+                "video_results": 0.9507344563802084,
+                "video_sim": 45.63525390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-3.mp4",
+                "video_results": 0.9284617106119791,
+                "video_sim": 44.566162109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-4.mp4",
+                "video_results": 0.8859303792317709,
+                "video_sim": 42.524658203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-0.mp4",
+                "video_results": 0.9136555989583334,
+                "video_sim": 43.85546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-1.mp4",
+                "video_results": 0.9465433756510416,
+                "video_sim": 45.43408203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-2.mp4",
+                "video_results": 0.9289906819661459,
+                "video_sim": 44.591552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-3.mp4",
+                "video_results": 0.9591064453125,
+                "video_sim": 46.037109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-4.mp4",
+                "video_results": 0.9343312581380209,
+                "video_sim": 44.847900390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-0.mp4",
+                "video_results": 0.9450531005859375,
+                "video_sim": 45.362548828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-1.mp4",
+                "video_results": 0.9808400472005209,
+                "video_sim": 47.080322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-2.mp4",
+                "video_results": 0.9328969319661459,
+                "video_sim": 44.779052734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-3.mp4",
+                "video_results": 0.9222259521484375,
+                "video_sim": 44.266845703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-4.mp4",
+                "video_results": 0.9354604085286459,
+                "video_sim": 44.902099609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-0.mp4",
+                "video_results": 0.9395853678385416,
+                "video_sim": 45.10009765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-1.mp4",
+                "video_results": 0.9489034016927084,
+                "video_sim": 45.54736328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-2.mp4",
+                "video_results": 0.9505055745442709,
+                "video_sim": 45.624267578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-3.mp4",
+                "video_results": 0.9870452880859375,
+                "video_sim": 47.378173828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-4.mp4",
+                "video_results": 0.9467417399088541,
+                "video_sim": 45.443603515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-0.mp4",
+                "video_results": 0.9606272379557291,
+                "video_sim": 46.110107421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-1.mp4",
+                "video_results": 0.9294586181640625,
+                "video_sim": 44.614013671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-2.mp4",
+                "video_results": 0.9606374104817709,
+                "video_sim": 46.110595703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-3.mp4",
+                "video_results": 0.9662017822265625,
+                "video_sim": 46.377685546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-4.mp4",
+                "video_results": 0.977447509765625,
+                "video_sim": 46.91748046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-0.mp4",
+                "video_results": 0.9447835286458334,
+                "video_sim": 45.349609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-1.mp4",
+                "video_results": 0.9657236735026041,
+                "video_sim": 46.354736328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-2.mp4",
+                "video_results": 0.9412587483723959,
+                "video_sim": 45.180419921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-3.mp4",
+                "video_results": 0.9513956705729166,
+                "video_sim": 45.6669921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-4.mp4",
+                "video_results": 0.951202392578125,
+                "video_sim": 45.65771484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-0.mp4",
+                "video_results": 0.9544474283854166,
+                "video_sim": 45.8134765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-1.mp4",
+                "video_results": 0.9903157552083334,
+                "video_sim": 47.53515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-2.mp4",
+                "video_results": 0.9657236735026041,
+                "video_sim": 46.354736328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-3.mp4",
+                "video_results": 0.9558614095052084,
+                "video_sim": 45.88134765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-4.mp4",
+                "video_results": 0.9460805257161459,
+                "video_sim": 45.411865234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-0.mp4",
+                "video_results": 0.9331003824869791,
+                "video_sim": 44.788818359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-1.mp4",
+                "video_results": 0.9766998291015625,
+                "video_sim": 46.881591796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-2.mp4",
+                "video_results": 0.9647928873697916,
+                "video_sim": 46.31005859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-3.mp4",
+                "video_results": 0.9306793212890625,
+                "video_sim": 44.672607421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-4.mp4",
+                "video_results": 0.9257965087890625,
+                "video_sim": 44.438232421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-0.mp4",
+                "video_results": 0.9320170084635416,
+                "video_sim": 44.73681640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-1.mp4",
+                "video_results": 0.9574788411458334,
+                "video_sim": 45.958984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-2.mp4",
+                "video_results": 0.9410349527994791,
+                "video_sim": 45.169677734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-3.mp4",
+                "video_results": 0.9027150472005209,
+                "video_sim": 43.330322265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-4.mp4",
+                "video_results": 0.9152577718098959,
+                "video_sim": 43.932373046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-0.mp4",
+                "video_results": 0.936004638671875,
+                "video_sim": 44.92822265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-1.mp4",
+                "video_results": 0.9505767822265625,
+                "video_sim": 45.627685546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-2.mp4",
+                "video_results": 0.9528656005859375,
+                "video_sim": 45.737548828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-3.mp4",
+                "video_results": 0.9666392008463541,
+                "video_sim": 46.398681640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-4.mp4",
+                "video_results": 0.9310709635416666,
+                "video_sim": 44.69140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-0.mp4",
+                "video_results": 0.9676310221354166,
+                "video_sim": 46.4462890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-1.mp4",
+                "video_results": 0.9648183186848959,
+                "video_sim": 46.311279296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-2.mp4",
+                "video_results": 0.942138671875,
+                "video_sim": 45.22265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-3.mp4",
+                "video_results": 0.9503987630208334,
+                "video_sim": 45.619140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-4.mp4",
+                "video_results": 0.9727325439453125,
+                "video_sim": 46.691162109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-0.mp4",
+                "video_results": 0.9587148030598959,
+                "video_sim": 46.018310546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-1.mp4",
+                "video_results": 0.934906005859375,
+                "video_sim": 44.87548828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-2.mp4",
+                "video_results": 0.9601542154947916,
+                "video_sim": 46.08740234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-3.mp4",
+                "video_results": 0.9488372802734375,
+                "video_sim": 45.544189453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-4.mp4",
+                "video_results": 0.9552052815755209,
+                "video_sim": 45.849853515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-0.mp4",
+                "video_results": 0.9644317626953125,
+                "video_sim": 46.292724609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-1.mp4",
+                "video_results": 0.9592946370442709,
+                "video_sim": 46.046142578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-2.mp4",
+                "video_results": 0.9349416097005209,
+                "video_sim": 44.877197265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-3.mp4",
+                "video_results": 0.9537200927734375,
+                "video_sim": 45.778564453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-4.mp4",
+                "video_results": 0.9421437581380209,
+                "video_sim": 45.222900390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-0.mp4",
+                "video_results": 0.97332763671875,
+                "video_sim": 46.7197265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-1.mp4",
+                "video_results": 0.946746826171875,
+                "video_sim": 45.44384765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-2.mp4",
+                "video_results": 0.9378102620442709,
+                "video_sim": 45.014892578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-3.mp4",
+                "video_results": 0.9579315185546875,
+                "video_sim": 45.980712890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-4.mp4",
+                "video_results": 0.920501708984375,
+                "video_sim": 44.18408203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-0.mp4",
+                "video_results": 0.983612060546875,
+                "video_sim": 47.21337890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-1.mp4",
+                "video_results": 0.956329345703125,
+                "video_sim": 45.90380859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-2.mp4",
+                "video_results": 0.93621826171875,
+                "video_sim": 44.9384765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-3.mp4",
+                "video_results": 0.9800364176432291,
+                "video_sim": 47.041748046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-4.mp4",
+                "video_results": 0.9519246419270834,
+                "video_sim": 45.6923828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-0.mp4",
+                "video_results": 0.9305979410807291,
+                "video_sim": 44.668701171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-1.mp4",
+                "video_results": 0.9748636881510416,
+                "video_sim": 46.79345703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-2.mp4",
+                "video_results": 0.9449920654296875,
+                "video_sim": 45.359619140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-3.mp4",
+                "video_results": 0.961944580078125,
+                "video_sim": 46.17333984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-4.mp4",
+                "video_results": 0.9665985107421875,
+                "video_sim": 46.396728515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-0.mp4",
+                "video_results": 0.95037841796875,
+                "video_sim": 45.6181640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-1.mp4",
+                "video_results": 0.9518534342447916,
+                "video_sim": 45.68896484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-2.mp4",
+                "video_results": 0.9354451497395834,
+                "video_sim": 44.9013671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-3.mp4",
+                "video_results": 0.906646728515625,
+                "video_sim": 43.51904296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-4.mp4",
+                "video_results": 0.9686075846354166,
+                "video_sim": 46.4931640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-0.mp4",
+                "video_results": 0.93060302734375,
+                "video_sim": 44.6689453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-1.mp4",
+                "video_results": 0.9373321533203125,
+                "video_sim": 44.991943359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-2.mp4",
+                "video_results": 0.9418996175130209,
+                "video_sim": 45.211181640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-3.mp4",
+                "video_results": 0.9479014078776041,
+                "video_sim": 45.499267578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-4.mp4",
+                "video_results": 0.9663543701171875,
+                "video_sim": 46.385009765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-0.mp4",
+                "video_results": 0.9845377604166666,
+                "video_sim": 47.2578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-1.mp4",
+                "video_results": 0.9665323893229166,
+                "video_sim": 46.3935546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-2.mp4",
+                "video_results": 0.9697774251302084,
+                "video_sim": 46.54931640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-3.mp4",
+                "video_results": 0.9698486328125,
+                "video_sim": 46.552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-4.mp4",
+                "video_results": 0.9820149739583334,
+                "video_sim": 47.13671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-0.mp4",
+                "video_results": 0.9109649658203125,
+                "video_sim": 43.726318359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-1.mp4",
+                "video_results": 0.9766998291015625,
+                "video_sim": 46.881591796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-2.mp4",
+                "video_results": 0.9688161214192709,
+                "video_sim": 46.503173828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-3.mp4",
+                "video_results": 0.9535929361979166,
+                "video_sim": 45.7724609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-4.mp4",
+                "video_results": 0.9582112630208334,
+                "video_sim": 45.994140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-0.mp4",
+                "video_results": 0.9643096923828125,
+                "video_sim": 46.286865234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-1.mp4",
+                "video_results": 0.9804433186848959,
+                "video_sim": 47.061279296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-2.mp4",
+                "video_results": 0.9869639078776041,
+                "video_sim": 47.374267578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-3.mp4",
+                "video_results": 0.9662068684895834,
+                "video_sim": 46.3779296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-4.mp4",
+                "video_results": 0.9910176595052084,
+                "video_sim": 47.56884765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-0.mp4",
+                "video_results": 0.9662933349609375,
+                "video_sim": 46.382080078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-1.mp4",
+                "video_results": 0.9452107747395834,
+                "video_sim": 45.3701171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-2.mp4",
+                "video_results": 0.9518788655598959,
+                "video_sim": 45.690185546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-3.mp4",
+                "video_results": 0.9391682942708334,
+                "video_sim": 45.080078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-4.mp4",
+                "video_results": 0.934417724609375,
+                "video_sim": 44.85205078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-0.mp4",
+                "video_results": 0.9669850667317709,
+                "video_sim": 46.415283203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-1.mp4",
+                "video_results": 0.9880421956380209,
+                "video_sim": 47.426025390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-2.mp4",
+                "video_results": 0.9299214680989584,
+                "video_sim": 44.63623046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-3.mp4",
+                "video_results": 0.9463857014973959,
+                "video_sim": 45.426513671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-4.mp4",
+                "video_results": 0.8960622151692709,
+                "video_sim": 43.010986328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-0.mp4",
+                "video_results": 0.9239654541015625,
+                "video_sim": 44.350341796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-1.mp4",
+                "video_results": 0.9340260823567709,
+                "video_sim": 44.833251953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-2.mp4",
+                "video_results": 0.8990681966145834,
+                "video_sim": 43.1552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-3.mp4",
+                "video_results": 0.9628753662109375,
+                "video_sim": 46.218017578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-4.mp4",
+                "video_results": 0.9616495768229166,
+                "video_sim": 46.1591796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-0.mp4",
+                "video_results": 0.952545166015625,
+                "video_sim": 45.72216796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-1.mp4",
+                "video_results": 0.96783447265625,
+                "video_sim": 46.4560546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-2.mp4",
+                "video_results": 0.965301513671875,
+                "video_sim": 46.33447265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-3.mp4",
+                "video_results": 0.9760335286458334,
+                "video_sim": 46.849609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-4.mp4",
+                "video_results": 0.94720458984375,
+                "video_sim": 45.4658203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-0.mp4",
+                "video_results": 0.9762115478515625,
+                "video_sim": 46.858154296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-1.mp4",
+                "video_results": 0.9578145345052084,
+                "video_sim": 45.97509765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-2.mp4",
+                "video_results": 0.9453684488932291,
+                "video_sim": 45.377685546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-3.mp4",
+                "video_results": 0.9799245198567709,
+                "video_sim": 47.036376953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-4.mp4",
+                "video_results": 0.9264729817708334,
+                "video_sim": 44.470703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-0.mp4",
+                "video_results": 0.9509684244791666,
+                "video_sim": 45.646484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-1.mp4",
+                "video_results": 0.9764912923177084,
+                "video_sim": 46.87158203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-2.mp4",
+                "video_results": 0.961944580078125,
+                "video_sim": 46.17333984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-3.mp4",
+                "video_results": 0.9868062337239584,
+                "video_sim": 47.36669921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-4.mp4",
+                "video_results": 0.9790598551432291,
+                "video_sim": 46.994873046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-0.mp4",
+                "video_results": 0.9663645426432291,
+                "video_sim": 46.385498046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-1.mp4",
+                "video_results": 0.9552001953125,
+                "video_sim": 45.849609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-2.mp4",
+                "video_results": 0.9543711344401041,
+                "video_sim": 45.809814453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-3.mp4",
+                "video_results": 0.9590861002604166,
+                "video_sim": 46.0361328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-4.mp4",
+                "video_results": 0.95965576171875,
+                "video_sim": 46.0634765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-0.mp4",
+                "video_results": 0.9733225504557291,
+                "video_sim": 46.719482421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-1.mp4",
+                "video_results": 0.9145660400390625,
+                "video_sim": 43.899169921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-2.mp4",
+                "video_results": 0.9667104085286459,
+                "video_sim": 46.402099609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-3.mp4",
+                "video_results": 0.9914601643880209,
+                "video_sim": 47.590087890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-4.mp4",
+                "video_results": 0.9742787679036459,
+                "video_sim": 46.765380859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-0.mp4",
+                "video_results": 0.9735361735026041,
+                "video_sim": 46.729736328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-1.mp4",
+                "video_results": 0.974945068359375,
+                "video_sim": 46.79736328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-2.mp4",
+                "video_results": 0.9771321614583334,
+                "video_sim": 46.90234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-3.mp4",
+                "video_results": 0.9443359375,
+                "video_sim": 45.328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-4.mp4",
+                "video_results": 0.9726003011067709,
+                "video_sim": 46.684814453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-0.mp4",
+                "video_results": 0.9745941162109375,
+                "video_sim": 46.780517578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-1.mp4",
+                "video_results": 0.9667460123697916,
+                "video_sim": 46.40380859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-2.mp4",
+                "video_results": 0.97857666015625,
+                "video_sim": 46.9716796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-3.mp4",
+                "video_results": 0.9755808512369791,
+                "video_sim": 46.827880859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-4.mp4",
+                "video_results": 0.9616343180338541,
+                "video_sim": 46.158447265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-0.mp4",
+                "video_results": 0.9600728352864584,
+                "video_sim": 46.08349609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-1.mp4",
+                "video_results": 0.9591827392578125,
+                "video_sim": 46.040771484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-2.mp4",
+                "video_results": 0.9615376790364584,
+                "video_sim": 46.15380859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-3.mp4",
+                "video_results": 0.9693247477213541,
+                "video_sim": 46.527587890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-4.mp4",
+                "video_results": 0.9521840413411459,
+                "video_sim": 45.704833984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-0.mp4",
+                "video_results": 0.9759267171223959,
+                "video_sim": 46.844482421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-1.mp4",
+                "video_results": 0.9751332600911459,
+                "video_sim": 46.806396484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-2.mp4",
+                "video_results": 0.9686330159505209,
+                "video_sim": 46.494384765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-3.mp4",
+                "video_results": 0.9799957275390625,
+                "video_sim": 47.039794921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-4.mp4",
+                "video_results": 0.9347788492838541,
+                "video_sim": 44.869384765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-0.mp4",
+                "video_results": 0.96929931640625,
+                "video_sim": 46.5263671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-1.mp4",
+                "video_results": 0.956146240234375,
+                "video_sim": 45.89501953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-2.mp4",
+                "video_results": 0.9526570638020834,
+                "video_sim": 45.7275390625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-3.mp4",
+                "video_results": 0.9495747884114584,
+                "video_sim": 45.57958984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-4.mp4",
+                "video_results": 0.9149881998697916,
+                "video_sim": 43.91943359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-0.mp4",
+                "video_results": 0.9426015218098959,
+                "video_sim": 45.244873046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-1.mp4",
+                "video_results": 0.9662882486979166,
+                "video_sim": 46.3818359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-2.mp4",
+                "video_results": 0.9163970947265625,
+                "video_sim": 43.987060546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-3.mp4",
+                "video_results": 0.9410400390625,
+                "video_sim": 45.169921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-4.mp4",
+                "video_results": 0.9462178548177084,
+                "video_sim": 45.41845703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-0.mp4",
+                "video_results": 0.9499104817708334,
+                "video_sim": 45.595703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-1.mp4",
+                "video_results": 0.9297027587890625,
+                "video_sim": 44.625732421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-2.mp4",
+                "video_results": 0.9564005533854166,
+                "video_sim": 45.9072265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-3.mp4",
+                "video_results": 0.9371897379557291,
+                "video_sim": 44.985107421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-4.mp4",
+                "video_results": 0.964691162109375,
+                "video_sim": 46.30517578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-0.mp4",
+                "video_results": 0.9725189208984375,
+                "video_sim": 46.680908203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-1.mp4",
+                "video_results": 0.99090576171875,
+                "video_sim": 47.5634765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-2.mp4",
+                "video_results": 0.9888814290364584,
+                "video_sim": 47.46630859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-3.mp4",
+                "video_results": 0.934906005859375,
+                "video_sim": 44.87548828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-4.mp4",
+                "video_results": 0.9773661295572916,
+                "video_sim": 46.91357421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-0.mp4",
+                "video_results": 0.8960418701171875,
+                "video_sim": 43.010009765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-1.mp4",
+                "video_results": 0.9676055908203125,
+                "video_sim": 46.445068359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-2.mp4",
+                "video_results": 0.9866892496744791,
+                "video_sim": 47.361083984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-3.mp4",
+                "video_results": 0.9564259847005209,
+                "video_sim": 45.908447265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-4.mp4",
+                "video_results": 0.9764353434244791,
+                "video_sim": 46.868896484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-0.mp4",
+                "video_results": 0.9211629231770834,
+                "video_sim": 44.2158203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-1.mp4",
+                "video_results": 0.9565531412760416,
+                "video_sim": 45.91455078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-2.mp4",
+                "video_results": 0.9426727294921875,
+                "video_sim": 45.248291015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-3.mp4",
+                "video_results": 0.94085693359375,
+                "video_sim": 45.1611328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-4.mp4",
+                "video_results": 0.9187418619791666,
+                "video_sim": 44.099609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-0.mp4",
+                "video_results": 0.9755401611328125,
+                "video_sim": 46.825927734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-1.mp4",
+                "video_results": 0.9793141682942709,
+                "video_sim": 47.007080078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-2.mp4",
+                "video_results": 0.9719034830729166,
+                "video_sim": 46.6513671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-3.mp4",
+                "video_results": 0.9705708821614584,
+                "video_sim": 46.58740234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-4.mp4",
+                "video_results": 0.9871622721354166,
+                "video_sim": 47.3837890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-0.mp4",
+                "video_results": 0.9168599446614584,
+                "video_sim": 44.00927734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-1.mp4",
+                "video_results": 0.9746805826822916,
+                "video_sim": 46.78466796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-2.mp4",
+                "video_results": 0.9623667399088541,
+                "video_sim": 46.193603515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-3.mp4",
+                "video_results": 0.9615122477213541,
+                "video_sim": 46.152587890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-4.mp4",
+                "video_results": 0.945892333984375,
+                "video_sim": 45.40283203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-0.mp4",
+                "video_results": 0.9438069661458334,
+                "video_sim": 45.302734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-1.mp4",
+                "video_results": 0.9300740559895834,
+                "video_sim": 44.6435546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-2.mp4",
+                "video_results": 0.9051513671875,
+                "video_sim": 43.447265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-3.mp4",
+                "video_results": 0.9297332763671875,
+                "video_sim": 44.627197265625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-4.mp4",
+                "video_results": 0.9519297281901041,
+                "video_sim": 45.692626953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-0.mp4",
+                "video_results": 0.9663187662760416,
+                "video_sim": 46.38330078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-1.mp4",
+                "video_results": 0.97076416015625,
+                "video_sim": 46.5966796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-2.mp4",
+                "video_results": 0.9766896565755209,
+                "video_sim": 46.881103515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-3.mp4",
+                "video_results": 0.9266001383463541,
+                "video_sim": 44.476806640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-4.mp4",
+                "video_results": 0.9737141927083334,
+                "video_sim": 46.73828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-0.mp4",
+                "video_results": 0.970489501953125,
+                "video_sim": 46.58349609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-1.mp4",
+                "video_results": 0.974517822265625,
+                "video_sim": 46.77685546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-2.mp4",
+                "video_results": 0.9728342692057291,
+                "video_sim": 46.696044921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-3.mp4",
+                "video_results": 0.968994140625,
+                "video_sim": 46.51171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-4.mp4",
+                "video_results": 0.9585723876953125,
+                "video_sim": 46.011474609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-0.mp4",
+                "video_results": 0.972564697265625,
+                "video_sim": 46.68310546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-1.mp4",
+                "video_results": 0.9702046712239584,
+                "video_sim": 46.56982421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-2.mp4",
+                "video_results": 0.9314320882161459,
+                "video_sim": 44.708740234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-3.mp4",
+                "video_results": 0.9510701497395834,
+                "video_sim": 45.6513671875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-4.mp4",
+                "video_results": 0.9402872721354166,
+                "video_sim": 45.1337890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-0.mp4",
+                "video_results": 0.9417317708333334,
+                "video_sim": 45.203125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-1.mp4",
+                "video_results": 0.9419809977213541,
+                "video_sim": 45.215087890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-2.mp4",
+                "video_results": 0.956817626953125,
+                "video_sim": 45.92724609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-3.mp4",
+                "video_results": 0.9511464436848959,
+                "video_sim": 45.655029296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-4.mp4",
+                "video_results": 0.9178721110026041,
+                "video_sim": 44.057861328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-0.mp4",
+                "video_results": 0.9205474853515625,
+                "video_sim": 44.186279296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-1.mp4",
+                "video_results": 0.9705403645833334,
+                "video_sim": 46.5859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-2.mp4",
+                "video_results": 0.9123738606770834,
+                "video_sim": 43.7939453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-3.mp4",
+                "video_results": 0.9528605143229166,
+                "video_sim": 45.7373046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-4.mp4",
+                "video_results": 0.9741058349609375,
+                "video_sim": 46.757080078125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-0.mp4",
+                "video_results": 0.9561767578125,
+                "video_sim": 45.896484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-1.mp4",
+                "video_results": 0.930877685546875,
+                "video_sim": 44.68212890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-2.mp4",
+                "video_results": 0.9555257161458334,
+                "video_sim": 45.865234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-3.mp4",
+                "video_results": 0.9651387532552084,
+                "video_sim": 46.32666015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-4.mp4",
+                "video_results": 0.9601898193359375,
+                "video_sim": 46.089111328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-0.mp4",
+                "video_results": 0.9618784586588541,
+                "video_sim": 46.170166015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-1.mp4",
+                "video_results": 0.9804331461588541,
+                "video_sim": 47.060791015625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-2.mp4",
+                "video_results": 0.96600341796875,
+                "video_sim": 46.3681640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-3.mp4",
+                "video_results": 0.9767405192057291,
+                "video_sim": 46.883544921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-4.mp4",
+                "video_results": 0.97467041015625,
+                "video_sim": 46.7841796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-0.mp4",
+                "video_results": 0.9365081787109375,
+                "video_sim": 44.952392578125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-1.mp4",
+                "video_results": 0.94903564453125,
+                "video_sim": 45.5537109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-2.mp4",
+                "video_results": 0.9490152994791666,
+                "video_sim": 45.552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-3.mp4",
+                "video_results": 0.9515889485677084,
+                "video_sim": 45.67626953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-4.mp4",
+                "video_results": 0.9383595784505209,
+                "video_sim": 45.041259765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-0.mp4",
+                "video_results": 0.9790496826171875,
+                "video_sim": 46.994384765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-1.mp4",
+                "video_results": 0.9539133707682291,
+                "video_sim": 45.787841796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-2.mp4",
+                "video_results": 0.9305318196614584,
+                "video_sim": 44.66552734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-3.mp4",
+                "video_results": 0.9525909423828125,
+                "video_sim": 45.724365234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-4.mp4",
+                "video_results": 0.9562327067057291,
+                "video_sim": 45.899169921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-0.mp4",
+                "video_results": 0.9416656494140625,
+                "video_sim": 45.199951171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-1.mp4",
+                "video_results": 0.964385986328125,
+                "video_sim": 46.29052734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-2.mp4",
+                "video_results": 0.9443410237630209,
+                "video_sim": 45.328369140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-3.mp4",
+                "video_results": 0.9720662434895834,
+                "video_sim": 46.6591796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-4.mp4",
+                "video_results": 0.9316660563151041,
+                "video_sim": 44.719970703125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-0.mp4",
+                "video_results": 0.9531911214192709,
+                "video_sim": 45.753173828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-1.mp4",
+                "video_results": 0.9329376220703125,
+                "video_sim": 44.781005859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-2.mp4",
+                "video_results": 0.9516042073567709,
+                "video_sim": 45.677001953125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-3.mp4",
+                "video_results": 0.9313100179036459,
+                "video_sim": 44.702880859375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-4.mp4",
+                "video_results": 0.9118550618489584,
+                "video_sim": 43.76904296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-0.mp4",
+                "video_results": 0.9135691324869791,
+                "video_sim": 43.851318359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-1.mp4",
+                "video_results": 0.9587300618489584,
+                "video_sim": 46.01904296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-2.mp4",
+                "video_results": 0.9886576334635416,
+                "video_sim": 47.45556640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-3.mp4",
+                "video_results": 0.9789632161458334,
+                "video_sim": 46.990234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-4.mp4",
+                "video_results": 0.9667154947916666,
+                "video_sim": 46.40234375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-0.mp4",
+                "video_results": 0.9727274576822916,
+                "video_sim": 46.69091796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-1.mp4",
+                "video_results": 0.9567159016927084,
+                "video_sim": 45.92236328125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-2.mp4",
+                "video_results": 0.9345855712890625,
+                "video_sim": 44.860107421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-3.mp4",
+                "video_results": 0.9332682291666666,
+                "video_sim": 44.796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-4.mp4",
+                "video_results": 0.9408467610677084,
+                "video_sim": 45.16064453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-0.mp4",
+                "video_results": 0.9381561279296875,
+                "video_sim": 45.031494140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-1.mp4",
+                "video_results": 0.9192148844401041,
+                "video_sim": 44.122314453125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-2.mp4",
+                "video_results": 0.9371744791666666,
+                "video_sim": 44.984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-3.mp4",
+                "video_results": 0.9352976481119791,
+                "video_sim": 44.894287109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-4.mp4",
+                "video_results": 0.9476674397786459,
+                "video_sim": 45.488037109375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-0.mp4",
+                "video_results": 0.96368408203125,
+                "video_sim": 46.2568359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-1.mp4",
+                "video_results": 0.9272511800130209,
+                "video_sim": 44.508056640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-2.mp4",
+                "video_results": 0.9670817057291666,
+                "video_sim": 46.419921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-3.mp4",
+                "video_results": 0.9354807535807291,
+                "video_sim": 44.903076171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-4.mp4",
+                "video_results": 0.9395039876302084,
+                "video_sim": 45.09619140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-0.mp4",
+                "video_results": 0.94830322265625,
+                "video_sim": 45.5185546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-1.mp4",
+                "video_results": 0.9554697672526041,
+                "video_sim": 45.862548828125,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-2.mp4",
+                "video_results": 0.9529368082682291,
+                "video_sim": 45.740966796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-3.mp4",
+                "video_results": 0.9570821126302084,
+                "video_sim": 45.93994140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-4.mp4",
+                "video_results": 0.9595133463541666,
+                "video_sim": 46.056640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-0.mp4",
+                "video_results": 0.9471995035807291,
+                "video_sim": 45.465576171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-1.mp4",
+                "video_results": 0.96600341796875,
+                "video_sim": 46.3681640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-2.mp4",
+                "video_results": 0.9202524820963541,
+                "video_sim": 44.172119140625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-3.mp4",
+                "video_results": 0.9667307535807291,
+                "video_sim": 46.403076171875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-4.mp4",
+                "video_results": 0.9272511800130209,
+                "video_sim": 44.508056640625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-0.mp4",
+                "video_results": 0.9771830240885416,
+                "video_sim": 46.90478515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-1.mp4",
+                "video_results": 0.9780222574869791,
+                "video_sim": 46.945068359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-2.mp4",
+                "video_results": 0.9574127197265625,
+                "video_sim": 45.955810546875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-3.mp4",
+                "video_results": 0.9380391438802084,
+                "video_sim": 45.02587890625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-4.mp4",
+                "video_results": 0.98486328125,
+                "video_sim": 47.2734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-0.mp4",
+                "video_results": 0.9573109944661459,
+                "video_sim": 45.950927734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-1.mp4",
+                "video_results": 0.9587961832682291,
+                "video_sim": 46.022216796875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-2.mp4",
+                "video_results": 0.9748026529947916,
+                "video_sim": 46.79052734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-3.mp4",
+                "video_results": 0.9815724690755209,
+                "video_sim": 47.115478515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-4.mp4",
+                "video_results": 0.9809926350911459,
+                "video_sim": 47.087646484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-0.mp4",
+                "video_results": 0.9725290934244791,
+                "video_sim": 46.681396484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-1.mp4",
+                "video_results": 0.9778798421223959,
+                "video_sim": 46.938232421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-2.mp4",
+                "video_results": 0.9202016194661459,
+                "video_sim": 44.169677734375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-3.mp4",
+                "video_results": 0.9689890543619791,
+                "video_sim": 46.511474609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-4.mp4",
+                "video_results": 0.9793904622395834,
+                "video_sim": 47.0107421875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-0.mp4",
+                "video_results": 0.9547882080078125,
+                "video_sim": 45.829833984375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-1.mp4",
+                "video_results": 0.9780832926432291,
+                "video_sim": 46.947998046875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-2.mp4",
+                "video_results": 0.9686686197916666,
+                "video_sim": 46.49609375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-3.mp4",
+                "video_results": 0.9370574951171875,
+                "video_sim": 44.978759765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-4.mp4",
+                "video_results": 0.926849365234375,
+                "video_sim": 44.48876953125,
+                "cnt_per_video": 48
+            }
+        ]
+    ]
+}

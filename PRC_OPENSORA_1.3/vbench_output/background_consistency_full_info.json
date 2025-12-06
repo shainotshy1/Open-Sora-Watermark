@@ -1,0 +1,1808 @@
+[
+    {
+        "prompt_en": "alley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "alley"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/alley-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "amusement park",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "amusement park"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/amusement park-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "aquarium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "aquarium"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/aquarium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "arch",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "arch"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/arch-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "art gallery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "art gallery"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/art gallery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bathroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bathroom"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bathroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bakery shop",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bakery shop"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bakery shop-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ballroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ballroom"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ballroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bar",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bar"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bar-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "barn",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "barn"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/barn-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "basement",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "basement"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/basement-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "beach",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "beach"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/beach-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bedroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bedroom"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bedroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bridge",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bridge"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/bridge-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "botanical garden",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "botanical garden"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/botanical garden-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cafeteria",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cafeteria"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cafeteria-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campsite",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campsite"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campsite-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campus",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campus"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/campus-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "carrousel",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "carrousel"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/carrousel-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "castle",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "castle"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/castle-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cemetery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cemetery"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cemetery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "classroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "classroom"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/classroom-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cliff",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cliff"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/cliff-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "crosswalk",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "crosswalk"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/crosswalk-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "construction site",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "construction site"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/construction site-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "corridor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "corridor"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/corridor-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "courtyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "courtyard"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/courtyard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "desert",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "desert"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/desert-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "downtown",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "downtown"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/downtown-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "driveway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "driveway"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/driveway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "farm",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "farm"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/farm-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "food court",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "food court"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/food court-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "football field",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "football field"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/football field-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "forest road",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "forest road"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/forest road-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "fountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "fountain"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/fountain-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "gas station",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "gas station"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/gas station-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "glacier",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "glacier"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/glacier-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "golf course",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "golf course"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/golf course-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor gymnasium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor gymnasium"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor gymnasium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "harbor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "harbor"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/harbor-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "highway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "highway"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/highway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "hospital",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "hospital"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/hospital-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "house",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "house"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/house-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "iceberg",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "iceberg"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/iceberg-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "industrial area",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "industrial area"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/industrial area-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "jail cell",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "jail cell"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/jail cell-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "junkyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "junkyard"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/junkyard-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "kitchen",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "kitchen"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/kitchen-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor library",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor library"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor library-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "lighthouse",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "lighthouse"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/lighthouse-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "laboratory",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "laboratory"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/laboratory-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mansion",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mansion"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mansion-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "marsh",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "marsh"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/marsh-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mountain"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/mountain-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor movie theater",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor movie theater"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor movie theater-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor museum"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor museum-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "music studio",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "music studio"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/music studio-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "nursery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "nursery"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/nursery-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ocean",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ocean"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ocean-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "office",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "office"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/office-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "palace",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "palace"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/palace-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "parking lot",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "parking lot"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/parking lot-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "pharmacy",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "pharmacy"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/pharmacy-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "phone booth",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "phone booth"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/phone booth-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "raceway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "raceway"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/raceway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "restaurant",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "restaurant"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/restaurant-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "river",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "river"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/river-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "science museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "science museum"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/science museum-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "shower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "shower"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/shower-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ski slope",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ski slope"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/ski slope-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "sky",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "sky"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/sky-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "skyscraper",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "skyscraper"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/skyscraper-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "baseball stadium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "baseball stadium"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/baseball stadium-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "staircase",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "staircase"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/staircase-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "street",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "street"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/street-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "supermarket",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "supermarket"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/supermarket-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor swimming pool",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor swimming pool"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/indoor swimming pool-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "tower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "tower"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/tower-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "outdoor track",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "outdoor track"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/outdoor track-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train railway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train railway"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train railway-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train station platform",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train station platform"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/train station platform-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "underwater coral reef",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "underwater coral reef"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/underwater coral reef-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "valley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "valley"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/valley-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "volcano",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "volcano"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/volcano-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "waterfall",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "waterfall"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/waterfall-4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "windmill",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "windmill"
+                }
+            }
+        },
+        "video_list": [
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-0.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-1.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-2.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-3.mp4",
+            "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/windmill-4.mp4"
+        ]
+    }
+]

@@ -172,6 +172,8 @@ checkpoints/
 outputs/
 outputs
 samples/
+prc_samples/
+VBench/
 samples
 logs/
 pretrained_models/

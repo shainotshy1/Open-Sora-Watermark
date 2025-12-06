@@ -1,0 +1,1957 @@
+{
+    "color": [
+        0.8506525027678873,
+        [
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bicycle-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bicycle-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bicycle-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bicycle-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bicycle-2.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bicycle-3.mp4",
+                "video_results": 0.9333333333333333,
+                "cur_success_frame_rate": 0.9333333333333333
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bicycle-4.mp4",
+                "video_results": 0.9166666666666666,
+                "cur_success_frame_rate": 0.9166666666666666
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bicycle-1.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bicycle-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bicycle-3.mp4",
+                "video_results": 0.8181818181818182,
+                "cur_success_frame_rate": 0.8181818181818182
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bicycle-1.mp4",
+                "video_results": 0.8571428571428571,
+                "cur_success_frame_rate": 0.8571428571428571
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bicycle-2.mp4",
+                "video_results": 0.5384615384615384,
+                "cur_success_frame_rate": 0.5384615384615384
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bicycle-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bicycle-1.mp4",
+                "video_results": 0.5,
+                "cur_success_frame_rate": 0.5
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bicycle-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bicycle-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bicycle-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bicycle-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bicycle-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bicycle-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bicycle-3.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bicycle-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bicycle-2.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bicycle-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bicycle-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bicycle-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bicycle-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bicycle-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bicycle-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bicycle-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bicycle-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bicycle-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bicycle-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red car-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green car-3.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green car-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue car-4.mp4",
+                "video_results": 0.625,
+                "cur_success_frame_rate": 0.625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow car-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange car-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple car-0.mp4",
+                "video_results": 0.35714285714285715,
+                "cur_success_frame_rate": 0.35714285714285715
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple car-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple car-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink car-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink car-2.mp4",
+                "video_results": 0.1875,
+                "cur_success_frame_rate": 0.1875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink car-3.mp4",
+                "video_results": 0.2,
+                "cur_success_frame_rate": 0.2
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink car-4.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black car-0.mp4",
+                "video_results": 0.0625,
+                "cur_success_frame_rate": 0.0625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black car-1.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black car-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black car-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white car-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white car-1.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white car-2.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white car-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white car-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bird-1.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bird-0.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bird-1.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bird-3.mp4",
+                "video_results": 0.5833333333333334,
+                "cur_success_frame_rate": 0.5833333333333334
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bird-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bird-3.mp4",
+                "video_results": 0.38461538461538464,
+                "cur_success_frame_rate": 0.38461538461538464
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bird-4.mp4",
+                "video_results": 0.375,
+                "cur_success_frame_rate": 0.375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bird-1.mp4",
+                "video_results": 0.9333333333333333,
+                "cur_success_frame_rate": 0.9333333333333333
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bird-3.mp4",
+                "video_results": 0.8461538461538461,
+                "cur_success_frame_rate": 0.8461538461538461
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bird-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bird-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bird-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bird-0.mp4",
+                "video_results": 0.7142857142857143,
+                "cur_success_frame_rate": 0.7142857142857143
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bird-1.mp4",
+                "video_results": 0.06666666666666667,
+                "cur_success_frame_rate": 0.06666666666666667
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bird-3.mp4",
+                "video_results": 0.8125,
+                "cur_success_frame_rate": 0.8125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bird-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bird-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bird-2.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bird-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bird-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bird-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bird-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bird-4.mp4",
+                "video_results": 0.9,
+                "cur_success_frame_rate": 0.9
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black cat-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black cat-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white cat-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white cat-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange cat-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange cat-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange cat-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange cat-3.mp4",
+                "video_results": 0.5625,
+                "cur_success_frame_rate": 0.5625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange cat-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow cat-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow cat-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow cat-3.mp4",
+                "video_results": 0.1111111111111111,
+                "cur_success_frame_rate": 0.1111111111111111
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow cat-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red umbrella-0.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red umbrella-1.mp4",
+                "video_results": 0.5625,
+                "cur_success_frame_rate": 0.5625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green umbrella-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue umbrella-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue umbrella-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow umbrella-2.mp4",
+                "video_results": 0.625,
+                "cur_success_frame_rate": 0.625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow umbrella-3.mp4",
+                "video_results": 0.1875,
+                "cur_success_frame_rate": 0.1875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange umbrella-0.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange umbrella-2.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink umbrella-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink umbrella-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black umbrella-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black umbrella-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black umbrella-4.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white umbrella-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white umbrella-1.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white umbrella-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white umbrella-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white umbrella-4.mp4",
+                "video_results": 0.7857142857142857,
+                "cur_success_frame_rate": 0.7857142857142857
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange suitcase-1.mp4",
+                "video_results": 0.875,
+                "cur_success_frame_rate": 0.875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple suitcase-3.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white suitcase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white suitcase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white suitcase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white suitcase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white suitcase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bowl-2.mp4",
+                "video_results": 0.3125,
+                "cur_success_frame_rate": 0.3125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bowl-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink bowl-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bowl-0.mp4",
+                "video_results": 0.8125,
+                "cur_success_frame_rate": 0.8125
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bowl-1.mp4",
+                "video_results": 0.0625,
+                "cur_success_frame_rate": 0.0625
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black bowl-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bowl-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bowl-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bowl-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white bowl-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple chair-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple chair-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black chair-2.mp4",
+                "video_results": 0.2,
+                "cur_success_frame_rate": 0.2
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black chair-3.mp4",
+                "video_results": 0.9375,
+                "cur_success_frame_rate": 0.9375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black chair-4.mp4",
+                "video_results": 0.5,
+                "cur_success_frame_rate": 0.5
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white chair-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white chair-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white chair-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white chair-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white chair-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red clock-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green clock-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green clock-1.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green clock-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue clock-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue clock-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue clock-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow clock-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow clock-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow clock-3.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow clock-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange clock-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange clock-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange clock-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple clock-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple clock-1.mp4",
+                "video_results": 0.4,
+                "cur_success_frame_rate": 0.4
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple clock-4.mp4",
+                "video_results": 0.16666666666666666,
+                "cur_success_frame_rate": 0.16666666666666666
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink clock-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink clock-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink clock-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black clock-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white clock-0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white clock-1.mp4",
+                "video_results": 0.75,
+                "cur_success_frame_rate": 0.75
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white clock-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white clock-4.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a red vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a green vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue vase-2.mp4",
+                "video_results": 0.4375,
+                "cur_success_frame_rate": 0.4375
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a blue vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow vase-1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a yellow vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange vase-2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/an orange vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a purple vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a pink vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a black vase-4.mp4",
+                "video_results": 0.1875,
+                "cur_success_frame_rate": 0.1875
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white vase-0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white vase-1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white vase-2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white vase-3.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/vbench_samples/a white vase-4.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            }
+        ]
+    ]
+}

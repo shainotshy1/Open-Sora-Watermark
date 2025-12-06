@@ -56,7 +56,8 @@ echo "QUAD_FRAMES=${QUAD_FRAMES}"
 echo "OCT_FRAMES=${OCT_FRAMES}"
 
 # CMD="python scripts/inference.py configs/opensora-v1-2/inference/sample.py"
-CMD="python scripts/inference.py configs/opensora-v1-3/inference/t2v.py"
+# Note this command is hardcoded for PRC sampling!
+CMD="PYTHONPATH=. python scripts/inference.py configs/opensora-v1-3/inference/t2v.py --num-frames 49 --resolution 360p --aspect-ratio 9:16 --prc True"
 # CMD_I2V="python scripts/inference_i2v.py configs/opensora-v1-3/inference/v2v.py"
 
 if [[ $CKPT == *"ema"* ]]; then
@@ -65,7 +66,7 @@ if [[ $CKPT == *"ema"* ]]; then
 else
   CKPT_BASE=$(basename $CKPT)
 fi
-OUTPUT="/mnt/jfs-hdd/sora/samples/samples_${MODEL_NAME}_${CKPT_BASE}"
+OUTPUT="/anvil/scratch/x-sdickman/Open-Sora-Watermark/samples/samples_${MODEL_NAME}_${CKPT_BASE}"
 start=$(date +%s)
 DEFAULT_BS=1
 
@@ -264,43 +265,49 @@ function run_vbench_i2v() {
 
 ### Main
 
-for arg in "$@"; do
-  # image
-  if [[ "$arg" = -1 ]] || [[ "$arg" = --image ]]; then
-    echo "Running image samples..."
-    run_image
-  fi
-  if [[ "$arg" = -2a ]] || [[ "$arg" = --video ]]; then
-    echo "Running video samples a..."
-    run_video_a
-  fi
-  if [[ "$arg" = -2b ]] || [[ "$arg" = --video ]]; then
-    echo "Running video samples b..."
-    run_video_b
-  fi
-  if [[ "$arg" = -2c ]] || [[ "$arg" = --video ]]; then
-    echo "Running video samples c..."
-    run_video_c
-  fi
-  # vbench
-  if [[ "$arg" = -4 ]] || [[ "$arg" = --vbench ]]; then
-    echo "Running vbench samples ..."
-    if [ -z ${VBENCH_START_INDEX} ] || [ -z ${VBENCH_END_INDEX} ]; then
-      echo "need to set start_index and end_index"
-    else
-      run_vbench $VBENCH_START_INDEX $VBENCH_END_INDEX
-    fi
-  fi
-  # vbench-i2v
-  if [[ "$arg" = -5 ]] || [[ "$arg" = --vbench-i2v ]]; then
-    echo "Running vbench-i2v samples ..."
-    if [ -z ${VBENCH_START_INDEX} ] || [ -z ${VBENCH_END_INDEX} ]; then
-      echo "need to set start_index and end_index"
-    else
-      run_vbench_i2v $VBENCH_START_INDEX $VBENCH_END_INDEX
-    fi
-  fi
-done
+# Here, for simplicity, I hardcode the evaluation command
+eval $CMD --save-dir ${OUTPUT}_vbench --prompt-as-path --num-sample 5 \
+      --prompt-path assets/texts/VBench/all_dimension.txt \
+      --batch-size $VBENCH_BS --start-index $1 --end-index $2
+      # --image-size $VBENCH_H $VBENCH_W \
+
+# for arg in "$@"; do
+#   # image
+#   if [[ "$arg" = -1 ]] || [[ "$arg" = --image ]]; then
+#     echo "Running image samples..."
+#     run_image
+#   fi
+#   if [[ "$arg" = -2a ]] || [[ "$arg" = --video ]]; then
+#     echo "Running video samples a..."
+#     run_video_a
+#   fi
+#   if [[ "$arg" = -2b ]] || [[ "$arg" = --video ]]; then
+#     echo "Running video samples b..."
+#     run_video_b
+#   fi
+#   if [[ "$arg" = -2c ]] || [[ "$arg" = --video ]]; then
+#     echo "Running video samples c..."
+#     run_video_c
+#   fi
+#   # vbench
+#   if [[ "$arg" = -4 ]] || [[ "$arg" = --vbench ]]; then
+#     echo "Running vbench samples ..."
+#     if [ -z ${VBENCH_START_INDEX} ] || [ -z ${VBENCH_END_INDEX} ]; then
+#       echo "need to set start_index and end_index"
+#     else
+#       run_vbench $VBENCH_START_INDEX $VBENCH_END_INDEX
+#     fi
+#   fi
+#   # vbench-i2v
+#   if [[ "$arg" = -5 ]] || [[ "$arg" = --vbench-i2v ]]; then
+#     echo "Running vbench-i2v samples ..."
+#     if [ -z ${VBENCH_START_INDEX} ] || [ -z ${VBENCH_END_INDEX} ]; then
+#       echo "need to set start_index and end_index"
+#     else
+#       run_vbench_i2v $VBENCH_START_INDEX $VBENCH_END_INDEX
+#     fi
+#   fi
+# done
 
 ### End
 
