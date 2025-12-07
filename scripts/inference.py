@@ -155,6 +155,7 @@ def main():
     os.makedirs(save_dir, exist_ok=True)
     sample_name = cfg.get("sample_name", None)
     prompt_as_path = cfg.get("prompt_as_path", False)
+    index_as_dir = cfg.get("index_as_dir", False)
 
     use_sdedit = cfg.get("use_sdedit", False)
     use_oscillation_guidance_for_text = cfg.get("use_oscillation_guidance_for_text", None)
@@ -192,6 +193,7 @@ def main():
                     prompt_as_path=prompt_as_path,
                     num_sample=num_sample,
                     k=k,
+                    index_as_dir=index_as_dir,
                 )
                 for idx in range(len(batch_prompts))
             ]
@@ -294,22 +296,21 @@ def main():
                     print("VAE.out_channels:", vae.out_channels)
                     print("latent_size:", latent_size)
                     n = vae.out_channels * latent_size[0] * latent_size[1] * latent_size[2]
-                    key_dir = "keys"
-                    os.makedirs(key_dir, exist_ok=True)
                     
-                    key_path = f"{key_dir}/prc_key_n_{n}_v2.pkl"
-                    if not os.path.exists(key_path):
-                        print(f"Generating PRC key for n={n}...")
-                        encoding_key, decoding_key = KeyGen(n, false_positive_rate=1e-6)
-                        with open(key_path, "wb") as f:
-                            pickle.dump((encoding_key, decoding_key), f)
-                    else:
-                        print(f"Loading PRC key for n={n} from {key_path}...")
-                        with open(key_path, "rb") as f:
-                            encoding_key, decoding_key = pickle.load(f)
-
                     if len(batch_prompts) > 1:
                         raise NotImplementedError("PRC example code supports batch_size=1 for now")
+                    
+                    # Save key in same directory as video with matching name
+                    save_dir_for_key = os.path.dirname(save_paths[0])
+                    os.makedirs(save_dir_for_key, exist_ok=True)
+                    base_name = os.path.splitext(os.path.basename(save_paths[0]))[0]
+                    key_path = os.path.join(save_dir_for_key, f"{base_name}_key.pkl")
+                    
+                    print(f"Generating new PRC key for n={n}...")
+                    print(f"Key will be saved to: {key_path}")
+                    encoding_key, decoding_key = KeyGen(n, false_positive_rate=1e-6)
+                    with open(key_path, "wb") as f:
+                        pickle.dump((encoding_key, decoding_key), f)
 
                     prc_codeword = Encode(encoding_key)
                     z_flat = prc_gaussians.sample(prc_codeword)

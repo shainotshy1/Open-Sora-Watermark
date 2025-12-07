@@ -62,11 +62,20 @@ def get_save_path_name(
     prompt_as_path=False,  # use prompt as path
     num_sample=1,  # number of samples to generate for one prompt
     k=None,  # kth sample
+    index_as_dir=False,  # put index in subdirectory instead of filename
 ):
     if sample_name is None:
         sample_name = "" if prompt_as_path else "sample"
-    sample_name_suffix = prompt if prompt_as_path else f"_{sample_idx:04d}"
-    save_path = os.path.join(save_dir, f"{sample_name}{sample_name_suffix}")
+    
+    if index_as_dir and not prompt_as_path:
+        # Put index as directory: save_dir/0000/sample_name_0000
+        sample_dir = os.path.join(save_dir, f"{sample_idx:04d}")
+        os.makedirs(sample_dir, exist_ok=True)
+        save_path = os.path.join(sample_dir, f"{sample_name}_{sample_idx:04d}")
+    else:
+        sample_name_suffix = prompt if prompt_as_path else f"_{sample_idx:04d}"
+        save_path = os.path.join(save_dir, f"{sample_name}{sample_name_suffix}")
+    
     if num_sample != 1:
         save_path = f"{save_path}-{k}"
     return save_path

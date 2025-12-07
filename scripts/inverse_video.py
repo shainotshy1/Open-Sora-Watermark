@@ -3,6 +3,7 @@ import torch # type: ignore
 import time
 import pickle
 import os
+import glob
 from tqdm import tqdm
 
 from opensora.datasets.utils import read_from_path
@@ -41,7 +42,9 @@ def main():
     # === Parse Arguments === # 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("video_paths", nargs="+", help="Target video file path(s)")
+    parser.add_argument("video_paths", nargs="*", help="Target video file path(s)")
+    parser.add_argument("--video-list", type=str, default=None, help="Text file with video paths (one per line)")
+    parser.add_argument("--video-dir", type=str, default=None, help="Directory to scan for .mp4 files")
     parser.add_argument("--config", required=False, default="configs/opensora-v1-3/inference/t2v.py", type=str, help="Model configuration python file")
     parser.add_argument("--caption", required=False, default="", help="Caption for input video")
     parser.add_argument("--savepath", required=False, default="samples/samples/regeneration.mp4", help="Output path for regeneration from predicted noise")
@@ -49,6 +52,16 @@ def main():
     parser.add_argument("--output", required=False, default="decoded.txt", help="Output file for decoded results")
 
     args = parser.parse_args()
+    
+    # Load video paths from file or directory if provided
+    if args.video_dir:
+        args.video_paths = sorted(glob.glob(os.path.join(args.video_dir, "*.mp4")))
+    elif args.video_list:
+        with open(args.video_list, 'r') as f:
+            args.video_paths = [line.strip() for line in f if line.strip()]
+    
+    if not args.video_paths:
+        parser.error("No video paths provided. Use positional args, --video-list, or --video-dir")
 
     cfg = read_config(args.config)
 
@@ -111,17 +124,40 @@ def main():
     )
     text_encoder.y_embedder = model.y_embedder  # type: ignore # HACK: for classifier-free guidance
 
-    # === Load PRC keys === #
-    n = vae.out_channels * latent_size[0] * latent_size[1] * latent_size[2]
-    print(f"Loading PRC key (n={n})")
-    key_dir = "keys"
-    key_path = f"{key_dir}/prc_key_n_{n}_v2.pkl"
-    with open(key_path, "rb") as f:
-        encoding_key, decoding_key = pickle.load(f)
+    # === Check already processed videos (for resume support) === #
+    already_done = set()
+    if os.path.exists(args.output):
+        with open(args.output, 'r') as f:
+            for line in f:
+                if line.strip() and not line.startswith('filename'):
+                    already_done.add(line.split(',')[0])
+        print(f"Resuming: {len(already_done)} videos already processed")
+    else:
+        with open(args.output, 'w') as f:
+            f.write('filename,detection,detection_margin,decoding,combined,test_bits_correct,test_bits_total\n')
 
     # === Process each video === #
-    results = []
     for v_path in tqdm(args.video_paths, desc="Processing videos"):
+        filename = os.path.basename(v_path)
+        if filename in already_done:
+            print(f"Skipping {filename} (already done)")
+            continue
+        
+        # === Load PRC key from video's directory === #
+        video_dir = os.path.dirname(v_path)
+        
+        # Find any *_key.pkl file in the directory
+        key_files = glob.glob(os.path.join(video_dir, "*_key.pkl"))
+        
+        if not key_files:
+            print(f"WARNING: No key file found in {video_dir}, skipping {filename}")
+            continue
+        
+        key_path = key_files[0]  # Use first key found (should only be one per directory)
+        print(f"Loading PRC key from: {key_path}")
+        with open(key_path, "rb") as f:
+            encoding_key, decoding_key = pickle.load(f)
+        
         # Load video
         v = read_from_path(v_path, image_size, transform_name="resize_crop")
         actual_frames = v.shape[1]
@@ -150,19 +186,17 @@ def main():
         # Decode PRC code from noise latent
         var = 1.5
         reversed_prc = prc_gaussians.recover_posteriors(pred_init_latent.to(torch.float64).flatten().cpu(), variances=float(var)).flatten().cpu()
-        detection_result = Detect(decoding_key, reversed_prc)
-        decoding_result = (Decode(decoding_key, reversed_prc) is not None)
+        detection_margin = Detect(decoding_key, reversed_prc)
+        detection_result = detection_margin >= 0
+        decoded_msg, num_test_bits_correct, total_test_bits = Decode(decoding_key, reversed_prc)
+        decoding_result = (decoded_msg is not None)
         combined_result = detection_result or decoding_result
         
-        filename = os.path.basename(v_path)
-        results.append((filename, detection_result, decoding_result, combined_result))
-        print(f'{filename}: Detection={detection_result}, Decoding={decoding_result}, Combined={combined_result}')
-
-    # === Write results === #
-    with open(args.output, 'w') as f:
-        f.write('filename,detection,decoding,combined\n')
-        for filename, detection, decoding, combined in results:
-            f.write(f'{filename},{detection},{decoding},{combined}\n')
+        print(f'{filename}: Detection={detection_result}, DetectionMargin={detection_margin}, Decoding={decoding_result}, Combined={combined_result}, TestBits={num_test_bits_correct}/{total_test_bits}')
+        
+        # Write result immediately
+        with open(args.output, 'a') as f:
+            f.write(f'{filename},{detection_result},{detection_margin},{decoding_result},{combined_result},{num_test_bits_correct},{total_test_bits}\n')
 
     print(f'Decoded results saved to {args.output}')
 

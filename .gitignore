@@ -173,6 +173,8 @@ outputs/
 outputs
 samples/
 samples
+results_2/
+results/
 logs/
 pretrained_models/
 pretrained_models

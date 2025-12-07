@@ -4,7 +4,7 @@ frame_interval = 1
 resolution = "360p"
 aspect_ratio = "9:16"
 
-save_dir = "./samples/samples/"
+save_dir = "./samples/"
 multi_resolution = "STDiT2"
 seed = 42
 batch_size = 1

@@ -55,6 +55,7 @@ def parse_args(training=False):
         parser.add_argument("--end-index", default=None, type=int, help="end index for sample name")
         parser.add_argument("--num-sample", default=None, type=int, help="number of samples to generate for one prompt")
         parser.add_argument("--prompt-as-path", action="store_true", help="use prompt as path to save samples")
+        parser.add_argument("--index-as-dir", default=None, type=str2bool, help="save samples in subdirectories named by index")
         parser.add_argument("--verbose", default=None, type=int, help="verbose level")
 
         # prompt
